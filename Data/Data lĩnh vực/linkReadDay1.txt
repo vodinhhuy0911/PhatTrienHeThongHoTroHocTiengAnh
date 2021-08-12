@@ -1,0 +1,6 @@
+https://www.theguardian.com
+../data/url/theguardian/link/commentisfree.txt
+../data/url/theguardian/link/culture.txt
+../data/url/theguardian/link/international.txt
+../data/url/theguardian/link/lifeandstyle.txt
+../data/url/theguardian/link/sport.txt

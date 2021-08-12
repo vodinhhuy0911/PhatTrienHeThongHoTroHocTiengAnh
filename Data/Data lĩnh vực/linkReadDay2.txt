@@ -1,0 +1,7 @@
+https://www.latimes.com
+../data/url/latimes/link/entertainment.txt
+../data/url/latimes/link/eviroment.txt
+../data/url/latimes/link/food.txt
+../data/url/latimes/link/opinion.txt
+../data/url/latimes/link/sports.txt
+../data/url/latimes/link/world.txt

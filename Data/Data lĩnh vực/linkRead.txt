@@ -1,0 +1,16 @@
+https://www.nationalgeographic.com
+../data/url/nationalgeographic/link/animals.txt
+../data/url/nationalgeographic/link/environment.txt
+../data/url/nationalgeographic/link/history.txt
+../data/url/nationalgeographic/link/science.txt
+../data/url/nationalgeographic/link/travel.txt
+https://www.newscientist.com
+../data/url/newscientist/link/environment.txt
+../data/url/newscientist/link/health.txt
+../data/url/newscientist/link/news.txt
+../data/url/newscientist/link/physics.txt
+../data/url/newscientist/link/space.txt
+../data/url/newscientist/link/technology.txt
+https://www.the-scientist.com
+../data/url/the-scientist/link/magazine.txt
+../data/url/the-scientist/link/news-opinion.txt

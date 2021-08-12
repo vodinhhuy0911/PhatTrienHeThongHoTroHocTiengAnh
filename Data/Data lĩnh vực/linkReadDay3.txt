@@ -1,0 +1,4 @@
+https://www.bbc.com
+../data/url/bbc/link/sport.txt
+../data/url/bbc/link/news.txt
+../data/url/bbc/link/travel.txt
