@@ -70,9 +70,9 @@ def getLinkDay(day,path):
 
 
 getLinkDay("","linkRead.txt")
-getLinkDay("2021/08/16","linkReadDay.txt")
-getLinkDay("2021/aug/16","linkReadDay1.txt")
-getLinkDay("2021-08-16","linkReadDay2.txt")
-getLinkDay("20210816","linkReadDay3.txt")
+getLinkDay("2021/08/17","linkReadDay.txt")
+getLinkDay("2021/aug/17","linkReadDay1.txt")
+getLinkDay("2021-08-17","linkReadDay2.txt")
+getLinkDay("20210817","linkReadDay3.txt")
 getLinkDay("html","linkReadHtml.txt")
 
