@@ -1,0 +1,240 @@
+SAN FRANCISCO — On a recent Wednesday evening, 60 people gathered in a virtual conference room to discuss start-up investments. Among them were a professional poker player from Arizona, an allergist in California and a kombucha maker from Tennessee. All were members of Angel Squad, a six-month $2,500 program that aims to help people break into the clubby world of venture capital as individual investors, known as “angels.”
+
+The group listened as Eric Bahn, the instructor, rattled off anecdotes and advice from the front lines of start-up investing. “The most important question when you are an early stage investor is: What happens if things go right?” he said, stepping back from his desk and raising his hands for emphasis.
+
+Caroline Howard, 29, one of the founders of Walker Brothers Beverage, a kombucha company in Nashville, said the class taught her how to better evaluate deals. “I think it’s so fun to see companies when they’re so young and have a germ of an idea and back them,” she said.
+
+Founded in January, Angel Squad is one of several ways that people from outside Silicon Valley’s investing elite are now joining the ranks of angel investors. The influx — which includes art curators, dentists, influencers and retirees — is transforming the way that start-ups raise money, upending the pecking order in venture capital and pushing a niche corner of the investing world toward mass adoption.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Is your phone’s home screen jampacked with pages of apps in random order — including some apps you never use? Sure, you can always find the program you need with search or the voice assistant, or by browsing the app drawer. But app access can be quicker if you have your icons arranged in a useful order and you take advantage of shortcut menus and widgets. Here’s a guide to streamlining your home screen.
+
+Take Inventory
+
+First, audit your collection. While tidying up, you can also reclaim storage space.
+
+On many recent Android phones, including models by Google and Samsung, you can see all your apps listed alphabetically by swiping up from the bottom of the screen to open the app drawer. (Depending on the Android version and carrier, you may have an apps button instead, and icons for installed apps may not automatically appear on the home screen.)
+
+Image The Android app drawer, far left, and the iOS App Library screen show a complete list of apps installed on your phone. Credit... Google; Apple
+
+In iOS 14 and later, apps are automatically sorted by category in the App Library, which you can see by swiping repeatedly to the left until you get to the last screen. Tap the search field at the top to see the full list of installed apps.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Bots have a bad rep. Shady manipulators have used these automated computer programs on social networks to spread conspiracy theories, spew vitriol and scam people. But when bots are programmed to do good, they can help us accomplish the seemingly impossible.
+
+Take buying a PlayStation 5. Since the Sony console was released in November, it has been hard to find in physical and online stores, partly because a global chip shortage has slowed down manufacturing of all kinds of tech products, from graphics cards to automobiles.
+
+As a result, when the new PlayStation appears online on sites like Amazon, Target and Best Buy, it sells out in minutes — sometimes seconds. Sony has said that demand for the PlayStation 5 is unprecedented and that supply constraints could continue through next year. That makes the odds of buying the console feel as random as winning the lottery.
+
+Someone is buying them, though, and the lucky few I’ve talked to relied on some form of automation.
+
+“It’s really difficult to get one without any bots,” said SV Yesvanth, an information security engineer who wrote a web script to automatically scan online stores for available consoles after his own struggles to buy one in Hyderabad, India. After he succeeded in buying a PlayStation, he said, he connected his bot to a Twitter account and helped hundreds of other eager shoppers.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Mr. Heredia has been volunteering since last October, when he stumbled across NYC Mesh online when researching alternatives to commercial providers. After setting up a router using NYC Mesh’s instructions, he attended a socially distanced meet-up in a Brooklyn park. A half-dozen installs later, Mr. Heredia got his own cable-crimping set and became an install leader.
+
+He also helps maintain the network, particularly the hub on top of a NYCHA building in Bed-Stuy that supplies his internet. A few months back, the power went out at Mr. Heredia’s hub. It turned out the building’s custodians were repairing the elevator and had shut off some breakers. Mr. Heredia (who is a full-time student with a part-time job) sped over on his motorcycle with a long extension cord and battery packs, and had it working again an hour and 15 minutes after the first complaint came in on the NYC Mesh Slack channel. “All the people I know in the Mesh who participate actively have a similar relationship,” he said about his own vested interest in maintaining the network.
+
+But the people who use the free hot spots in public housing or the family shelter in Brownsville don’t know how to fix the equipment or where to request a repair or report an outage on Slack. Indeed, all but one of the hallway routers in the shelter have been out for the last couple of months, and a number of new ones at the Bed-Stuy tower keep going offline. There’s an issue with the devices that Mr. Heredia and other volunteers have spent hours trying to figure out.
+
+The future for Mesh relies on cooperation with members, but it’s a hard sell in certain neighborhoods. First, not all renters can put routers on the roofs of their buildings. Some people are suspicious of “free internet” and won’t use the hot spots. NYC Mesh volunteers acknowledge that they need community members from the underserved neighborhoods to take the same ownership over their hubs as Mr. Heredia does over his.
+
+Brownsville’s newest member, Andre Cambridge, might be up for the task. A week after his installation, Mr. Cambridge told me that his speeds had been good and that he hadn’t experienced any problems. His mother even suggested that they should up their monthly donation from $20 to support the cause.
+
+He said he was excited but also wary about Mesh’s future. He had seen other community solutions get up and running only to be squashed by regulation and corporate interests. He suggested that if the government really wanted to help, it should fund training for volunteer installs, subsidize hardware costs and pay for network education so community members would understand the hubs they would be stewarding.
+
+In the meantime, Mr. Cambridge said he was prepared to do his part to take care of his new hub. “If you had a community well back in the day, you had to maintain it,” he said. “Eventually I’m going to be like, ‘What’s the network map on this, what’s my upkeep look like?’ I’m part of a system, so I have to be. I’m going to advocate for my neighbor. ‘Hey, would you like to join the system too?’”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Why should I care?
+
+Tech products are among our most expensive household purchases, and their prices keep climbing. Not long ago, the price of a high-end smartphone was $650. Today, new Apple and Samsung phones start at $700 and $800.
+
+The average household would save $330 a year if it repaired products rather than replaced them, which adds up to $40 billion nationwide, according to a study by the U.S. Public Interest Research Group.
+
+By prolonging the life of your gadgets, you would also put more use into the energy, metals, plastics and human labor invested in creating the product.
+
+Why don’t more people repair their tech?
+
+There are several barriers to repairing consumer electronics that can make it intimidating.
+
+Basic repairs, like replacing a shattered screen or a depleted battery, are not simple. Modern gadgets are so thin and tightly glued together that special tools are usually needed to pry them open. It’s also not straightforward to buy genuine parts — you can’t go to the Apple or Samsung website to order a replacement screen or battery, for example.
+
+Fixing basic components is also becoming increasingly impractical for unauthorized repair shops, especially with Apple phones. Many important parts inside newer iPhones, including cameras, batteries and screens, require proprietary software tools to finish the job, independent fixers said.
+
+Going to the Apple and Microsoft retail stores and authorized repair shops is a simple option, but the costs there can be so high that you might be persuaded to just buy a new device. When I took my wife’s iPhone to an Apple Store this year, I was quoted $280 to replace a broken touch-screen, about 40 percent of the price of a brand-new iPhone. I turned to another route instead.
+
+Why won’t unauthorized fixers become authorized?
+
+Independent fixers get access to tools, parts and instructions for repairs when they enroll in partnerships with tech companies to become authorized service centers. But Kyle Wiens, chief executive of iFixit, which publishes free instruction manuals for people to restore their gadgets, said many independent fixers were turned off by the contractual terms to become authorized.
+
+One requirement to be an authorized Apple repair center involves collecting detailed service records, including customer names, product serial numbers and mailing addresses. This information must be provided to Apple in the event of an audit to verify that repairs are being done properly. Even if a repair provider terminates its agreement with Apple, it must agree to continue to share this information with the company for two years.
+
+There is also the issue of price. Shakeel Taiyab, an independent fixer in South San Francisco, said he charged lower prices to customers because he obtained authentic parts from channels such as electronics refurbishers who extract working components from defective gadgets. (He charged me $180 to fix my wife’s iPhone screen, undercutting the Apple store by $100.)
+
+Mr. Taiyab said that if he became an authorized provider, he would follow the rules, which might result in raising prices for his customers — something he said he didn’t want to do.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The people here are not Hollywood stars or billionaire tech entrepreneurs who might own Ferraris and private jets. But they are well off. The median household income in the area exceeds $165,000, and half the homes are valued at more than $1 million. Eight in 10 residents have at least an undergraduate degree. As early buyers with high incomes, they can easily take advantage of the federal E.V. tax credit.
+
+The incentives are, in effect, “subsidizing my luxury,” said Mr. Teglia, who also has solar panels on his home. The Model 3s he owns sell for about $40,000 before government incentives.
+
+Dr. Jack Hsiao, an obstetrician-gynecologist, had avoided buying an electric vehicle for fear that he wouldn’t be able to drive very far before having to plug in — a phenomenon known as range anxiety. But his sister, who moved to California from Texas and bought solar panels and a Tesla, persuaded their father, who lives with Dr. Hsiao, 54, to buy one, too. Following his family, Dr. Hsiao bought a Tesla and solar panels.
+
+“Gas prices have just gone through the roof, and so, given that I’ve got the solar panels, it cost me next to nothing to charge,” he said. “For me, it was just a perfect fit.”
+
+Elaine Borseth, a retired chiropractor, is another convert. Before she bought a Model S, she had never spent more than $20,000 on a car. But after seeing several of the big, sporty sedans on the road, she drove one about seven years ago. “I thought they were sleek and sexy,” said Ms. Borseth, who now runs the Electric Vehicle Association of San Diego.
+
+“It’s almost one of those cases where the more you see, it just kind of breeds upon itself,” she said to explain why her neighborhood has so many electric cars.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@NEW DELHI — India’s Supreme Court on Friday ruled in favor of Amazon’s bid to block a multibillion-dollar deal that would give the country’s richest man control over an Indian supermarket chain, in a boost to the American retailing giant’s ambitions toward India’s nearly $900 billion retail market.
+
+Amazon is embroiled in a bitter, politically fraught clash with Reliance Industries, one of the biggest and most powerful companies in India. It essentially pits two of the world’s richest people against each other: Reliance’s chairman, Mukesh Ambani, a business tycoon known for his affinity for Prime Minister Narendra Modi, and Jeff Bezos, the chairman of Amazon, who for many personifies the overwhelming wealth and power of the technology industry.
+
+Both Amazon and Reliance Industries want a piece of India’s fast-growing technology and e-commerce market, which is worth billions of dollars. At the heart of the dispute is Future Group, which owns supermarkets, snack shops and fashion outlets in some of India’s biggest cities. The company’s brick-and-mortar footprint is a prize for any company that wants to sell India’s middle-class consumers everything from vegetables to smartphones.
+
+With its ruling on Friday, legal experts said, the Supreme Court gave foreign businesses support for their ventures in India, where the government has limited foreign investment in a number of industries.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A vintage Super Mario Bros. video game has sold for $2 million, a collectibles company announced Friday, breaking the record for the most expensive video game sale that was set just weeks ago.
+
+The 1985 game, made for Nintendo’s original console, has never been opened — a rarity for old video games, said Rob Petrozzo, one of the founders of the collectibles site, Rally. An anonymous buyer purchased it, he said.
+
+Demand for collectibles has surged during the pandemic, along with many other forms of investment, as people stuck at home look for ways to spend their money. People have spent millions of dollars for pieces of digital artwork — known as nonfungible tokens — like internet memes and video highlights of National Basketball Association players. Physical goods, including old cars and sports cards, have soared in value over the last year, too.
+
+But video games are still a nascent market, Mr. Petrozzo said. Interest in buying old games has picked up some in recent years, but many vintage games have been opened and played, causing them to lose value, he said, and investors are often intimidated from entering an industry they’re unfamiliar with.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Sales are falling fast at Huawei, the Chinese tech titan that American officials have deemed a national security threat and sought doggedly to undermine.
+
+The company said on Friday that its shrinking smartphone business caused overall revenue for the first half of the year to slide by nearly 30 percent from last year, to about $50 billion. Its net profit margin, however, was 9.8 percent, up from 9.2 percent last year.
+
+As a closely held company, Huawei is not legally obligated to report its earnings. It publishes only a small selection of financial results, and not on a quarterly basis.
+
+“Our aim is to survive, and to do so sustainably,” Eric Xu, one of Huawei’s deputy chairmen, said in a statement on Friday.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Automakers expect the government to provide substantial help.
+
+“Federal and state governments — and all stakeholders — will need to provide significant support for consumers, infrastructure and innovation,” the Alliance for Automotive Innovation, an industry group, said in a statement.
+
+The U.S. government has previously played a critical role in kicking off the transition to electric vehicles. In January 2010, the Obama administration granted Tesla a $465 million loan to help the company develop and manufacture its Model S sedan.
+
+“Without that $465 million, the Model S would have never happened,” Peter Rawlinson, who was chief engineer for that car and is now the chief executive of Lucid, said in an interview in June. “Tesla probably wouldn’t exist today. Really, the U.S. government made Tesla the success that it is today. That is a hell of an achievement.”
+
+Companies that are already building electric cars in significant numbers have an advantage, Mr. Wells of Cardiff Business School said, because they have collected years of data on how owners use those vehicles. That includes not only Tesla but Nissan, whose battery-powered Leaf has been on the market for more than a decade, and G.M., which introduced the Bolt in 2016 and made the EV1 back in 1996.
+
+G.M. is building two battery plants in the United States and has said it aims to phase out production of gasoline-powered vehicles by 2035. The company says it will spend $35 billion in the five years ending in 2025 to develop electric models.
+
+“We are very committed to reducing greenhouse gas emissions and moving to an all-electric future as soon as possible,” the company’s chief executive, Mary T. Barra, said on Wednesday.
+
+Ford this year started selling an electric sport utility vehicle, the Mustang Mach-E, which has done well and been praised by critics. It plans to add an electric Transit van this year and an electric F-150 pickup truck next year.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Many energy and climate experts believe that the United States needs to urgently increase its use of solar power to address climate change. Yet, electric utilities and companies that install rooftop solar panels have long been at loggerheads about how that power is produced and who should make money from it.
+
+Now, the country’s largest rooftop solar installer has decided to hire its chief executive from the utility industry. The company, Sunrun, said on Thursday that it had hired Mary Powell, who formerly ran Green Mountain Power, which is based in Vermont.
+
+Sunrun said it had picked Ms. Powell to help the company extend even further into the kinds of businesses that until recently were the domain of regulated electric utilities like Consolidated Edison in New York and Pacific Gas & Electric in California. Instead of just installing panels on homes, Sunrun has been trying to become a new kind of energy company that supplies solar and storage products to customers while allowing them to sell power to the electric grid.
+
+The appointment signals that Sunrun and other rooftop solar companies intend to play a bigger role in the transition to renewable energy that President Biden hopes to accelerate with tens of billions of dollars in new federal spending, including in the bipartisan infrastructure bill that the Senate is considering now. Sunrun and Ms. Powell have pushed for greater investment in rooftop solar, batteries and other local sources of power, rather than the approach favored by large utilities, which want to build thousands of miles of new power lines and large wind and solar farms in remote locations.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BlackRock, the world’s largest money manager, and Wells Fargo, one of the nation’s largest banks, said in internal memos to U.S. employees that they would postpone their mandatory return plans until early October, from September. Both attributed the changes to worrisome new developments in the spread of Covid-19 in the United States.
+
+“We are following the Delta variant in different parts of the country and closely monitoring the latest guidance from public health officials and local government authorities that encourages people to wear masks in indoor public spaces in areas of substantial or high transmission,” BlackRock’s chief operating officer, Rob Goldstein, and other officials wrote in their memo to employees. “We know this raises concerns about returning to the office.”
+
+To better accommodate workers, BlackRock said, it will allow only vaccinated employees in its offices until Oct. 1, rather than the original date of Sept. 8. The firm has also re-established mask mandates for workers currently in the office in cities including Atlanta and Washington, where local authorities now require indoor masking.
+
+When BlackRock employees return to their offices in larger numbers, the money manager will introduce a hybrid policy whereby employees can work three days per week in the office and two from a remote location.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Some of the start-ups and consortia are building powerful lasers to generate fusion reactions, and others are exploring new kinds of fuels. Most of them are professing a similar vision — that they will be able to prove that their technology can produce competitively priced electricity this decade and build commercial plants to feed electricity into power grids soon after 2030.
+
+Commonwealth’s new magnet, which will be one of the world’s most powerful, will be a crucial component in a compact nuclear fusion reactor known as a Tokamak, a design that uses magnetic forces to compress plasma until it is hotter than the sun. The reactor looks like a doughnut-shaped jar surrounded by magnets. Soviet physicists originally envisioned it in the 1950s.
+
+Commonwealth Fusion executives claim that the magnet is a significant technology breakthrough that will make Tokamak designs commercially viable for the first time. They say they are not yet ready to test their reactor prototype, but the researchers are finishing the magnet and hope it will be workable by 2025.
+
+The scientists in Massachusetts hope that this month they will demonstrate a magnetic field that is almost twice the strength of the magnets planned for use by a global consortium of the European Union and six other countries that is assembling a reactor in Cadarache, France. The consortium hopes to begin generating electricity at the site in 2035.
+
+“If you go to a much higher magnetic field, you can go to a much smaller size,” said Bob Mumgaard, a plasma physicist who is chief executive of Commonwealth. He said that if it was possible to build a device just one-fiftieth the size of the planned reactor in France — which will be roughly as big as a soccer field — it would be able to generate almost as much power.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@In the past few weeks, the vast majority of the most highly engaged social media posts containing coronavirus misinformation were from people who had risen to prominence by questioning the vaccines in the past year.
+
+In July, the right-wing commentator Candace Owens jumped on the misstatement from Britain’s scientific adviser. “This is shocking!” she wrote. “60% of people being admitted to the hospital with #COVID19 in England have had two doses of a coronavirus vaccine, according to the government’s chief scientific adviser.”
+
+After the scientific adviser, Patrick Vallance, corrected himself, Ms. Owens added the correct information at the bottom of her Facebook post. But the post was liked or shared over 62,000 times — two-thirds of its total interactions — in the three hours before her update, a New York Times analysis found. In all, the rumor collected 142,000 likes and shares on Facebook, most of them coming from Ms. Owens’s post, according to a report by the Virality Project, a consortium of misinformation researchers from outfits like the Stanford Internet Observatory and Graphika.
+
+When reached for comment, Ms. Owens said in an email: “Unfortunately, I’m not interested in The New York Times. The people that follow me don’t take your hit pieces seriously.”
+
+Also in July, Thomas Renz, a lawyer, appeared in a video claiming that 45,000 people had died from coronavirus vaccines. The claim, since debunked, relies on unverified information from the Vaccine Adverse Event Reporting System, a government database. The baseless claim had been included in a lawsuit that Mr. Renz filed on behalf of an anonymous “whistle-blower,” in coordination with America’s Frontline Doctors — a right-wing group that spread misinformation about the pandemic in the past.
+
+Mr. Renz’s video got more than 19,000 views on Bitchute. The unfounded claim was repeated by the top Spanish-language Telegram channels, Facebook groups and the conspiracy website Infowars, collecting over 120,000 views across the platforms, according to the Virality Project.
+
+In an email, Mr. Renz said his practice had “performed the due diligence necessary” to believe in the accuracy of the allegations in the lawsuit he had filed. “We actually do not believe that the Biden administration is responsible for this, rather we believe that President Biden, like President Trump before him, was misled by the same group of conflicted bureaucrats,” Mr. Renz said.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Google says it plans additional privacy measures to protect teenage users on YouTube and its search engine, becoming the latest technology giant to adopt tougher standards in the face of criticism that companies are not doing enough to protect children.
+
+In a blog post on Tuesday, Google announced that videos uploaded to YouTube by users 13 to 17 years old would be private by default, allowing the content to be seen only by the users and people they designate.
+
+Google also will start to allow anyone under 18 years old, or a parent or guardian, to request the removal of that minor’s images from Google Image search results, the company said. It is unclear whether this process will be easy and responsive, considering Google’s historical reluctance to remove items from search results.
+
+In addition, Google said it would turn off location history for all users younger than 18 and eliminate the option for them to turn it back on.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Twitter on Tuesday suspended Representative Marjorie Taylor Greene, Republican of Georgia, from its service for seven days after she posted that the Food and Drug Administration should not give the coronavirus vaccines full approval and that the vaccines were “failing.”
+
+The company said this was Ms. Greene’s fourth “strike,” which means that under its rules she can be permanently barred if she violates Twitter’s coronavirus misinformation policy again. The company issued her third strike less than a month ago.
+
+On Monday evening, Ms. Greene said on Twitter, “The FDA should not approve the covid vaccines.” She said there were too many reports of infection and spread of the coronavirus among vaccinated people, and that the vaccines were “failing” and “do not reduce the spread of the virus & neither do masks.”
+
+The Centers for Disease Control and Prevention’s current guidance states, “Covid-19 vaccines are effective at protecting you from getting sick.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@“We’ve engaged with Facebook since the transition on this issue,” said Mike Gwin, a White House spokesman, “and we’ve made clear to them when they haven’t lived up to our, or their own, standards and have actively elevated content on their platforms that misleads the American people.”
+
+Facebook has pushed back strongly against the White House’s criticism, accusing the administration in public of scapegoating the company for the administration’s failure to reach its vaccination goals. Andy Stone, a spokesman for Facebook, said the White House hadn’t given the company enough credit for promoting the vaccine. He said the social network had been working with the White House for “many months” to get people vaccinated, introducing features like prominent links to vaccine clinics.
+
+“We remove Covid-related content that breaks our rules and continue to link to authoritative health information on all Covid-related posts,” Mr. Stone said.
+
+Mr. Gwin said the administration needed the help of not just Facebook but also other tech platforms, elected leaders and media outlets to spread accurate information about the vaccine. But aggressively condemning prominent TV personalities on certain outlets, such as Fox News, could risk alienating some viewers and making them less likely to get vaccinated, administration officials say.
+
+The White House believes that Facebook, which also owns Instagram and WhatsApp, emerged as particularly problematic, some people close to the administration said. Human rights advocates and election officials have had similar complaints about the company’s handling of misinformation in recent years, saying executives point to steps taken to share factual information but avoid responsibility for the falsehoods spread widely on its services.
+
+Mr. Biden’s frustrations with Facebook began before the pandemic. His team sparred with the company during his presidential campaign over its decision not to fact-check political ads, especially after groups supporting Donald J. Trump ran ads with false claims about Mr. Biden’s interactions with Ukrainian officials. At one point during the campaign, Mr. Biden described the company’s chief executive as a “real problem,” and added that “I’ve never been a big Zuckerberg fan.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@As we all put more of our photos, documents and videos online, how much of that data really belongs to us anymore?
+
+That’s the question many are now pondering because of a change coming to iPhones. The debate has implications for online privacy and government surveillance and underlines how the storage of our digital data has changed over time, raising concerns about the ways we should conduct ourselves technologically.
+
+But I’m getting ahead of myself. Let me back up.
+
+The hubbub began last week when Apple introduced a software tool for iPhones to flag cases of child sex abuse. That seems good, right? The tool will be included in Apple’s next mobile software update this fall. It works by scanning an iPhone for code linked to a database of known child pornography when photos from the device are uploaded to iCloud, Apple’s online storage service. Once there are a certain number of matches, an Apple employee reviews the photos before informing the National Center for Missing and Exploited Children.
+
+But some cybersecurity experts countered that the content-flagging system was invasive and infringed on people’s privacy. They warned that Apple was creating a precedent that made it simple for surveillance-heavy countries like China to pass laws that could require the company to use the technology for other purposes, such as scanning for political images that are unfavorable to an authoritarian government.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Times Insider explains who we are and what we do, and delivers behind-the-scenes insights into how our journalism comes together.
+
+At the top of a New York Times article online that gives explanations to frequently asked questions about Covid-19 vaccines, readers can type in any query that comes to mind. “Am I eligible?” “Can I take Tylenol before I get vaccinated?” “How will we know when things are getting better?” A search tool returns the most relevant answer. It’s a little like Google, except all of the results have been reported by Times journalists.
+
+The tool, which uses machine learning to most accurately infer what readers are asking, is a project of The Times’s research and development group. A constantly evolving department at The Times that has existed in its current form since 2016, the group continually looks for ways that technology can elevate journalism.
+
+In June, the R&D team updated its website to make it easier to share its experimental projects and its newsroom collaborations with fellow technologists, journalists and academics.
+
+While “research and development” might evoke images of locked offices full of analysts and inventors secretly building futuristic prototypes, the reality is a bit different. Members of the 35-person team of technologists, designers, producers and strategists work closely with the newsroom involving technologies that are either already in use for other mediums, such as gaming, or are expected to be soon.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@LOS ANGELES — California regulators voted Wednesday to require builders to include solar power and battery storage in many new commercial structures as well as high-rise residential projects. It is the latest initiative in the state’s vigorous efforts to hasten a transition from fossil fuels to alternative energy sources.
+
+The five-member California Energy Commission approved the proposal unanimously. It will now be taken up by the state’s Building Standards Commission, which is expected to include it in an overall revision of the building code in December.
+
+The energy plan, which would go into effect on Jan. 1, 2023, also calls for new homes to be wired in ways that ease and even encourage conversion of natural-gas heating and appliances to electric sources.
+
+“The future we’re trying to build together is a future beyond fossil fuels,” David Hochschild, the chair of the Energy Commission, said ahead of the agency’s vote. “Big changes require everyone to play a role. We all have a role in building this future.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@YouTube on Tuesday removed a video by Senator Rand Paul of Kentucky for the second time and suspended him from publishing for a week after he posted a video that disputed the effectiveness of wearing masks to limit the spread of the coronavirus.
+
+A YouTube representative said the Republican senator’s claims in the three-minute video had violated the company’s policy on Covid-19 medical misinformation. The company policy bans videos that spread a wide variety of misinformation, including “claims that masks do not play a role in preventing the contraction or transmission of Covid-19.”
+
+“We apply our policies consistently across the platform, regardless of speaker or political views, and we make exceptions for videos that have additional context such as countervailing views from local health authorities,” the representative said in a statement.
+
+In the video, Mr. Paul says: “Most of the masks you get over the counter don’t work. They don’t prevent infection.” Later in the video, he adds, “Trying to shape human behavior isn’t the same as following the actual science, which tells us that cloth masks don’t work.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Snopes, which has long presented itself as the internet’s premier fact-checking resource, has retracted 60 articles after a BuzzFeed News investigation found that the site’s co-founder plagiarized from news outlets as part of a strategy intended to scoop up web traffic.
+
+“As you can imagine, our staff are gutted and appalled by this,” Vinny Green, the Snopes chief operating officer, said on Friday. He said the Snopes editorial team was conducting a review to understand just how many articles written by David Mikkelson, the site’s co-founder and chief executive, featured content plagiarized from other news sites.
+
+As of Friday afternoon, the team had found 60, he said. By Friday morning, dozens of articles had been removed from the site, with pages that formerly featured those articles now showing the word “retracted” and an explanation that “some or all of its content was taken from other sources without proper attribution.” Ads have been removed from these articles, according to Mr. Green.
+
+Mr. Mikkelson, who owns 50 percent of Snopes Media Group, will continue to be Snopes’s chief executive, but his ability to publish articles has been revoked, Mr. Green said.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Times Insider explains who we are and what we do, and delivers behind-the-scenes insights into how our journalism comes together.
+
+Newsletters have a history even longer than newspapers, and email is several decades older than the web. Despite this lengthy pedigree, email newsletters are having a very buzzy moment — and here at The New York Times, we’re striving to bring even more depth, ambition and scale to our lineup.
+
+This summer marks 20 years since The Times published its first newsletters. We started off in 2001 covering technology, books and finance, among other topics. Some of those newsletters are still thriving, in various incarnations, as part of a portfolio that reaches some 15 million people every week — a number that has surged over the last two years. Flagships such as The Morning and DealBook serve as a destination for readers and a crucial gateway and guide to our journalism, while offering original reporting and analysis.
+
+As the editorial director of Times newsletters, I’ve been thinking with my colleagues about what comes next. How can we break new ground in the inbox and deliver sophisticated coverage of the topics that our readers care about most?
+
+Newsletters are already a core part of our subscriber experience: Nearly half of our subscribers engage with a newsletter every week. This week, we’re pulling back the curtain on a new kind of Times journalism: more than 15 newsletters that will be available only to our subscribers. The goal is to continue developing the inbox as a destination for our journalism, and to add value to a Times subscription.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Marissa Meizz, 23, was out to dinner with a friend in the East Village in mid-May when her phone started buzzing. She tried to silence it, but the texts kept coming. They all wanted to know: Had she seen the TikTok video?
+
+She clicked the link and a young man appeared onscreen. “If your name’s Marissa,” he said, “please listen up.” He said he had just overheard some of her friends say they were deliberately choosing to hold a birthday party when she was out of town that weekend. “You need to know,” he said. “TikTok, help me find Marissa.”
+
+Ms. Meizz’s heart sank. After getting in touch with the man who posted the video, which amassed more than 14 million views, she confirmed that she was the Marissa in question and that it was her friends who had conspired to exclude her from their party.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@That’s the context in which Red Ventures — a company that backed its way into media after specializing in online marketing — makes sense.
+
+Mr. Elias grew up in San Juan hearing stories of his late grandfather, a Lebanese immigrant who, according to family lore, built a huge produce importing business but lost it because he hadn’t paid his taxes. It recently occurred to him, he said, that he has spent his career trying to restore the family name.
+
+He arrived at Boston College, in 1986, a semester late because he’d been trying to make a local professional basketball team, the Leones de Ponce, and speaking what he described as broken English. From there, he earned an M.B.A. at Harvard Business School. In 2000, he and a friend, Dan Feldstein, who is now the chief marketing officer of Red Ventures, started a business built on the notion of driving online shoppers to physical stores. It was a “terrible idea,” Mr. Elias said, and they quickly ran out of money. They spent the next few years digging out and repaying their investors, among them their more successful Harvard Business School classmates.
+
+Mr. Elias and Mr. Feldstein sold the business to management in 2005 and started again under the name Red Ventures, becoming pioneers in that era’s efforts to link digital data and real world commerce. They entered the business of selling subscriptions for DirecTV and burglar alarms for ADT Security. Along the way, they figured out how to integrate online marketing and old-fashioned telemarketing — and they got very good at search engine optimization.
+
+Other tricks were more ingenious. For instance, they purchased more than a million toll-free phone numbers, and each visitor to their marketing website was shown a different one. So when prospective customers called, Red Ventures knew exactly what they had been looking at on the site, which gave the agents what they needed to make personalized sales pitches. This was a pretty high-tech form of digital surveillance in those more innocent times. As the company grew and the market shifted, its founders realized that the technological know-how they had developed had itself become a commodity and that they needed to develop their own brands, not just sell others’.
+
+In 2015, Red Ventures raised $250 million, which went toward its $1.4 billion purchase of Bankrate, a personal finance company that helps people comparison shop for financial products (and earns a commission on each sale). That acquisition included The Points Guy, a site devoted to elucidating airline mileage programs and credit card deals. The Points Guy had built a profitable business earning commissions whenever people signed up for credit cards they had read about on the site — often in rave reviews of high-end cards.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

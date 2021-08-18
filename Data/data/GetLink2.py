@@ -3,6 +3,24 @@ from urllib.request import Request, urlopen
 import os
 #day
 
+def checkLink(link,paper):
+    if paper == "https://www.nationalgeographic.com" or paper == "https://www.newscientist.com":
+        if link.find("article") != -1:
+            return True
+        else:
+            return False
+    elif paper == "https://vietnamnews.vn":
+        if link.find(".html") != -1:
+            return True
+        else:
+            return False
+    elif paper == "https://www.dailymail.co.uk":
+        if link.find("article") != -1 and link.find("html") != -1 and link.find("#comment") == -1 and link.find("#video") == -1:
+            return True
+        else:
+            return False
+    else:
+        return True
 
 def getLinkDay(day,path):
     fR = open(path,"r")
@@ -36,12 +54,13 @@ def getLinkDay(day,path):
                 for link in links:
                     try:
                         if (len(link) > 50 and link.find(day) != -1):
-                            if (link.find("http") != -1):
-                                print("URL: " + link)
-                                fw.write(link + "\n")
-                            else:
-                                print("URL: " + website + link)
-                                fw.write(website + link + "\n")
+                            if(checkLink(link,linkR) == True):
+                                if (link.find("http") != -1):
+                                    print("URL: " + link)
+                                    fw.write(link + "\n")
+                                else:
+                                    print("URL: " + website + link)
+                                    fw.write(website + link + "\n")
                     except:
                         print()
             fr.close()
@@ -51,9 +70,9 @@ def getLinkDay(day,path):
 
 
 getLinkDay("","linkRead.txt")
-getLinkDay("2021/08/15","linkReadDay.txt")
-getLinkDay("2021/aug/15","linkReadDay1.txt")
-getLinkDay("2021-08-15","linkReadDay2.txt")
-getLinkDay("20210815","linkReadDay3.txt")
+getLinkDay("2021/08/16","linkReadDay.txt")
+getLinkDay("2021/aug/16","linkReadDay1.txt")
+getLinkDay("2021-08-16","linkReadDay2.txt")
+getLinkDay("20210816","linkReadDay3.txt")
 getLinkDay("html","linkReadHtml.txt")
 
