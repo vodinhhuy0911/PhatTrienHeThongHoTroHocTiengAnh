@@ -1,0 +1,1298 @@
+Apple on Monday said that iPhone users’ entire photo libraries will be checked for known child abuse images if they are stored in the online iCloud service.
+
+
+
+The disclosure came in a series of media briefings in which Apple is seeking to dispel alarm over its announcement last week that it will scan users’ phones, tablets and computers for millions of illegal pictures.
+
+
+
+While Google, Microsoft and other technology platforms check uploaded photos or e-mailed attachments against a database of identifiers provided by the National Center for Missing and Exploited Children and other clearing houses, security experts faulted Apple’s plan as more invasive.
+
+
+
+Some said they expected that governments would seek to force the iPhone maker to expand the system to peer into devices for other material.
+
+
+
+In a posting to its Web site on Sunday, Apple said it would fight any such attempts, which can occur in secret courts.
+
+
+
+“We have faced demands to build and deploy government-mandated changes that degrade the privacy of users before, and have steadfastly refused those demands,” Apple wrote. “We will continue to refuse them in the future.”
+
+
+
+In the briefing on Monday, Apple officials said the company’s system, which will roll out this fall with the release of its iOS 15 operating system, will check existing files on a user’s device if users have those photos synched to the company’s storage servers.
+
+
+
+Julie Cordua, chief executive of Thorn, a group that has developed technology to help law enforcement officials detect sex trafficking, said about half of child sexual abuse material is formatted as video.
+
+
+
+Apple’s system does not check videos before they are uploaded to the company’s cloud, but the company said it plans to expand its system in unspecified ways in the future.
+
+
+
+Apple assures that it will resist any government attempts to have the tech giant turn over information unrelated to child abuse. SOPA Images/LightRocket via Gett
+
+Apple has come under international pressure for the low numbers of its reports of abuse material compared with other providers. Some European jurisdictions are debating legislation to hold platforms more accountable for the spread of such material.
+
+
+
+Company executives argued on Monday that on-device checks preserve privacy more than running checks on Apple’s cloud storage directly. Among other things, the architecture of the new system does not tell Apple anything about a user’s content unless a threshold number of images has been surpassed, which then triggers a human review.
+
+
+
+The executives acknowledged that a user could be implicated by malicious actors who win control of a device and remotely install known child abuse material. But they said they expected any such attacks to be very rare and that in any case a review would then look for other signs of criminal hacking.
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Shares of Moderna and BioNTech both skyrocketed on Monday amid growing enthusiasm over technology used in their coronavirus vaccines and its potential to help fight other ailments like cancer and malaria.
+
+Monday’s rally came after BioNTech told investors on an earnings call that it’s pushing forward with plans for human trials for flu and malaria vaccines — as well as for cancer treatments.
+
+The trials will rely on messenger RNA technology, or mRNA — a new type of vaccine used to protect against the coronavirus that may also have the potential to solve challenges in vaccine development for other infectious diseases and cancer.
+
+Both BioNTech and Moderna currently use mRNA technology in their coronavirus vaccines.
+
+Moderna and BioNTech have said that mRNA technology has the potential to treat cancer, malaria and other diseases. Barcroft Media via Getty Images
+
+Shares of Massachussetts-based Moderna soared 17 percent to end the day at $484.47, while Germany’s BioNTech closed 14.9 percent higher at $447.23.
+
+BioNTech also reported stronger-than-expected quarterly results, posting $6.24 billion in second quarter sales compared to analysts expectations of $3.83, according to Investors Business Daily. The company expects to deliver a whopping 2.2 billion doses of its COVID-19 vaccine this year.
+
+The potential to cure ailments that kill millions of humans each year has left investors salivating. BioNTech stock has risen an eye-watering 422 percent since the beginning of 2021, while Moderna stock is up 333 percent, according to MarketWatch data.
+
+The COVID-19 vaccines are the only marketed products commercially available from either company — but Moderna and BioNTech have said that mRNA technology has the potential to treat cancer, malaria and other diseases.
+
+Pfizer, which developed a coronavirus vaccine alongside BioNTech, saw its shares climb a far more modest 1.5 percent on Monday and 24 percent since the beginning of the year. Pfizer is also far more diversified than its peers with a wide slate of commercially available drugs.
+
+In a note shared with The Post, Jefferies managing director Michael Yee said Moderna “continues to trade like the ‘Tesla of Biotech’” — meaning the stock has a massive valuation based on high investor expectations about its future.
+
+Moderna is “an innovation and disruption technology play,” Yee added, due to the company’s mRNA technology having the potential to supplant traditional medical treatments and create new vaccines.
+
+Moderna was added to the S&P 500 index last month, helping to further boost the stock.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DraftKings plans to buy online betting rival Golden Nugget Online Gaming for $1.56 billion, the companies said Monday — sending Golden Nugget’s stock soaring more than 50 percent.
+
+Golden Nugget shares ended the day at $18.50, up an eye-watering 51 percent from the previous day. DraftKings shares ticked up 1.5 percent to $52.36.
+
+If it closes, the all-stock acquisition will give DraftKings — which is primarily known for fantasy sports and sports betting — greater access to casino-style betting, the companies said in a release. Combining the businesses will bring DraftKings more than 5 million new customers and create in $300 million in synergies, the companies added.
+
+The deal has been approved by the boards of both companies and is expected to close in the first quarter of next year.
+
+As part of Monday’s deal, DraftKings will form a new holding company containing both DraftKings and Golden Nugget, which also owns the Landry’s Inc portfolio of restaurants.
+
+Golden Nugget shares were up 51.3 percent on the news. SOPA Images/LightRocket via Gett
+
+Golden Nugget shareholders will receive 0.365 shares of New DraftKings’ stock for each share held under the terms of the deal.
+
+Billionaire Tilman Fertitta, who controls 46 percent of Golden Nugget and also owns the Houston Rockets, will join the new firm’s board and has agreed to hold his shares for at least one year after the merger closes.
+
+DraftKings and Golden Nugget have both benefitted from growing demand for online betting fueled by the pandemic and the loosening of gambling laws across the country.
+
+However, a potential regulatory cloud is hanging over DraftKings’ head, with the announcement coming just days after the company revealed it had received a subpoena from the Securities and Exchange Commission over allegations that it is exposed to an international “black market” and organized crime.
+
+DraftKings and Golden Nugget have both benefitted from growing demand for online betting fueled by the pandemic and the loosening of gambling laws across the country. MediaNews Group via Getty Images
+
+The accusations were first made by short-seller Hindenburg Research, which issued a lengthy report in June on alleged misconduct centering around DraftKings’ 2020 merger with Bulgaria-based SBTech.
+
+The tie-up exposed DraftKings to serious “black market” operations — including SBTech’s track record of operating lucrative illegal gambling businesses in China, Vietnam, Thailand and Iran, according to Hindenburg Research, which is also known for brutal takedowns of companies like Lordstown Motors, Nikola and Clover Health.
+
+In a Friday earnings release, DraftKings told investors that it had received a subpoena from the SEC on July 9 “seeking documents concerning certain of the allegations raised in the Hindenburg Report.”
+
+The Hindenburg report initially sent DraftKings shares plummeting 11 percent to $44.95, but the stock has since surpassed pre-report levels.
+
+DraftKings has denied Hindenburg’s allegations, and the company played down the significance of the SEC subpoena in a statement to The Post.
+
+“It is not uncommon for the SEC to investigate allegations in short-seller reports,” a DraftKings spokesperson said. “The SEC inquiry does not suggest any wrongdoing or agreement with the short-seller allegations, and we intend to cooperate with the SEC inquiry.”
+
+With Post wires
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Samsung Electronics vice chairman Jay Y. Lee, in jail after convictions for bribery, embezzlement and other charges, has qualified for parole and is expected to leave prison this Friday, South Korea’s justice ministry said.
+
+But he still has other serious legal woes.
+
+Prosecutors argue the 2015 $8 billion merger of two Samsung companies — Samsung C&T Corp and Cheil Industries — involved unlawful activities aimed at cementing Lee’s control of the conglomerate.
+
+He was indicted in September 2020, accused of unfair transactions and manipulation of market prices under the Capital Markets Act, breach of trust during the course of business, and false disclosure and accounting fraud under the External Audit Act.
+
+Lee has denied the accusations and his lawyers have argued that the merger and its terms fell within the normal scope of business decisions.
+
+The trial, which began in October, has so far focused on the testimony of one witness, a Samsung Securities employee, as well as internal documents and emails.
+
+It is expected to continue until at least late next year due to the complexities of the case and delays in hearings due to the pandemic.
+
+The South Korean tech giant has regional headquarters in Mountain View, Calif. Getty Images
+
+Legal experts say that if Lee is convicted, he may be sent to jail again. In cases such as these, any sentence, including whether it is suspended or not, will depend on the court’s assessment of how much money a defendant has gained, they say.
+
+In late June, the Seoul Central District Court ordered that Lee should stand trial to answer accusations concerning unlawful use of a sedative.
+
+This was at odds with South Korean prosecutors’ plan to seek a 50 million won ($45,000) fine for the alleged unlawful use.
+
+Lee’s counsel has said the medication was not unlawful as it was part of hospital treatment. In March, an independent panel recommended prosecutors cease investigating Lee over this matter.
+
+The first hearing is expected to be held on Aug 19.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Discover startups, services, products and more from our partner StackCommerce. NY Post may be compensated and/or receive an affiliate commission if you buy through our links.
+
+It’s one of the peskiest questions in a job interview: Are you proficient in Microsoft Excel? And while you probably have fibbed about your skills a time or two, the 2021 Ultimate Microsoft Excel Business Intelligence Certification Bundle can turn you into an Excel expert in this unprecedented job market. This bundle is packed with 12 informative courses filled with 42 hours of instruction, all ready to school you on the advanced Microsoft Excel functions that most people have never even attempted. And right now, all of this information is available for just $44.99, at less than $4 a course.
+
+From data visualization, analysis, formatting, formulas, and more, the 2021 Ultimate Microsoft Excel Business Intelligence Certification Bundle walks you through navigating advanced Excel functions with help from some highly rated and skilled instructors. 4.6- out of 5-star-rated Chris Dutton, a certified Microsoft Excel Expert, walks you through many of the courses, including Microsoft Excel: Advanced Formulas and Functions, a highly rated course that provides hands-on demos. He also teaches Excel Pro Tips: Analytics Tools, which helps you better understand Excel items like forecasting, optimization, and Monte Carlo simulation.
+
+Bryan Hong, an IT Software Developer for over 10 years with a 4.5/5-star instructor rating, has multiple certifications and teaches Financial Modeling for Beginners in Excel in 4 Hours. This course walks you through creating your first financial modeling templates and helps you master this skill after just 4 hours of instruction. And Jordan Goldmeier, an analytics professional with a 4.3/5-star rating, teaches the Advanced Excel Dashboards and Data Visualization Masterclass. You’ll be making Excel dashboards and data visualizations in no time with help from this course, which turns you into a master Excel builder.
+
+Let The 2021 Ultimate Microsoft Excel Business Intelligence Certification Bundle turn you into an Excel whiz. Snag it today for just $44.99.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@He’s “Wild N’ Out” with a bunch of women — and here’s why.
+
+For Nick Cannon, having multiple babies with multiple girlfriends is the father of seven’s way of rebelling against the “Eurocentric” institution of marriage.
+
+“That’s a Eurocentric concept … the idea that you’re supposed to have this one person for the rest of your life,” Cannon, 40, explained Monday on Power 105.1’s “The Breakfast Club.”
+
+“The idea that a man should have one woman,” the host of “The Masked Singer” continued. “We shouldn’t have anything. I have no ownership over this person.”
+
+Cannon — who welcomed his seventh child, the fourth within a year’s time, in June — said that fathering so many kids is not a decision he gets to make.
+
+Cannon with the 10-year-old twins, Monroe (left) and Moroccan, he has with pop diva Mariah Carey. FilmMagic
+
+“Those women, and all women, are the ones that open themselves up and say, ‘I would like to allow this man into my world and I will birth this child,’ ” the California native insisted. “It ain’t my decision. I’m just following suit.”
+
+The former Nickelodeon star welcomed 10-year-old twins, Monroe and Moroccan, with ex-wife and megastar Mariah Carey, 51, in 2011.
+
+Cannon and Bell with their kids on Christmas 2020. Instagram
+
+He has two children — son Golden, 4, and 8-month-old daughter Powerful Queen Cannon — with Miss Guam 2014 pageant winner Brittany Bell, 33.
+
+On June 14, Cannon welcomed twin boys Zion Mixolydian and Zillion Heir with DJ Abby De La Rosa, 29.
+
+De La Rosa with her and Cannon’s twin boys. Instagram
+
+Then, just nine days later, on June 23, he became the father of his fifth son, Zen, with model Alyssa Scott.
+
+And now, Cannon says his aversion to monogamy is rooted in the European history of marriage.
+
+Scott cradling her and Cannon’s newborn boy, Zen. Instagram
+
+“If we’re really talking about how we co-exist and how we populate, it’s about what exchange can we create together,” he said.
+
+“I understand the institution of marriage, but if we go back to what that was about … [it] was to classify property,” he added, referring to the dowry system — the practice of trading a woman into marriage in exchange for money or property that was popularized in England between the 12th and 18th centuries.
+
+The “Wild N’ Out” star said he doesn’t want “ownership” of any of the mothers of his children. The Breakfast Club
+
+“One father gave another man his daughter for land,” Cannon said. “So when you really get to that concept, it’s like, we gotta change this up.”
+
+Thus, his parade of paramours prevails.
+
+“I don’t want ownership over anybody,” the “Love Don’t Cost A Thing” star said. “I don’t have ownership over any of the mothers. We create families in the sense that we created a beautiful entity.”
+
+But it’s unclear whether the leading ladies of his love life are happy about Cannon’s staunch commitment to non-commitment.
+
+“Every woman in my life that I deal with or [have] dealt with … they know how I feel,” he said.
+
+“And it usually is a concept like, I’m not going around like, ‘Who am I gonna impregnate next?’ Nah,” Cannon continued.
+
+“When you really look at how the family infrastructure is designed, the woman is the one that always leads and makes decisions,” he said.
+
+Bell with her and Cannon’s son, Golden, at the park. Instagram
+
+“Everyone is like, ‘How is he convincing these women?’ … But I’m not. I’m the one in the scenario who has to follow suit on what they decide.”
+
+Cannon, who admittedly grew up in an “unorthodox” home in which both of his parents were absent at times, said he’s extremely active in all of his children’s lives.
+
+“For every single one of my kids, I’m at every basketball game, I’m at every martial arts practice,” he said.
+
+“People don’t understand how I do it, but my children are my priority.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@For someone who prides himself on optics, Barack Obama just gave us quite an ugly spectacle.
+
+As the rest of America struggles with uncertain employment status and school reopenings, shifting mask mandates, anxiety over vaccinations and variants, the health of the economy and the citizenry at large, Obama had to go and throw himself a huge, epic, three-day birthday bash on Martha’s Vineyard.
+
+You would think a former president — one who clearly considers himself more intelligent and sensitive than most — would exercise some restraint.
+
+Or at least understand that this was a supremely bad look.
+
+Here were a host of left-leaning eco-warrior celebs, all Obama’s “close friends,” of course, descending on an already understaffed and emotionally depleted Vineyard.
+
+“His birthday party is insane,” one of Obama’s caterers told The Post last week. “What is he thinking?”
+
+Clearly, Obama thought to do whatever he damn well pleased — even after such backlash caused him to effectively cancel his party.
+
+Hundreds descended on Martha’s Vineyard for Obama’s birthday celebration. BACKGRID
+
+“This outdoor event was planned months ago in accordance with all public health guidelines and with COVID safeguards in place,” Obama spokesperson Hannah Hankins told the press last week. “Due to the new spread of the delta variant over the past week, the President and Mrs. Obama have decided to significantly scale back the event to include only family and close friends.”
+
+John Legend and Chrissy Teigen were celebrating former President Barack Obama’s birthday on Martha’s Vineyard. Vladi Luk / BACKGRID
+
+That, we now know, was a lie.
+
+The Obamas hosted hundreds of guests, all free to go unmasked, while their 200 servers were reportedly forced to mask up. The tiny island’s residents, meanwhile, endured “a s—t-show” of traffic and sudden road closures enforced by the Secret Service.
+
+Is there a more disgusting display of elitist “Rules for thee, not for me” than this?
+
+Famously close friend David Axelrod — who sat for a hagiographic, three-part HBO Obama doc that premiered last week, who just called Obama an “apostle of hope” in the Washington Post, and the adviser most responsible for getting Obama elected in the first place — was, according to the New York Times, cut from the guest list.
+
+Yes, David Axelrod was uninvited at the last minute so “close friends” such as H.E.R., former “Real Housewife of Atlanta” Kim Fields, Bradley Cooper and Stephen Colbert — to name but a few — could attend.
+
+That is some cold stuff.
+
+The Obamas hosted hundreds of guests for the birthday bash. Instagram
+
+The uninvited, according to the Times, were “abruptly cut.” It tells you just where the Obamas’ post-presidential priorities are: Hollywood, podcasts, Netflix deals, and socializing with celebrities.
+
+Musician H.E.R. was one of the guests at former President Barack Obama’s 60th birthday party in Martha’s Vineyard. Instagram
+
+There’s not much daylight here between the Obamas and the Markles. Who would have thought?
+
+Consider that Jackie O, the most famous woman of her era, lived a very low-profile life on the Vineyard. Sure, she had an estate, but she did not move about ostentatiously.
+
+Throw a lavish party filled with hundreds of A-listers while America remained gripped by a pandemic?
+
+Jackie would never.
+
+Barack, however, was playing 18 holes with Don Cheadle and getting serenaded by Alicia Keys. He was working it out on the dance floor with Erykah Badu while his guests drank top-shelf liquor and smoked cigars and dined from a menu curated by Questlove.
+
+And the mainstream media cheers this on!
+
+“Even Scaled Back, Barack Obama’s Birthday Bash is the Event of the Season,” said Vanity Fair.
+
+The Obamas’ 200 servers were reportedly forced to mask up. Maciel-Ngre-GLH / BACKGRID
+
+“Danced All Night,” People mag said of Obama. “He Never Stopped Smiling.”
+
+No wonder the vaccine is still politicized. No wonder there remains two Americas, despite Obama’s constant, self-aggrandizing promises to unite us.
+
+On Sunday, Dr. Anthony Fauci went on “Meet the Press” to warn that the Sturgis, SD, motorcycle rally (code for “MAGA crowd”) might be a superspreader event.
+
+Residents faced traffic and sudden road closures due to Obama’s birthday bash. David McGlynn
+
+Then on Monday, a New York Times reporter went on CNN and quoted a Vineyard resident as saying the Obamas were fine because they invited “a sophisticated, vaccinated crowd.”
+
+Nancy Pelosi said she didn’t go to former President Barack Obama’s birthday because she had “other parties” to go to. Maciel-Ngre-GLH / BACKGRID
+
+That says it all. Even Twitter erupted.
+
+“Of course viruses don’t attack sophisticated people, Muffy!” said one.
+
+Perhaps Obama should have winnowed his list down to his close campaign strategists and loyal staffers — those who, according to the Times, were heartbroken to be thrown over for the likes of Chrissy Teigen, famous for little more than her marriage and her cyber-bullying.
+
+These longtime loyalists, the Times said, “generally credit themselves with helping create the Obama legacy that has allowed the former president to settle in so comfortably with the A-list crowd” and all of them had “been looking forward to the reunion after an isolated year.”
+
+Let them eat cake, indeed.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Click to email this to a friend (Opens in new window)
+
+Jessica Alba honestly looks like she’s having a relaxing holiday.
+
+The actress-turned-business maven, 40, was snapped soaking up the sun in Cabo San Lucas, Mexico, along with her husband, Cash Warren, 42, preparing for a day of snorkeling. Both looked fit and tan carting their undersea equipment around the beach.
+
+The pair met in 2004 on the “Fantastic Four” set and tied the knot in May 2008. They share three children: daughters Honor Marie, 13, and Haven Garner, 9, and son Hayes, 3 — none of whom appeared with them on the beach.
+
+Alba carried her flippers and mask to the water. HEM / BACKGRID
+
+Perhaps the two needed some alone time. The “Dark Angel” star recently admitted on Katherine Schwarzenegger’s Instagram show “Before, During, and After Baby” that she has to work to keep the spark in her marriage with Warren alive, copping to feeling like a “roommate” to him.
+
+“It’s all rosy for 2 1/2 years. But then after that, you become roommates,” she explained. “You’re just going through the motions. You have the responsibilities. It’s a lot of, like, checking the boxes, right?”
+
+Alba recently admitted she sometimes views Warren more like a roommate. HEM / BACKGRID
+
+Alba said that initially the couple was diligent about weekly date nights with no talk about kids or responsibilities but “that stops, because of whatever.”
+
+Alba looked ready to dive into the water. HEM / BACKGRID
+
+The Honest Company founder also confessed to sometimes taking Warren for granted.
+
+“We have, like, obviously the friendship, the comfort of, like, ‘You’re not going anywhere,’ and so sometimes you don’t treat those people the best, right? You don’t consider their feelings in the way that you would consider other people’s feelings,” she said. “So that is something that I think is a constant one to work on.”
+
+Cash Warren stares into the sea in Mexico. HEM / BACKGRID
+
+Alba acknowledged that she doesn’t have the answers to a happy marriage.
+
+“If you’ve figured it out in your relationship, let me know,” she joked.
+
+At least the pair’s social life is going strong: They partied all night in Miami in May to celebrate Honest Company’s billion-dollar valuation.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Click to email this to a friend (Opens in new window)
+
+Click to share on Twitter (Opens in new window)
+
+Click to share on Facebook (Opens in new window)
+
+The Cajun chicken wasn’t the only thing that was a little bit spicy at Le Bilboquet on Saturday night.
+
+Claudine De Niro caused a scene at the fancy Hamptons restaurant, we’re told, by confronting a woman who she accused of taking her boyfriend Cuba Gooding Jr.’s phone number.
+
+Sources say that the unnamed woman chatted with the Oscar winner around 11 p.m. at the Sag Harbor eatery, and he gave her his details before she said her goodbyes.
+
+And we’re told that De Niro — who is the ex-wife of Robert De Niro’s son Raphael — later stormed over to where the woman was sitting on a sofa in a hallway and demanded, “Why did you take his number? Don’t you know he’s my boyfriend?”
+
+We’re told that the woman stayed seated next to a pal and barely responded, while De Niro stood over her and continued to berate her for some time.
+
+Sources say that a pal of the woman was sufficiently concerned to move the restaurant’s management to ask Claudine to leave — which, we’re told, De Niro assured the pal that they would not. She was correct, and De Niro eventually walked away by herself and headed into the bathroom.
+
+But a source close to De Niro told us she wasn’t being a jealous girlfriend — it was all about business.
+
+The insider said that both De Niro and her foe are real estate agents and that De Niro was mad that the woman had wanted Gooding’s business — not good lovin’.
+
+“It’s disrespectful, if you know someone is a broker, to go to their [boyfriend] and offer them help with real estate,” they said.
+
+The source also insisted that De Niro wasn’t yelling — though the original source told us she was loud enough to “make a scene.”
+
+Cuba Gooding Jr. and Claudine De Niro Getty Images
+
+It’s not, of course, the first time Gooding’s got mixed up in some trouble with women.
+
+The “Jerry McGuire” star has been charged with six counts of misdemeanor forcible touching and six counts of third-degree sexual abuse stemming from three alleged incidents. He has pleaded not guilty.
+
+It’s also not the first time the pair have made a spectacle at a fancy spot.
+
+Page Six reported in June 2019 that Gooding was spotted at the sceney Bowery Hotel loudly complaining about one of his accusers.
+
+Le Bilboquet didn’t comment.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@NASA’s Perseverance Mars rover has stumbled into an issue during its first sampling attempt.
+
+“#SamplingMars is one of my most complicated tasks. Early pics and data show a successful drill hole, but no sample in the tube–something we’ve never seen in testing on Earth,” the rover’s Twitter account announced on Friday. “Mars keeps surprising us. We’re working through this new challenge.”
+
+In a release from the agency, the Southern California-based Jet Propulsion Laboratory (JPL) which leads the mission wrote that data sent back to Earth after Perseverance’s first rock sampling attempt indicated “no rock was collected.”
+
+The 2,260-pound rover carries 43 titanium sample tubes in its mission to search for interesting rocks and sediment – potentially leading to signs of ancient microbial life on the red planet – and is exploring Jezero Crater: the region where it first landed in February.
+
+“While this is not the ‘hole-in-one’ we hoped for, there is always risk with breaking new ground,” Thomas Zurbuchen, associate administrator of NASA’s Science Mission Directorate in Washington, D.C., said in a statement. “I’m confident we have the right team working this, and we will persevere toward a solution to ensure future success.”
+
+JPL notes that Perseverance’s Sampling and Caching System uses a “hollow coring bit and a percussive drill” at the end of its long robotic arm to extract the samples.
+
+The drill and bit were engaged as planned during its first attempt and the sample tube was processed as was intended.
+
+“One of the steps that occurs after placing a probe into the collection tube is to measure the volume of the sample,” Perseverance surface mission manager Jessica Samuels explained further. “The probe did not encounter the expected resistance that would be there if a sample were inside the tube.”
+
+The Perseverance team is working to create a response team to analyze the data, including snapping close-up shots of the borehole with the robotic arm’s WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera.
+
+The rover is looking at two units in the area containing the crater’s “deepest and most ancient layers of exposed bedrock,” named the “Crater Floor Fractured Rough” and “Séítah.”
+
+While the “Crater Floor Fractured Rough” is on the crater’s floor, “Séítah” has ridges, layered rocks and sand dunes.
+
+A sample tube in Perseverance’s Coring Drill. NASA/JPL-Caltech
+
+“The initial thinking is that the empty tube is more likely a result of the rock target not reacting the way we expected during coring, and less likely a hardware issue with the Sampling and Caching System,” Jennifer Trosper, project manager for Perseverance at JPL, said. “Over the next few days, the team will be spending more time analyzing the data we have, and also acquiring some additional diagnostic data to support understanding the root cause for the empty tube.”
+
+JPL noted that previous NASA missions on Mars have “encountered surprising rock and regolith properties during sample collection and other activities.”
+
+The agency hopes to fill up eight of its sample tubes before Perseverance returns to its landing site and readies to journey to Jezero Crater’s delta region for its second science campaign.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Google has rolled out a new internal calculator to explain potential pay cuts to employees who choose to work remotely — and the early results suggests it will penalize its suburban staffers.
+
+Screenshots obtained by Reuters show that Google employees who previously commuted an hour to Google’s Manhattan offices from nearby Stamford, Conn., for example, would see their salaries slashed by 15 percent if they choose to continue working from home.
+
+By contrast, “Googlers” who live within NYC’s five boroughs and choose to work from home permanently would not see their pay slashed at all.
+
+The screenshots also showed 5 percent and 10 percent differences for commuters living in the Seattle, Boston and San Francisco areas.
+
+
+
+Google is slashing pay by up to 25% for some employees who choose to work remotely forever. SOPA Images/LightRocket via Gett
+
+Google employees who move even farther away from the company’s offices have been warned they could face even harsher pay cuts. A worker who left San Francisco for Lake Tahoe, another expensive area of California, would have their pay cut by a whopping 25 percent.
+
+That would mean an employee with a $150,000 salary would suddenly make less than $112,000 per year.
+
+The calculator states it uses US Census Bureau metropolitan statistical areas, or CBSAs. Stamford, Conn., for example, is not in New York City’s CBSA, even though many people who live there work in New York.
+
+A Google employee who previously commuted the hour from Stamford, Conn., to Manhattan before the pandemic would see their salary slashed by 15 percent if they choose to continue working from home after the pandemic. Michael M. Santiago/Getty Image
+
+News of the Google tool comes amid a broader debate at tech companies about remote work and compensation.
+
+Facebook, Twitter and LinkedIn have all warned employees who plan to leave expensive cities like New York and San Francisco that their pay will be slashed — while smaller tech companies like Reddit and Zillow say they’ll pay the same regardless of where employees live.
+
+Jake Rosenfeld, a sociology professor at Washington University in St. Louis who researches pay determination, said Google’s pay structure raises alarms about who will feel the impacts most acutely, including families.
+
+“What’s clear is that Google doesn’t have to do this,” Rosenfeld told Reuters. “Google has paid these workers at 100 percent of their prior wage, by definition. So it’s not like they can’t afford to pay their workers who choose to work remotely the same that they are used to receiving.”
+
+Google, which has about 140,000 employees worldwide, took in $61.9 billion in revenue during the second quarter of this year alone.
+
+The company did not immediately reply to a request for comment from The Post and did not address the Stamford commuter issue in a statement to Reuters.
+
+“Our compensation packages have always been determined by location, and we always pay at the top of the local market based on where an employee works from,” a Google spokesperson told Reuters.
+
+With Post wires
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Twitter has suspended Rep. Marjorie Taylor Greene’s personal account for one week following another violation of the platform’s rules over a statement about the COVID-19 vaccine, the company said Tuesday.
+
+On Monday, Greene (R-Ga.) tweeted that the Food and Drug Administration “should not approve the covid vaccines.”
+
+Greene said “there are too many reports of infection & spread” of COVID-19 even among those who are vaccinated.
+
+She added that the vaccines “are failing.”
+
+Twitter flagged the tweet as misleading and as a result, locked Greene’s account in “read-only mode for a week.”
+
+“The Tweet you referenced was labeled in line with our COVID-19 misleading information policy. The account will be in read-only mode for a week due to repeated violations of the Twitter Rules,” a spokesperson for the social media company said.
+
+The incident is at least the third time Twitter has penalized Greene for sharing misinformation.
+
+Rep. Marjorie Taylor Greene tweeted that the FDA “should not approve the covid vaccines.” AP
+
+In January, Greene was suspended for 12 hours from Twitter after she posted a tweet questioning the results of the state’s runoff election for Senate.
+
+Then last month, her account was locked in read-only mode again after two of her tweets about the vaccines were deemed misleading.
+
+Marjorie Taylor Greene said “there are too many reports of infection & spread” of COVID-19 even among those who are vaccinated. ZUMAPRESS.com
+
+According to the social media giant’s COVID-19 vaccine misinformation policy unveiled in March, 12-hour suspensions are doled out for second and third violations. A fourth violation results in a week’s suspension, while a fifth strike would lead to a ban.
+
+Violating the COVID-19 policy five or more times can result in a permanent ban.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Aug 10 – Geoengineering science is advancing, but the question remains – should we use it?
+
+The UN climate report released Monday presents a major leap forward in predicting how geoengineering to limit global warming might affect the planet, although scientists said the greatest hurdle remains deciding whether to use the controversial methods.
+
+Geoengineering involves large-scale interventions that shift the climate, generally with an aim of cooling the earth.
+
+The United Nations panel addressed two types of geoengineering in the report – solar radiation management and greenhouse gas removal.
+
+But the report makes no recommendations on whether to use either method. The panel could give guidance on how decisions on geoengineering should be made in another report due in 2022.
+
+Solar radiation management techniques generally control how much sunlight is reflected back out into space, preventing it from heating the earth. read more
+
+Climate models previously focused on how solar radiation management would change the planet’s overall average temperature. But the models run on supercomputers have rapidly become much more sophisticated in predicting variations from the earth’s poles to equator and between hemispheres, said Govindasamy Bala, a lead author of the report from the Indian Institute of Science.
+
+They can also better project how geoengineering could alter the amount of rain and snowfall, he said.
+
+This would allow for more advance uses of multiple forms of solar radiation management at the same time to control for both temperature and precipitation.
+
+For example, humans could spray sulfate aerosols – tiny reflective particles – into the stratosphere 20 to 25 kilometers (12 to 16 miles) above the earth’s surface to reflect more sunlight back into space, which lowers global temperatures.
+
+But sulfate aerosols have the side effect of also lowering average precipitation. A separate method to thin out cirrus clouds in the upper atmosphere could offset the effect and increase precipitation, Bala said.
+
+“The science is there,” Bala said.
+
+“I think the next big question is, do you want to do it? … That involves uncertainty, moral issues, ethical issues and governance,” he said.
+
+That’s because every region would be affected differently. While some regions could gain in an artificially cooler world, others could suffer by, for example, no longer having conditions to grow crops.
+
+He said his personal assessment is that a world that overshoots the Paris Agreement targets of limiting warming to 1.5 to 2 degrees Celsius would be better off using geoengineering. But he is pessimistic the world’s governments could come to agreement on it.
+
+Paulo Artaxo, another lead author and an environmental physicist at University of Sao Paulo, said he interprets the report as still emphasizing caution when it comes to geoengineering.
+
+“Basically the message is more or less the same as (the previous report): The science is not mature enough,” Artaxo said.
+
+“The side effects of any of the known geoengineering techniques can be very significant… Society has to consider if these side effects are too big to try any strategy.”
+
+Carbon removal
+
+While solar radiation management remains on the periphery of climate discussions, carbon dioxide removal has been accepted as a necessary tool for mitigating climate change, said Chris Field, an earth scientist at Stanford University.
+
+“That’s become more clear with the recognition we’re going to need negative emissions…and almost by definition negative emissions have to be through some kind of carbon dioxide removal,” said Field, who was not involved in this IPCC report.
+
+This UN report expressed much higher confidence regarding the use of carbon dioxide removal to help limit rising levels of the greenhouse gas in the atmosphere, said Leticia Cotrim da Cunha, a lead author and oceanographer at Rio de Janeiro State University.
+
+There are a wide variety of methods of greenhouse gas removal including technological solutions like using massive machines to filter carbon dioxide out of the air, or capturing carbon emissions from factories or fossil fuel drilling and injecting it into certain underground rocks to contain it.
+
+Carbon dioxide can also be removed from the atmosphere by using forests or by encouraging plant growth in the ocean.
+
+The report focuses on greenhouse gas removal as a whole without making recommendations on the merits of individual methods, Cunha said.
+
+Greenhouse gas removal cannot solve climate change by itself and must go together with cutting back how much carbon dioxide is being emitted in the first place, she said.
+
+“We can’t go on emitting this much CO2 and just try to remove all the excess CO2 from the atmosphere,” Cunha said.
+
+“We would need an extra planet to put all the CO2.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Elon Musk’s SpaceX is buying a satellite internet startup in a move to bolster its own Starlink internet business, according to regulatory filings.
+
+SpaceX company plans to buy Mountain View, Calif.-based Swarm Technologies, the companies said in a filing with the Federal Communications Commission on Friday.
+
+Swarm’s business model centers around launching small, relatively cheap satellites into orbit that provide internet access to Earthbound customers. The company has 30 employees and has launched 120 satellites satellites so far, according to the Verge.
+
+Musk’s SpaceX runs a similar satellite internet service called Starlink and has launched 1,700 satellites so far. It will absorb Swarm’s satellite and ground station FCC licenses, becoming a fully owned subsidiary of Musk’s company.
+
+In the filing, the companies argued that the FCC should approve the deal because it would strengthen the companies’ “ability to provide innovative satellite services that reach unserved and underserved parts of the world.”
+
+Elon Musk’s SpaceX is acquiring the small-satellite data provider Swarm Technologies, scooping up the startup’s roughly 30 employees and its network of 120 tiny satellites. Paul Hennessy/SOPA Images/LightRocket via Getty Images
+
+“Swarm’s services will benefit from the better capitalization and access to resources available to SpaceX, as well as the synergies associated with acquisition by a provider of satellite design, manufacture, and launch services,” SpaceX and Swarm said. “SpaceX will similarly benefit from access to the intellectual property and expertise developed by the Swarm team, as well as from adding this resourceful and effective team to SpaceX.”
+
+The companies did not disclose the value or detailed terms of the deal in the filing and did not immediately reply to a request for comment.
+
+Swarm — which has raised $27 million from backers like Craft Ventures and Social Capital — was founded in 2016 by former engineers from Google, Apple and NASA.
+
+Swarm was founded in 2016 by former engineers from Google, Apple and NASA. Swarm
+
+The company drew the FCC’s condemnation and paid a $900,000 settlement in 2018 for launching four satellites without regulatory approval, SpaceNews reported.
+
+Under the terms of the settlement, the company was subject to enhanced FCC oversight and agreed to give the regulator pre-launch notices for three years.
+
+Other satellite companies feared at the time that Swarm’s move would lead to heightened regulation of the industry, the outlet reported.
+
+For its part, SpaceX counts the US government among its largest clients. The company has several launch contracts with the Pentagon and last month was awarded a $178 million NASA contract to launch the agency’s first mission focusing on Jupiter’s icy moon Europa.
+
+SpaceX and Swarm first agreed to merge on July 16, according to the filing.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The US Centers for Disease Control and Prevention is sounding the alarm on a rare illness that was previously only seen in tropical climates, particularly South Asia and northern Australia.
+
+Now, two people are dead and two have recovered after being infected with melioidosis — a disease that had never before been detected on contiguous US soil. Melioidosis has now been seen in Georgia, Kansas, Texas and Minnesota, LiveScience reported. The only other known cases of melioidosis in the US were in the Virgin Islands and Puerto Rico in the Caribbean.
+
+None of the four patients claimed to have traveled outside the country prior to becoming sick between March and July of this year.
+
+The CDC “believes the most likely cause is an imported product (such as a food or drink, personal care or cleaning products or medicine) or an ingredient in one of those types of products,” according to the statement released Monday.
+
+Investigators have taken more than 100 samples of soil, water and common products used in and around each patient’s home in order to discover a link between the four cases — but have found no common source thus far. However, genome sequencing of the bacteria has revealed that the four cases are likely somehow related, the CDC added.
+
+About a dozen cases of melioidosis are seen each year in Americans, nearly all of which can be attributed to travel. This is the first time doctors are seeing the illness seemingly originate within the contiguous US.
+
+Caused by the bacterium Burkholderia pseudomallei, melioidosis can take several weeks to set in after exposure to the pathogen. Symptoms include cough and shortness of breath, fatigue, nausea, vomiting, intermittent fever and body rashes, the CDC wrote in a message to physicians on how to spot the illness.
+
+Risk factors for developing the disease include diabetes, liver or kidney disease, chronic lung disease, cancer or another condition that weakens the immune system, the CDC warned.
+
+Melioidosis survivor Lylah Baker, 4, spent a month in intensive care at a Dallas hospital after becoming sick in May, and suffered brain damage as a result. Gofundme
+
+One of the known cases of melioidosis — involving a 4-year-old girl — was recently publicized in Texas. Preschooler Lylah Baker had no known risk factors for the illness when she was sickened in May. Lylah spent a month in the intensive care unit of Children’s Medical Center Dallas, requiring a ventilator and eventually suffering brain damage, according to the Dallas Morning News.
+
+“She was a healthy, typical little girl about to start pre-K in the fall — no underlying health issues previously. I mean just nothing,” Ashley Kennon, the child’s aunt, told the newspaper. “So it was definitely a major surprise to everybody not knowing where [the bacteria] came from.”
+
+Lylah is convalescing at Our Children’s House Dallas.
+
+The CDC is urging doctors to be aware of melioidosis symptoms regardless of their patients’ locations and travels.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Marissa Rohan — the Los Angeles Dodgers ball girl — has been dubbed a “hero” after she tackled a fan who ran onto the field during Sunday’s 6-1 win over the rival Angels.
+
+Rohan, who reps a No. 93 Dodgers jersey on the field, got the job done after a number of security personnel couldn’t catch the intruder. Rohan has worked for the team since 2019, but Sunday’s fan take-down is believed to be her first-ever viral field moment.
+
+Rohan has been reposting messages and support from others to her Instagram Story. She even joked that Sunday was a “rough day at work.”
+
+“Yeah I am not going to stop talking about this lol,” she captioned a news story about her play on Instagram.
+
+The 24-year-old is a senior at Cal State Northridge, pursuing a degree in deaf studies. She is a proud member of Alpha Phi sorority.
+
+Rohan is a former gymnast and softball player, according to past posts on her public Instagram account — where she documents her relationship with boyfriend Justin Fallon, a ticket operations supervisor with the Dodgers.
+
+When she’s not saving the day at Dodger Stadium, Rohan is like any other college student. She enjoys snowboarding, partying in Vegas, snapping the occasional selfie, and hitting the beach with friends.
+
+Bottom line: Don’t try to get past the Dodgers ball girl.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Kevin Nealon isn’t worried about getting canceled.
+
+“I’m pretty woke on all that stuff,” the “Saturday Night Live” alum told Page Six. “I have a 14-year-old [son Gabe with wife Susan Yeagley]. In school, they really teach them well. So anytime I start going astray he says, ‘No, you’re kind of going in the wrong direction.'”
+
+But the 67-year-old comedian allows that he’s never been one to push the envelope in his act.
+
+“I wouldn’t want to offend anybody or insult anybody … My act has always been very appropriate,” he explained.
+
+“I’ve never been a risk-taker as far as that was concerned. I’ve never been one of those edgy, ranting comics who just seemingly say what’s on their mind and sometimes get into trouble.”
+
+Nealon began his career in stand-up, joined “SNL” in 1987 and stayed on for a then-record-breaking nine seasons, playing characters like Mr. Subliminal, the politically incorrect private investigator Frank Gannon and, of course, Franz (of weightlifting duo Hans and Franz) alongside Dana Carvey.
+
+Kevin Nealon and Dana Carvey as “Hans and Franz” on “Saturday Night Live.”
+
+“It was striking gold just to be on that show because I was more of a stand-up than an actor or a sketch player,” he said adding that his favorite thing about being part of “SNL” was working with musical idols like Paul McCartney and James Taylor, who would sometimes stay and play a private mini-concert.
+
+Since leaving “SNL,” Nealon has carved out a steady career in shows like “Weeds,” “Last Man Standing,” and a string of Adam Sandler movies. And in between stand-up appearance, he updates his YouTube series, “Hiking with Kevin,” in which he goes on hikes with various celebs.
+
+Mary Louise Parker and Kevin Nealon in “Weeds”. Randy Tepper/©Showtime
+
+The Connecticut-raised star is currently in the midst of a stand-up tour and says that audiences have been great.
+
+“I was thinking that maybe I got funnier,” he quipped, “but I think people are happy to be out there and more grateful — they appreciate what they have now. They want to enjoy life again.”
+
+Nealon is a talented caricaturist. Instagram
+
+If he decides to quit stand-up, Nealon could very well become a professional artist. He often features his incredible caricatures on social media, explaining that he took a ten-class course via Skype during the COVID-19 lockdown.
+
+His visual prowess spans multiple mediums as well: Nealon has another Instagram solely dedicated to his photos of his wife, “Parks and Rec” alum Susan Yeagley, at different locales throughout the U.S.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The woman who Claudine De Niro berated at Le Bilboquet on Saturday night for getting her boyfriend Cuba Gooding Jr.’s phone number tells us she was “scared” by the incident and feels “traumatized.”
+
+As Page Six previously reported, De Niro —who is the ex-wife of Robert De Niro’s son Raphael — caused a scene at the fancy Hamptons restaurant allegedly yelling at a woman who got the “Jerry Maguire” actor’s digits.
+
+Now we can reveal that the woman at the center of the conflict was Lieba Nesis, a Harvard-educated lawyer and writer. She tells us De Niro was “aggressive” and “harassing [and] berating” her for at least an hour.
+
+Nesis, who runs with the elite Hamptons and New York City social crowd, tells us that she and Gooding Jr. have known each other for seven or eight years.
+
+“Not well, but we always say hello,” she said.
+
+She says the Oscar winner told her at the restaurant that he’s shooting a film in Miami in September and looking for a place to stay, so she told him that she owns property there that was going to be empty while he was in town. He put his digits in her phone to follow up, Nesis says.
+
+But De Niro saw the exchange go down and lost it.
+
+“His girlfriend goes, ‘Oh my God, what are you doing? That’s my boyfriend! You can’t take down the number,’ and she’s screaming ‘What the f-ck are you doing!” Nesis tells us. “So I started to explain and she was like, ‘You better stop doing that. That’s my boyfriend.”
+
+Lieba Nesis. Patrick McMullan via Getty Image
+
+“She was going on and on so I walked into the other room and thought, ‘Ok, this will simmer down. I come back in and she’s pointing at me and screaming across the room, ‘You better get out of here. You better leave this place.’ Everyone is staring at me.”
+
+“She wasn’t screaming at the top of her lungs,” she added, “but it was very intimidating to me.”
+
+“I really was scared,” she said, “I am not going to fight. I wasn’t expecting to go out and get in a fight. I am spending thousands a weekend to go to the Hamptons and get away from negative energy, I don’t want to do drama. I was like, I’m not going to engage and hopefully she will calm down but she didn’t.”
+
+Nesis says she went into another room again and sat on a sofa to get away from the situation, but that De Niro followed her.
+
+“She comes and stands right on top of me where I am sitting like, ‘You better get the hell out of here,'” Nesis says, adding that De Niro was “cursing me out.”
+
+She says that no one stuck up for her, except for former “Real Housewives of New York” star Jill Zarin, who tried to get management to step in — but nobody from the restaurant intervened.
+
+“The more I tried to explain [that] I was just trying to help, the angrier she got,” Nesis says. “She kept saying, ‘That is my boyfriend, I am a broker, why was I trying to take your business.’ I told her I am not, I am a Harvard-educated lawyer. But she would get angrier and angrier and more out of control.”
+
+Nesis adds, “She was saying she’s a real estate agent and we’re foes, but I don’t know her. I have never met her. I didn’t know she was a real estate agent and I am not a broker. I was in a state of shock. It was out of hand.”
+
+According to her LinkedIn page, De Niro has worked for real estate company Compass for four months. She previously worked at Prudential Douglas Elliman.
+
+Gooding Jr., for his part, seemed to cut and run as things took a turn.
+
+“In the beginning, he was trying to explain and then he just disappeared out of sight,” Nesis says. “I guess he saw she wasn’t going to be mollified … He was somewhere but he wasn’t confronting the situation.”
+
+Nesis wound up leaving to get out of the situation when it allegedly became clear after an hour that De Niro was not going to let up.
+
+She says she now fears another run-in.
+
+“It’s a small circle. I like Bilboquet. It’s a lot of fun,” she says. “I am terrified to go there now. I am worried about seeing her. I was traumatized. I am non-confrontational.”
+
+“It’s like, is she dangerous?” Nesis said. “I wasn’t sure. I felt like I was in danger. You can’t be safe anywhere, even in the Hamptons.”
+
+When we texted De Niro for comment, she wrote in all caps, “Jill Zarin and Lieba are full of s–t,” before texting a few more things and quickly deleting them from WhatsApp, and then adding, “No comment.”
+
+A source previously told Page Six that De Niro’s reaction wasn’t about jealousy over Gooding Jr., but about business. “It’s disrespectful, if you know someone is a broker, to go to their [boyfriend] and offer them help with real estate,” they said.
+
+That source also insisted that De Niro wasn’t yelling — though the original source told us she was loud enough to “make a scene.”
+
+De Niro and Gooding Jr. have been dating since 2018, when Page Six first spotted the pair.
+
+In 2019, De Niro was caught on camera berating Gooding Jr. at a bar in Miami, knocking bottles and glasses off the top of the bar before being removed by security. A lawyer for Gooding Jr., Mark Heller, said she got a “little overly playful” while partying with her beau. A source later said she was upset when the actor took a friend’s side over something she was upset about and “it was just a silly argument.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@We’re in the final stretch of Jeopardy! guest hosts. Last night (August 9th) on the ABC quiz show, the final temp host took the podium — and according to fans, the show is going out with a bang — just maybe not a good one — with Joe Buck, a longtime Fox Sports broadcaster. Even though most guest hosts have been welcomed by Jeopardy! audiences, Buck has become one of the rare spoilers. Audiences took to Twitter last night to share just how much they dislike him after his first show aired.
+
+Buck follows a handful of well-loved Jeopardy! guest hosts like Faber, LeVar Burton, and Sanjay Gupta. But in the Jeopardy! hosting game, they can’t all be winners, right? Even though Buck said that hosting the game show would be the “highlight” of his 30-year broadcasting career, clearly, Jeopardy! fans aren’t on the same page.
+
+“Also, I have no idea who Joe Buck is,” one Twitter user wrote, sinking the ship with, “but he’s annoying me as the guest host.”
+
+Even Jeopardy! legend James Holzhauer, who is the second-highest winner in the game show’s history, chimed in, roasting Buck with the rest of the audience. “Jeopardy says whoever hosts full time will have to quit their other job,” Holzhauer wrote, “so I’m crossing my fingers it’s Joe Buck.”
+
+A few lone voices did send their support Buck’s way, celebrating his appearance on the show while complimenting his technique. “Joe Buck is good on Jeopardy which is not a surprise because he is generally just quite good,” one differing voice shared.
+
+Jeopardy! fans may not have to worry about the Fox Sports broadcaster returning to the podium anytime soon. This week, it was reported that executive producer Mike Richards was in advanced negotiations to take over as the permanent host, although the series producers are still in talks with other potential hosts. Though Richards confirmed the rumors, nothing is set in stone yet — and a resurfaced series of alleged harassment and discrimination may cast a shadow on his chances.
+
+Jeopardy! airs weeknights on ABC at 7/6c.
+
+Where to watch Jeopardy!
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A bipartisan trio of senators introduced a bill that would rein in app stores of companies they said exert too much market control, including Apple and Alphabet Inc’s Google.
+
+Democratic Sens. Richard Blumenthal of Connecticut and Amy Klobuchar of Minnesota teamed up with Republican Sen. Marsha Blackburn of Tennessee to sponsor the bill, which would bar big app stores from requiring app providers to use their payment system. It would also prohibit them from punishing apps that offer different prices or conditions through another app store or payment system.
+
+“I found this predatory abuse of Apple and Google so deeply offensive on so many levels,” Blumenthal said in an interview Wednesday. “Their power has reached a point where they are impacting the whole economy in stifling and strangling innovation.”
+
+Blumenthal said he expected companion legislation in the House of Representatives “very soon.”
+
+The stakes are high for Apple, whose App Store anchors its $53.8 billion services business as the smartphone market has matured.
+
+Senate legislation to rein in app stores like those of Apple and Google won praise from app developers, including Spotify, “Fortnite” creator Epic Games and Tile. NurPhoto via Getty Images
+
+Apple said its app store was “an unprecedented engine of economic growth and innovation, one that now supports more than 2.1 million jobs across all 50 states.”
+
+Google declined to comment, but a spokeswoman cited previous company statements that Android devices often come preloaded with two or more app stores and that app sellers can allow downloads without using Google’s Play Store.
+
+The bill won praise from Spotify, “Fortnite” creator Epic Games and Tile. Tile, which makes tags to find lost objects, complained earlier this year about Apple launching a rival product.
+
+Connecticut Sen. Richard Blumenthal said Apple and Google are guilty of “predatory abuse” when it comes to their treatment of app developers in their respective app stores. Getty Images
+
+A similar law revision has been introduced in South Korea. Google said last year it would enforce certain in-app payment methods there and receive 30 percent commission fees from non-game digital co ntent.
+
+Apple’s control over apps on its Store, and 15 percent to 30 percent commissions on digital sales have come under regulatory scrutiny. A federal judge is reviewing testimony to rule on an antitrust lawsuit by Epic Games.
+
+Epic also sued Google for its app store practices, as have a big group of state attorneys general alleging that it unlawfully worked to maintain a monopoly for its app store for Android phones.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Samsung is hoping cheaper but more durable versions of its foldable phones will broaden the appeal of a high-concept design that’s so far fizzled with consumers.
+
+The electronics giant on Wednesday launched its effort to turn things around with two new products designed to function as both a phone and, when unfolded outward on a hinge, a tablet.
+
+The larger Galaxy Fold3 boasts a 7.6-inch display when unfolded and will sell for $1,800, a 10% drop from last year’s model. The other device, the Galaxy Flip3, looks more like a flip phone, but can still be opened from its clamshell position into a 6.7-inch display. It will sell for $1,000, more than 25% below the price for last year’s original model.
+
+Besides the new phones, Samsung unveiled its first smartwatches powered by software designed in tandem with Google as both companies try to catch up with Apple in that part of the wearable tech market.
+
+Since releasing its first foldable phones in 2019, Samsung has been hyping the technology as a breakthrough that will spur more consumers to splurge on new phones instead of holding on to older devices until they wear out or upgrading to new models that have most of the same features.
+
+But foldable phones have barely made a ripple in the smartphone market, with roughly 2 million of the devices shipped last year, according to the research firm International Data Corp. That’s a tiny fraction of the nearly 1.3 billion smartphones shipped worldwide last year, IDC said.
+
+The larger Galaxy Fold3 will sell for $1,800, a 10 percent drop from last year’s model. The smaller Galaxy Flip3 will sell for $1,000, more than 25 percent below the price for last year’s original model. AP
+
+“What has really been holding back the mass consumption of these foldable devices is the high price,” IDC analyst Nabila Popal said. “Most people really don’t see the need for it. At least nothing that justifies forking out an additional thousand dollars.”
+
+Popal believes Samsung’s lower prices for its latest foldable phones are still too far above what most consumers are willing to pay for phones. That’s one reason IDC projects only a modest uptick in foldable phone shipments this year, to an estimated 6 million to 7 million devices.
+
+Besides high prices, sales have been held back by doubts about whether the foldable devices can withstand the wear and tear that traditional smartphones typically endure. Those worries have shadowed Samsung’s foldable lineup since it delayed the release of first models in 2019 to fix problems with bulging screens and flickering displays.
+
+Samsung’s new foldable phones are now compatible with its S Pen stylus. AP
+
+Samsung has equipped its newest foldable phones with more durable glass and water resistance to reduce the chances of the devices being damaged. It has made the foldable phones compatible with its popular S Pen stylus for the first time to woo customers accustomed to using the digital writing tool on Samsung’s traditional Note and Galaxy phones.
+
+In another sign of foldable phones’ progress, nearly 50 of the top 100 mobile apps are now available for its unique format, said Drew Blackard, the South Korean company’s vice president of product management.
+
+Those improvements have emboldened Samsung to make the foldable phones its marquee products during the second half of the year, backed by a marketing campaign that will hail their advantages.
+
+Samsung’s foldable phones haven’t ignited consumer interest thus far, and some analysts say the price cuts don’t go far enough to lure buyers. AP
+
+Blackard likened the third generation of Samsung’s foldable phones to the third generation of the company’s Note phones that came out in 2013 and changed the perceptions of a product lineup that was initially mocked for introducing smartphones with 5-inch screens. Within the next year, Apple released the first model of its trendsetting iPhones with bigger screens that have now become a standard feature.
+
+But Apple still hasn’t felt compelled to make an iPhone with a foldable screen yet.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Flying taxi developer Archer Aviation is seeking $1 billion in damages from Wisk Aero, a rival backed by Boeing and Google co-founder Larry Page’s Kitty Hawk Corp., according to a court filing, raising the stakes in a heated legal dispute.
+
+The two have been embroiled in litigation since earlier this year when Wisk accused Archer, whose investors include United Airlines, of stealing trade secrets involving electric Vertical Take-Off and Landing (eVTOL) aircraft.
+
+Archer countersued and said in a filing late Tuesday that it intends to “hold Wisk accountable for its false and malicious extra-judicial smear campaign that has caused substantial damage to Archer, likely to exceed $1 billion.”
+
+A Wisk spokesperson said: “Archer’s counterclaim is ludicrous and its troubles are purely self-inflicted.”
+
+Archer plans to commercially launch its first electric flying taxi “Maker” in 2024, one of an increasing number of investors and aviation companies piling into the competitive but yet-to-be-approved urban air mobility space.
+
+Archer Aviation is seeking $1 billion from Wisk Aero, a rival firm backed by Google co-founder Larry Page (seen here with wife Lucinda Southworth), charging Wisk damaged it with a “smear campaign.” FilmMagic
+
+“Filing a lawsuit does not give Wisk a free pass to make false and damaging statements outside of the judicial process, and yet that is exactly what Wisk has been doing,” an Archer spokesperson said.
+
+He said Archer would continue to seek damages even if Wisk drops its claims.
+
+Wisk, however, plans to pursue its case, its spokesperson said.
+
+Wisk, which makes a rival eVTOL aircraft and also counts Boeing as a backer, calls Archer’s suit “ludicrous.” Wisk Aero
+
+Wisk’s initial lawsuit was filed in April, two months after Archer announced plans to go public through a merger with special purpose acquisition company Atlas Crest Investment Corp, led by investment banker Ken Moelis.
+
+Last month, Archer and sponsor Atlas slashed the pro forma enterprise value of the startup by $1 billion to $1.7 billion in a revised deal between the two companies.
+
+Its other investors include Stellantis and Mubadala Capital.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@CAPE CANAVERAL, Fla. — Northrop Grumman’s latest space station delivery includes pizza for seven.
+
+The company’s Cygnus cargo ship rocketed away from Virginia’s eastern shore Tuesday. It should reach the International Space Station on Thursday.
+
+The 8,200-pound shipment includes fresh apples, tomatoes and kiwi, along with a pizza kit and cheese smorgasbord for the seven station astronauts.
+
+Also flying: a mounting bracket for new solar wings launching to the orbiting lab next year, a material simulating moon dust and dirt that will be used to create items from the space station’s 3D printer, slime mold for a French educational experiment called Blob and an infrared-detecting device meant as a prototype for future tracking satellites.
+
+It is Northrop Grumman’s 16th supply run for NASA and its biggest load yet. The company’s Antares rocket hoisted the capsule from NASA’s Wallops Flight Facility.
+
+“Aloha to the S.S. Ellison Onizuka,” Northrop Grumman said via Launch Control minutes before liftoff. The capsule was named for Hawaii’s Onizuka, the first Asian American in space who died in the 1986 Challenger launch disaster.
+
+NASA’s other shipper, SpaceX, will follow with a cargo run in a few weeks.
+
+The space station is currently home to three Americans, two Russians, one French and one Japanese.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Shares of crypto exchange Coinbase rose 7 percent Wednesday morning after the company reported better-than-expected second quarter profits.
+
+The digital coin exchange late Tuesday reported $1.6 billion in net profit for the quarter, representing earnings per share of $3.45. That eclipsed Wall Street’s expectations of $2.33 per share.
+
+Coinbase trading volumes also surged 38 percent to $462 billion during the second quarter.
+
+The company, whose success is tethered to risky digital assets like bitcoin, warned that it third quarter trading volumes will be lower than the second quarter.
+
+Investors seemed to brush off the warning, however, sending the stock up 7 percent on Wednesday to $288.22. Coinbase shares have surged about 15.2 percent over the past month, but are remain far below it’s April stock debut price of $381.
+
+Coinbase faces other potential performance pressures, including the growing prospect of government regulation, which could dampen profits for both individual traders and companies like Coinbase that rake in cash through transaction fees.
+
+A chart shows the upward trend of Coinbase stock. Google Finance
+
+Securities and Exchange Commission head Gary Gensler said last week that crypto traders need more investor protections, calling the digital currency world “rife with fraud, scams and abuse.”
+
+In Coinbase’s Tuesday earnings call Chief Financial Officer Alesia Haas told investors the company is watching the SEC closely.
+
+“We’re eager to understand the legal framework for the concerns that he has raised and how any of those may impact our product roadmap,” she said.
+
+Even while acknowledging the threat of government regulation, analysts from Wedbush Securities set a 12 month price target of $300 for Coinbase shares, predicting “strong earnings power for the next 3 to 5 years.”
+
+Shares of Coinbase popped Wednesday morning after a better-than-expected earnings report. Getty Images
+
+“On the other hand, the stock will likely continue to be volatile given multiple broad factors, mostly related to the regulatory environment,” Wedbush analysts Moshe Katri, Dan Ives and Ryan Campbell added.
+
+Other analysts have raised concerns about Coinbase’s profits and stock price being too tied to the highly volatile price of bitcoin, the most popular cryptocurrency.
+
+But the company’s second quarter results show Coinbase customers are increasingly investing in a wider variety of digital coins.
+
+Bitcoin trades comprised 24 percent of Coinbase’s trading volumes for the quarter, down from 39 percent in the first quarter.
+
+With Post wires
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The infrastructure bill the Senate passed Tuesday discriminates against white people at every turn.
+
+Americans are enthusiastic about spending money on physical infrastructure — bridges, roads, broadband. But this racist bill hands out jobs and contracts and locates projects based on race, not merit. Minority businesses and neighborhoods hold the inside track. If you’re white, you’re low-priority.
+
+The bill includes grants to install solar or wind technologies and generate jobs in areas decimated by closing coal mines or coal-fired electric plants. Here’s the catch: When contractors bid, the bill says minority-owned businesses will get selected first. Bad news for small-time white contractors in depressed areas.
+
+The same is true for the bill’s proposals to improve traffic patterns in cities. Contractors and subcontractors get priority only if they’re owned by minorities or women. White male business owners can take a hike.
+
+Americans should be outraged — but not surprised. After all, President Biden’s American Rescue Plan Act, passed in March, also put into place an ugly system of discrimination against whites. It offered debt relief to black farmers, but not white farmers. Another provision offered billions in aid to minority-owned and women-owned restaurants, but told struggling restaurants owners who happened to be white men that they had to go to the back of the line.
+
+The injustice was obvious. White male farmers and restaurant owners sued, claiming the anti-white provisions are unconstitutional. So far, these challengers are winning. In every case, federal judges have halted the race-based programs in the American Rescue Plan Act until the challengers have their day in court. Politico reported last week that Biden’s Justice Department may fold without a fight on the black-farmer debt relief cases, because the law isn’t on the administration’s side.
+
+The infrastructure hides discriminatory policies behind popular public works projects. EPA/JUSTIN LANE
+
+You would think Democrats and the Biden White House would get the message. Instead, they’re doubling down on rigging legislation and divvying up taxpayer dollars to benefit minorities and shortchange whites.
+
+Chances are high the infrastructure bill’s hodgepodge of anti-white discrimination will be struck down by federal courts. In 1989, the Supreme Court ruled that the Equal Protection Clause of the Constitution bars government from trying to even the score by discriminating against whites and in favor of minorities. The justices warned against creating “a patchwork of racial preferences based on statistical generalizations” to correct past injustices. That’s precisely what this infrastructure bill does.
+
+The bill’s backers would have you believe that obsolete airports, dilapidated public works and deteriorating roads and public spaces are evidence of racial injustice. Rep. Yvette Clarke (D-NY) rails that “our infrastructure is racist” and calls on the Congress to pass a bill that “puts the needs of underserved and disadvantaged communities at the fore.”
+
+That’s code for minority communities. But the truth is, there are plenty of poor white people in this country, too, and poor, predominantly white communities that could benefit from a bold federal infrastructure initiative. Race and ethnicity should have nothing to do with it. Locate the projects and put the funds where the economic need is greatest, regardless of race.
+
+Rep. Yvette Clarke claims that “our infrastructure is racist.” Photo by Shannon Finney/Getty Images for Green New Deal Network
+
+West Virginia has the lowest average income in the nation and ranks 46th in internet connectivity. Maine ranks 36th out of 50 states for income, and 34th in broadband connectivity. People in these states could really benefit from federal broadband assistance. Here’s the hitch: The infrastructure bill tilts the grant scale in favor of states with high minority and non-English-speaking populations, instead of considering only economic need and existing broadband capacity. Because Maine and West Virginia are 94 percent white, they’ll get less.
+
+Polls show that Americans favor fixing roads, bridges, tunnels and airports. They know that good infrastructure promotes economic growth. But they’ve been kept in the dark about the fine print in the bill. Under the guise of upgrading the nation, the bill unfairly treats whites like second-class citizens.
+
+Betsy McCaughey is a former lieutenant governor of New York.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@She gave them a false sense of immunity.
+
+A German nurse is being investigated for allegedly injecting thousands of people with a placebo instead of the coronavirus vaccine.
+
+Based on witness testimony, police investigator Peter Beer said there was “a reasonable suspicion” that the rogue medical professional had administered shots of saline solution to up to 8,600 patients who were slated to receive the COVID jab, Reuters reported.
+
+“I am totally shocked by this episode,” Sven Ambrosy, a local councilor, said of the alarming switcheroo, which reportedly occurred in March and April in Friesland in northern Germany.
+
+It’s unknown why the shot-blocker — reportedly a Red Cross nurse — had injected people with blanks; however, she had reportedly broadcast anti-vax views on social media, investigators reported.
+
+And while the faux jab was harmless, it may have disproportionately affected elderly people, who are at a greater risk of contracting the virus.
+
+In order to prevent casualties from the fake shots, authorities are imploring thousands of people to get a second jab.
+
+“The district of Friesland will do everything possible to ensure that the affected people receive their vaccination protection as soon as possible,” Ambrosy wrote in a Tuesday Facebook post.
+
+Unfortunately, the nurse isn’t the first medical practitioner to express anti-vax views. In June, a Texas hospital suspended 178 employees for two weeks without pay for refusing to get the coronavirus vaccine.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Click to email this to a friend (Opens in new window)
+
+Imitation isn’t always the sincerest form of flattery — at least when it comes to the morning TV wars.
+
+After news broke on Wednesday that “CBS This Morning” was replacing veteran journalist Anthony Mason with former football star and “Extra” correspondent Nate Burleson, several industry insiders told us the network is admitting they’re in trouble by copying rival “Good Morning America.”
+
+And it doesn’t help that the CBS show also announced in May it’ll be filming from a new studio directly across the street from “GMA” in Times Square.
+
+”They’re basically copying ‘GMA.’ They’re moving to Times Square, hiring a [Michael] Strahan. What’s next? Cooking segments? They’re clearly in trouble,” one industry source sniped.
+
+Meanwhile, another source told us that “GMA” staffers are “all shook over why CBS is copying them. It’s all the talk this morning at ABC,” they said.
+
+“CBS This Morning” co-anchors Anthony Mason, Gayle King, and Tony Dokoupil. CBS via Getty Images
+
+The move comes as ratings for NBC’s “Today” — once the top of the morning show heap — continue to lose ground to “GMA.” This season-to-date, “GMA” is reportedly the most-watched morning show for the 9th consecutive year, and has this year increased its lead over “Today” to its biggest in four years. (Though “Today” did add viewers during its Olympics broadcasts.)
+
+“CBS This Morning” remains at the bottom.
+
+An ABC insider admitted there was buzz around the news, but “‘shook’ is not the way to describe it,” the source said. “Look at the numbers. Do you think ‘GMA’ would be threatened by CBS?”
+
+CBS’ Strahan-like hire is “taking a page from the playbook. It’s an interesting move for them,” they added.
+
+Another person from a competing network scoffed, “This is the same show [that] put out a statement about not wanting to [have anchors] dress up for Halloween! They planted a stake on Halloween as opposed to having fun, and now a football player is at the table? ‘Real Sports’ wasn’t hiring? It’s insulting to journalists.”
+
+Burleson’s hire comes after former president of ABC-owned television stations Wendy McMahon fled the network to become president and co-head of CBS News and TV stations earlier this year.
+
+“It’s interesting that they’ve put an ABC person in place over there, and she’s running the show. I commend them for recognizing a winning playbook and stealing it, but it could be a recipe for disaster,” the ABC source said.
+
+Another source familiar with Burleson’s hire told us “they were grooming him” to take over after he filled in while co-anchor Tony Dokoupil was away on paternity leave. “Hollywood and this business only find value in former NFL players right now. It’s the Strahan effect. It’s not even a subtle trend,” they said.
+
+In addition to co-anchoring “CBS This Morning,” Burleson’s overall deal will include a role as an analyst at CBS Sports’ “The NFL Today” and regular appearances on Nickelodeon, according to Variety. He’ll join Gayle King and Dokoupil at the table in September.
+
+Neeraj Khemlani, president and co-head of CBS News and Stations, described Burleson as the “perfect fit for mornings on CBS” in a press release.
+
+“There is no doubt that Nate’s experiences and broader interests in news, sports and entertainment will be an exciting addition to the table with Gayle and Tony as we continue to evolve the format of the broadcast to double down on news, original reporting, great storytelling and a broad range of feature pieces that appeal to viewers across the country,” he said in an internal memo.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Click to email this to a friend (Opens in new window)
+
+Click to share on Twitter (Opens in new window)
+
+Click to share on Facebook (Opens in new window)
+
+It’s the haves and the … have-some-mores.
+
+The swanky Aman Resorts — where rooms average $1,400 a night and villas go for $50,000 — is offering 100 people the chance to buy an Aman Club membership as it opens a New York location on 57th Street with a members-only space.
+
+For $100,000 initiation fee and $15,000 a year, members will have access to a 24/7 “private office,” which will take care of all travel planning “from facilitating private charters by land, sea, and air, to pre-planning unique experiences across Aman resorts,” as well as upgrades, lax check-in and check-out times, on-demand spa treatments, and access to a private club space, according to a presentation and pricing sheet seen exclusively by Page Six.
+
+Members, which they have dubbed “Founders,” “can expect privileged access to global sporting events, fashion weeks and behind-the-scenes visits to artists’ studios,” it states.
+
+It will also go beyond a guest’s hotel stay. “At home — beyond the resorts, this bespoke support is offered for individual wellness programs to private event planning with our ‘Aman at home’ experiences.”
+
+The membership plan outline explains, “Experts in nutrition, health and fitness will create entirely bespoke, constantly evolving programs for Founders, offering ongoing support and guidance as their wellness journey progresses both on- and off-property.”
+
+The annual dues are required to be paid before the hotel’s NYC opening. According to the website, the new hotel, on 57th Street in the Crown Building, will offer 83 rooms, a “Garden Terrace & Bar,” a three-floor spa, as well as a jazz club and a members-only space.
+
+The membership applies to both the NYC club and global properties.
+
+Bill Gates, Mark Zuckerberg, the Kardashians, Angelina Jolie, David Beckham, George and Amal Clooney, Tom Hanks, and members of various royal families are fans of Aman, which has over 30 properties in 20 countries.
+
+The chain, owned by Russian billionaire Vladislav Doronin, also plans on opening Tokyo and Miami locations.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A video clip shows Hunter Biden naked while recounting how he was passed out in a pool when a computer with recordings of him engaged in “crazy” sex acts was stolen — possibly for blackmail purposes, according to a report Wednesday.
+
+The conversation took place while Biden and an unidentified woman lounged around in the nude after having sex in January 2019, the Daily Mail said.
+
+“They have videos of me doing this. They have videos of me doing like f—ing crazy [bleep] sex [bleep],” Biden said, according to a 3-minute, 40-second video clip posted online.
+
+“But how long ago did this happen? You said before—,” the woman asked.
+
+“Last summer,” Biden answered.
+
+Earlier, Biden said the theft took place while he “was in the [bleep] pool, facedown” and the people he was with “wouldn’t call an ambulance,” according to the newly surfaced video.
+
+“And somebody stole it during that period of time,” he said.
+
+If the account is accurate, it would mean that Biden, 51, lost as many as three laptop computers, including one that he’s said he may have abandoned at a Delaware repair shop and another that federal agents reportedly seized from the Massachusetts office of former celebrity psychiatrist Keith Ablow. The Post was not able to independently verify the video clip posted by the Daily Mail.
+
+Biden said he suspected the crook who stole his computer was one of “three guys that were like a little, like, group.”
+
+“The dealer and his two guys. Like, I took them everywhere,” he said.
+
+“But how long ago did this happen? You said before—,” the woman asked Biden.
+
+Throughout the recording, Biden — who has acknowledged repeated struggles with drug and alcohol addictions — sounds agitated and much of what he says is inaudible.
+
+At one point, the woman suggested that if the thief had the videos, they “would have been out already.”
+
+“No, no, no. Because [inaudible] running for president,” Biden said.
+
+Biden’s father, Joe Biden, launched his successful 2020 bid for the White House in April 2019.
+
+Biden has acknowledged repeated struggles with drug and alcohol addictions.
+
+The woman asked Hunter Biden if the laptop thief was trying to blackmail him.
+
+“No. I make like a gazillion dollars,” he said, sounding confused.
+
+“No, the guy who took the computer,” the woman said.
+
+The ensuing exchange is largely inaudible and includes Biden saying both, “No way” and “In some way, yeah.”
+
+Biden also appeared to suggest that he might get a percentage of whatever the thief earned by anonymously selling the videos to a celebrity gossip website.
+
+The Daily Mail said the clip it posted online is contained on a hard drive copied from the MacBook Pro left at the Delaware repair shop in April 2019.
+
+Last year, The Post was the first to report on the laptop’s contents, which include emails detailing Biden’s former overseas business dealings, lurid personal photos and a 12-minute video that appears to show him smoking crack while engaged in a sex act with an unidentified woman.
+
+Related Video Hunter Biden says laptop at center of Post exposé could ‘certainly’ belong to him
+
+Biden is pursuing a new career as a self-taught artist and plans to ask as much as $500,000 each for his abstract expressionist paintings during an upcoming solo exhibition at Manhattan’s Georges Berges Gallery.
+
+His lawyer didn’t return a request for comment on the newly surfaced video.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A U.S. trade judge ruled on Friday that Alphabet Inc’s Google infringed five patents belonging to Sonos that concern smart speakers and related technology, a decision that could lead to an import ban.
+
+The brief ruling from Charles Bullock, the chief administrative law judge of the U.S. International Trade Commission, did not explain why Google’s sale of the products violated a 1930 federal tariff law, commonly known as Smoot-Hawley, designed to prevent unfair competition.
+
+Sonos has been trying to block Google from importing Home smart speakers, Pixel phones and other products from China.
+
+Google did not immediately respond to requests for comment.
+
+Sonos said it was pleased with the preliminary ruling, which it said “confirmed Google’s blatant infringement” and furthered its efforts to defend its technology against alleged misappropriation by larger rivals.
+
+Shares of Sonos were up 11.4% in after-hours trading.
+
+Sonos said it was pleased with the preliminary ruling, which it said “confirmed Google’s blatant infringement” of Sonos patents regarding smart speakers. dpa/picture alliance via Getty Images
+
+Friday’s ruling is subject to review by the full ITC, scheduled for Dec. 13 according to the commission’s website.
+
+The ITC case is part of an array of litigation between the two companies, including cases in California, Texas, France, Germany and the Netherlands, according to regulatory filings.
+
+Google has said Sonos repeatedly sought help during their years of partnership, and it eventually integrated Sonos products into its Play Music service and Google Assistant software.
+
+Sonos has been trying to block Google from importing Pixel phones (displayed in this billboard ad in Japan), Home speakers and other products. SOPA Images/LightRocket via Getty Images
+
+Some Sonos speakers have used voice assistance technology from Google and Amazon. Google’s own Nest smart speakers include Google Assistant technology.
+
+Sonos is based in Santa Barbara, California, and Alphabet in Mountain View, California.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Apple and Google’s lucrative app stores are under threat from bipartisan legislation introduced in Congress this week.
+
+A bill introduced in the House on Friday would bar Apple and Google from blocking users from downloading apps from third-party app stores.
+
+The bill, a companion to a Senate bill introduced earlier this week, would also stop the tech giants from requiring app developers to use Apple or Google’s payment systems — a major point of contention behind an ongoing legal battle between Fortnite developer Epic Games and Apple.
+
+In the lawsuit, which has yet to be decided, Epic blasted the 30 percent commissions Apple charges larger developers, saying were only possible because the iPhone maker maintained an unlawful monopoly.
+
+Apple has admitted it made “at least” $100 million from commissions on the popular Fortnite video game alone — and raked in $22 billion in overall App Store commissions last year.
+
+Facebook founder Mark Zuckerberg and Tesla CEO Elon Musk have also slammed Apple’s App Store practices.
+
+Apple CEO Tim Cook has defended the company’s lucrative App Store policies, which critics say are too restrictive. Getty Images
+
+“Apple app store fees are a de facto global tax on the Internet. Epic is right,” said a typically blunt Musk in reference to Fortnite developer’s lawsuit.
+
+Google, unlike Apple, lets users download apps from outside app stores. However, developers who use the Google’s Play Store are required to use the company’s payments processor, which also charges fees of up to 30 percent.
+
+Republican Rep. Ken Buck of Colorado — who introduced the House bill alongside Democratic Rep. Hank Johnson of Georgia — slammed both companies’ app store policies as squashing competition and hurting developers.
+
+Republican Rep. Ken Buck of Colorado is co-sponsoring the legislation. Michael Brochstein/SOPA Images/S
+
+“For far too long, companies like Google and Apple have had a stranglehold on app developers who are forced to take whatever terms these monopolists set in order to reach their customers,” said Buck.
+
+Buck and Johnson’s House bill follows the Senate bill introduced earlier this week by Democratic Sens. Richard Blumenthal of Connecticut and Amy Klobuchar of Minnesota, as well as Republican Sen. Marsha Blackburn of Tennessee.
+
+That bill would also allow developers to use third-party app stores and bar big app stores from requiring use of their payment systems.
+
+Google and Apple did not immediately reply to requests for comment.
+
+Under CEO Sundar Pichai, Google requires developers who distribute apps through the Play Store to use the company’s payments processor, which charges fees of up to 30 percent. AFP via Getty Images
+
+Apple has previously defended its restrictive app store as “an unprecedented engine of economic growth and innovation” and claimed the store “supports more than 2.1 million jobs across all 50 states.”
+
+“I found this predatory abuse of Apple and Google so deeply offensive on so many levels,” Blumenthal said earlier this week. “Their power has reached a point where they are impacting the whole economy in stifling and strangling innovation.”
+
+In addition to the congressional bills, Google is fighting a lawsuit from a group of state attorneys general who also argue that the company’s sky-high app store fees constitute an unlawful monopoly.
+
+Rep. Hank Johnson of Georgia is co-sponsoring the House bill. AP
+
+With Post wires
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Intel on Friday disclosed a stake worth less than a million dollars in cryptocurrency exchange Coinbase.
+
+The chipmaker held about 3,014 shares of Coinbase’s Class A common stock as of June 30, Intel said in a regulatory filing. The Coinbase shares would be worth around $788,191, based on trading price of $261.51 at 3:01 pm ET on Friday.
+
+Intel did not immediately respond to Reuters’ request for comment.
+
+Major players have doubled down on crypto holdings including star stock picker Cathie Wood and Tesla Chief Elon Musk.
+
+One of the largest cryptocurrency exchanges in the world, Coinbase went public through a direct listing in April, which saw its valuation rise to as high as $112 billion on the first day of trading.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The hackers who pulled off the largest cryptocurrency heist in history “for fun” have returned the money — and the company that they stole from wants to pay them for their service.
+
+The decentralized finance platform that was hacked, called Poly Network, confirmed late Thursday that the hackers had returned all of the roughly $610 million worth of stolen Ethereum and other cryptocurrencies, with the exception of $33 million worth of the “stablecoin” Tether that had been frozen by its creator.
+
+Poly Network also offered the hackers a reward of $500,000 — or less than one percent of the stolen crypto — for exposing flaws in the platform’s security.
+
+Earlier this week, the hackers stole the $610 million in crypto, then began gradually returning the money in installments.
+
+In a blockchain-based question-and-answer session Thursday, the hackers explained in broken English that they had pulled off the heist “for fun” rather than profit.
+
+“Ask yourself what to do had you facing so much fortune,” the hacker said. “Asking the project team politely so that they can fix it? Anyone could be the traitor given one billion!”
+
+Some blockchain experts are skeptical of the Poly Network hackers’ claims to be “white hats” who expose vulnerabilities for the greater good. REUTERS
+
+Asked about returning the money, the hacker said that was “always the plan.”
+
+“I am _not_ very interested in money!” the hacker wrote. “I know it hurts when people are attacked, but shouldn’t they learn something from those hacks?”
+
+However, some blockchain experts have been skeptical of the hackers’ claims to be “white hats” who expose vulnerabilities for the greater good.
+
+Hackers stole $610 million in crypto before returning it, but experts say they would have had a hard time converting the ill-gotten gains into usable cash in any case. REUTERS
+
+Critics question whether the hackers returned the crytpo because they risk getting arrested if they turned the money into usable cash.
+
+“Even if you can steal cryptoassets, laundering them and cashing out is extremely difficult, due to the transparency of the blockchain and the broad use of blockchain analytics by financial institutions,” Tom Robinson of UK blockchain analysis company Elliptic told Reuters.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Click to email this to a friend (Opens in new window)
+
+Click to share on Twitter (Opens in new window)
+
+Click to share on Facebook (Opens in new window)
+
+If you’ve got it, flaunt it — and Blake Lively definitely does.
+
+The 33-year-old actress promoted her husband Ryan Reynolds’ new movie, “Free Guy,” with a cheeky Instagram pic on Thursday.
+
+Blake Lively bared her booty in a floral bikini to promote husband Ryan Reynolds’ latest project. Instagram
+
+Lively posed poolside in a floral thong bikini for the saucy shot, quipping in her caption, “Go see @freeguymovie this weekend or you’ll be bummed.”
+
+Reynolds, 44, promptly reposted the photo to his own Instagram Story.
+
+Lively also supported her hubby at the “Free Guy” premiere last Wednesday, clad in a backless pink sequin gown by Prabal Gurung featuring sexy cutouts that framed her famous curves.
+
+Blake Lively and Ryan Reynolds pose at the “Free Guy” premiere. Getty Images
+
+“What a huge night for #FreeGuy. And what a huge night for @blakelively because this means we’re Instagram official,” the “Deadpool” actor joked on Instagram after the event. “I know how important that was to her.”
+
+Despite the New York City premiere marking the couple’s first red carpet outing in a year and a half, Lively and Reynolds have been keeping fans in the loop about their life at home during the pandemic.
+
+The pair share three daughters: James, 6, Inez, 4, and Betty, 1.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This was not the kind of green light hitters want to see.
+
+With the Mets and Dodgers tied in the top of the ninth inning Friday in front of a season-high 38,395 at Citi Field, a green light flashed onto Max Muncy’s face, halting play for a few minutes.
+
+Muncy, batting with a runner on second and two out, collected himself before an 0-2 pitch against Edwin Diaz, but before he stepped into the box, his face turned green.
+
+“Come on, jeez,” Ron Darling said on PIX11. “That’s just awful.”
+
+Muncy immediately pointed left and the umpires conferred for several moments. There was no resolution, so Muncy stepped back into the box, and Diaz struck him out to end the inning. The light was not seen again.
+
+“We don’t want that happening in a baseball game. Player safety — everyone’s safety — is always our priority,” said Mets manager Luis Rojas, who was not sure after his team’s 6-5, 10-inning loss if the culprit had been found. “I thought it might have been the best crowd of the season, so for that to happen, it’s just something that you don’t want to see.”
+
+The scene was similar to an incident during a July game at Yankee Stadium between the Yankees and Red Sox, when a red light began flashing. An MLB investigation found no evidence of a rules violation by either team.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@“American Idol” star Syesha Mercado is raising her voice against the Manatee County Sheriff’s Office after they seized her 10-day-old baby daughter in a harrowing moment captured in a now-viral video.
+
+This is the second child that authorities have “forcefully and legally kidnapped” — as she describes it — under unclear circumstances in the past five months from the 34-year-old Sarasota, Florida native, who finished in the top three during the seventh season of TV’s long-running singing competition.
+
+Deputies surrounded an SUV that Mercado, her newborn baby and her partner, Tyron Deener, were driving in Wednesday morning to conduct a surprise roadside welfare check, as captured in disturbing footage with more than 2.1 million views as of Saturday afternoon. Police then took custody of the infant to bring her to a hospital for a physical, presumably due to prior — still hotly disputed — allegations of malnutrition concerning the couple’s then 13-month-old son.
+
+Mercado and Deener, 36, posted the incident on Instagram with the caption, “THEY TOOK OUR BABY AGAIN!.” The hour-long video shows multiple police vehicles flashing lights while two male deputies serve the couple with a court order to turn over their baby.
+
+“Do you not feel anything? You guys, I’m human. This is my baby. My babies is days old — and you’re taking my baby away from me,” a crying Mercado can be heard saying in the chilling clip before starting to sob as four female child protective services caseworkers stand their ground.
+
+The singer-actress — who starred in Broadway’s “The Book of Mormon” in 2014 — and Deener attempt to explain to authorities that they are “compliant and following every law,” adding that their daughter had already been seen by physicians just a day prior.
+
+“You are traumatizing my baby. How could you guys do this?,” a distraught Mercado screams as her daughter is taken from her arms and placed alone in the back seat of a city vehicle. “… You have no heart. This is so wrong. I have the key to this city … I’ll hold it together. I’m strong.”
+
+Mercado was indeed presented a key to the city of Sarasota during her “American Idol” hometown visit on May 9, 2008, which was proclaimed “Syesha Mercado Day” by local officials. She eventually finished third behind David Archuleta and that season’s winner, David Cook, on the show. She went on to headline the 2009-2010 national tour of “Dreamgirls,” which launched at Harlem’s legendary Apollo Theater, opposite future 2021 Tony nominee Adrienne Warren, who stars as Tina Turner in “Tina” on Broadway.
+
+A decade later, Mercado had to breastfeed her crying baby and provide authorities with a bottle of breast milk on the shoulder of a busy road, The Root reported.
+
+The Manatee County Sheriff’s Office and Florida Department of Children and Families have not responded to The Post’s repeated requests for comment. The last listed professional representative for Mercado said “she’s not really working right now” but expressed concern about her situation. Attempts to contact her directly have been unsuccessful.
+
+Mercado on the seventh season of “American Idol.” She knocked out judges Paula Abdul and Randy Jackson (grumpy Simon Cowell was on the fence at first) with her audition performance of Aretha Franklin’s “Think (Freedom),” and later wowed them all with “I Will Always Love you” and “Me & Mr. Jones.” Getty Images
+
+Meanwhile, her infant is still in protective custody, according to activist Donisha Prendergast, 36, founder of the We Have the Right to be Right social justice organization, who is advocating for the couple.
+
+Five months earlier, Mercado and Deener’s 1-year-old son, Amen’Ra, also was placed into the system after Mercado’s breast milk supply started to run dry, and the boy would not accept other fluids, FOX Tampa Bay reported at the time. They took Amen’Ra to Johns Hopkins All Children’s Hospital in St. Petersburg on Feb. 26 for help.
+
+While there, Prendergast’s organization alleges that the little boy was examined by Dr. Sally Smith, the controversial subject of a 2020 USA Today Network investigation after she was accused of being “too quick to diagnose child abuse,” which Smith has denied. Investigators reviewed hundreds of Smith’s cases and found more than a dozen instances where charges were later dropped — but the caregivers names were left irreparably smeared forever.
+
+Dr. Smith did not immediately respond to The Post’s request for comment.
+
+Almost two weeks after Amen’Ra was admitted, CPS and armed Pinellas County Police officers reportedly ordered Mercado and Deener out of the hospital amid allegations of “trespassing” and “severe malnutrition.” Their son was discharged in late March and immediately transferred by CPS into foster care.
+
+During the ongoing fight to get their son back, the couple asked that all caseworker interactions be facilitated through their lawyer, said Deener, a youth service professional who works in the foster care system. When CPS investigators showed up at their home upon learning Mercado gave birth to her daughter without alerting them, they were refused entry and referred to said attorney. That’s when the agency reportedly received approval to conduct a welfare investigation and remove their newborn.
+
+“My baby is healthy and happy,” a desperate Mercado is heard telling them during the roadside seizure. “All you had to do was call the attorney. We have all the paperwork.”
+
+Prior to this week’s events, the parents had launched a GoFundMe — titled “The Legalized Kidnapping of Black Babies Through CPS” — and more than $327,000 has been raised as of Saturday, surpassing their posted $200,000 goal to cover legal bills.
+
+Seal and Mercado perform at the “American Idol” Season 7 Grand Finale on May 21, 2008 in Los Angeles. M. Caulfield/American Idol 2008
+
+“I am a pregnant, breastfeeding mama who went to the hospital with the intention to get my [son], Amen’Ra, some fluids while transitioning from extended breastfeeding to being bottle-fed,” Mercado’s crowd-sourcing campaign pitch reads. “On March 11 … Amen’Ra was forcefully and legally kidnapped from us by CPS, who claim we refused a B-12 shot that was a matter of life and death, which is an absolute lie.”
+
+However, authorities did tell local media outlets that medical staff reported Mercado and Deener for turning down a B-12 intramuscular shot, as recommended by hospital doctors, a claim that Mercado adamantly denies.
+
+“We never refused a B-12 shot, and at no point was he on the verge of death,” she said before her second child was taken into custody. “Our [son] has since been placed with a white foster family without interviewing qualified relatives or friends of our family for placement while they investigate. We are given limited information and presently only have weekly zoom visitation for an hour with … no court order stating these visitation limitations.”
+
+Mercado has vowed to keep fighting.
+
+During her time on “AI,” The Post took note of her survival skills: “In the ‘Idol’ dictionary under ‘drama’ lies Syesha’s week in Hollywood. The uber-talented singer spent the whole week on vocal rest to overcome a strained throat, cold and myriad of other complications. But when time came to fight for her spot in the competition, one of the most determined contestants in show history knocked it out the box.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Timing is everything in life.
+
+Sandra Lee has gotten engaged to her boyfriend Ben Youcef, and the beaming couple hit the town in Paris to celebrate, with a besotted Lee showing off her dazzling new engagement ring, multiple sources sources told The Post.
+
+Photos of the lovebirds reveal that Lee, the former girlfriend of New York Gov. Andrew Cuomo, and her hunky beau have made it official — as there was no mistaking the significance of a giant jewel on Lee’s left ring finger.
+
+Youcef, an interfaith leader, actor and producer, sported a band on his wedding finger.
+
+Lee was seen sporting the sizable new bling just days after Cuomo announced his resignation following a series of scandals — and a damning report by state Attorney General Letitia James accusing him of sexually harassing several women — that have plagued his third term as governor.
+
+Lee and Youcef bolted to the City of Love after she was left devastated by the events of the past week, when Cuomo resigned as governor amid a sex harassment scandal, Lee’s friends said.
+
+The two could be seen outside Parisian hotspot L’Avenue on Saturday night, sharing an embrace before heading in for dinner.
+
+Sandra Lee and her new fiancé Ben Youcef in Paris on August 14, 2021. Best Image / BACKGRID Sandra Lee’s new engagement ring. Best Image / BACKGRID
+
+Lee, a 55-year-old lifestyle guru, wore a white summer dress while Youcef, 46, had on jeans, a leather jacket and a white T-shirt emblazoned with the logo “Fear of God.”
+
+A source close to Youcef told The Post: “Ben really wanted to distract Sandra from all the news, so he whisked her away to Paris. He knows how hard this has been on her and he wants to make sure she feels loved and supported.”
+
+The source added: “Ben is incredibly protective of Sandra. They’re soulmates and head over heels in love.”
+
+The pair traveled to Paris after spending time in St. Tropez in the South of France.
+
+Sandra Lee poses for Ben Youcef on a scooter in Paris. Best Image / BACKGRID
+
+Lee and Cuomo never got engaged during their 14 years together, although she was married previously to former KB Home CEO Bruce Karatz from 2001 until 2005.
+
+The source said their friends have been rooting for them since they met in the spring in Los Angeles.
+
+As The Post reported, Lee has felt “betrayed” by Cuomo, most recently for what she claims was him taking credit for legalizing same-sex marriage in New York during his resignation speech when she was the one who urged him to push the legislation forward.
+
+Cuomo’s cheating during their relationship, which he denied, was considered an “open secret,” former Cuomo staffers told The Post in April.
+
+She met Youcef after moving to Malibu, Calif., and leaving behind the home she shared with Cuomo.
+
+Lee was previously in a relationship with Gov. Andrew Cuomo for 14 years until they split in 2019. Best Image / BACKGRID Lee met Youcef after moving to Malibu following her breakup with Cuomo. Best Image / BACKGRID
+
+She solidified her move to the West Coast after selling her Mount Kisco home — named “Lily Pond” — for $1.85 million last October.
+
+Youcef, a divorced dad of two, was discovered by Steven Spielberg and went on to appear in his 2005 movie “Munich.”
+
+He has since appeared in a number of TV shows.
+
+A rep for Lee declined to comment.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Last night on Real Time with Bill Maher, the HBO host went to bat for Matt Damon, who—he claims—is currently “flailing around in cancel culture quicksand.” The popular actor recently acknowledged he used to use a common gay slur while growing up in Boston, but has since stopped.
+
+“Okay, he was late to the party. To which we could say, ‘Welcome, glad you could make it. Or we could say, ‘You came later than I did. Die,’” said Maher facetiously. He claimed the Behind the Candelabra star is “one of the most likeable guys in Hollywood, with impeccable liberal credentials.”
+
+During an interview with the U.K.’s Sunday Times, Damon admitted he had recently stopped using a derogatory term towards homosexuals after his daughter explained to him the offensive nature of the slur.
+
+“There are too many people in this country motivated not by what they really believe, but by what will get Twitter to react to them with likes and retweets. That’s called bad faith,” said Maher, blasting cancel culture and headline writers – “Matt Damon isn’t a terrible person, he’s just ignorant.”
+
+“Really? … He’s got a clean water charity and delivers food to Haiti. What have you done, Fox headline writer? And yet he is always getting pulled over by the woke police.”
+
+You can check out the clip from Maher’s New Rule segment above.
+
+Maher began his show talking about ageism with Martin Short and Steve Martin ahead their new dark comedy series, Only Murder in the Building, premiering on Hulu. Maher joked that Martin having “white hair when he was three” was a good move since he has always looked the same.
+
+Martin said that he has “never ever thought of dying it.”
+
+The evening’s panel, which included Donna Brazile (USA Today columnist and ABC News contributor) as well as Vice News national correspondent Michael Moynihan, spoke about climate change and the difficult topic of the Taliban’s rapid takeover of Afghanistan since President Biden sent home U.S. troops. “It’s terrible. Twenty years we were there. All for nothing,” Maher exclaimed. “It’s like when Sean Hannity went to high school.”
+
+Michael is a music and television junkie keen on most things that are not a complete and total bore. You can follow him on Twitter — @Tweetskoor
+
+Stream Real Time with Bill Maher on HBO Max
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Rams and Chargers fans commemorated their return to SoFi Stadium with a massive brawl on Saturday.
+
+A viral video showed a male Rams fan in an Aaron Donald jersey being pummeled by at least four others in the stands of the stadium shared by the two Los Angeles teams.
+
+The melee, which left the fan in the Donald jersey bloodied, lasted nearly a minute.
+
+The beginning of the video showed the fan in the Donald jersey arguing with another Rams fan. An unidentified woman in the back then threw beer on the fan in the Donald jersey, leading him to throw what appeared to be the first punch.
+
+It’s unclear what exactly sparked the altercation and whether there were any arrests.
+
+The Week 1 preseason game, which the Chargers won 13-6, marked the return of NFL fans amid the pandemic.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Click to email this to a friend (Opens in new window)
+
+Click to share on Twitter (Opens in new window)
+
+Click to share on Facebook (Opens in new window)
+
+There’s no crying in casting.
+
+Oscar-nominated actress Debra Winger quit the 1992 movie “A League of Their Own” because Madonna was cast in the women’s baseball dramedy.
+
+According to the Telegraph, Winger was starring in the role of Dottie, which was eventually taken over by Geena Davis.
+
+Serious actress Winger even trained with the Chicago Cubs for three months, but when director Penny Marshall cast Madonna, Winger felt Marshall was making fluff — “an Elvis film.”
+
+“The studio agreed with me because it was the only time I ever collected a pay-or-play on my contract. In other words, I collected my pay even though I did not play, and that’s very hard to get in a court,” she told the Telegraph.
+
+Debra Winger left “A League of Their Own” when Madonna was cast. WireImage/Columbia Pictures
+
+She added, “As entertaining as [the finished film] was, you don’t walk away going, ‘Wow, those women did that.’ You kind of go, ‘Is that true?’”
+
+She said the other stars didn’t train as much as she did, but Davis “did OK.”
+
+Tom Hanks and Rosie O’Donnell also starred in the hit movie. Columbia Pictures
+
+“I certainly don’t begrudge any of them,” said Winger, 66.
+
+As far as Madonna’s performance? “I think [her] acting career has spoken for itself,” Winger reportedly said.
+
+Davis went on to get a Golden Globe nomination for the role, while Madonna picked up a nomination for Best Original Song. The film also stars Tom Hanks and Rosie O’Donnell.
+
+Winger, most famous for her roles in “An Officer and a Gentleman” and “Terms of Endearment,” also spoke about quitting Hollywood back in 1995.
+
+“I stopped because I ceased being challenged,” she said, adding that playing the supportive wife and mother got “pretty boring.”
+
+Over the years, the actress has come back for various indie films like 2008’s “Rachel Getting Married.” Most recently, she acts in Apple TV+’s “Mr. Corman.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Where to Stream: The White Lotus
+
+Powered by Reelgood
+
+After weeks of speculation, we finally know how HBO’s The White Lotus ends. (Spoiler warning, obviously.) The wildly chaotic hotel manager Armond (Murray Bartlett) was the one doomed to die. It wasn’t a guest and it wasn’t one of the annoying teen girls. It was Armond. Moreover, Armond was accidentally murdered by guest Shane (Jake Lacy).
+
+However The White Lotus Season 1’s ending was way more than just the death of Armond. We also learned that Tanya (Jennifer Coolidge) eventually did let spa director Belinda (Natasha Rothwell) down, the state of Rachel (Alexandra Daddario) and Shane’s marriage, and which character, shockingly, did decide to change their life totally after a week on the beach.
+
+The White Lotus Season 1’s ending was full of chaotic coincidences, happily ever afters, tragic betrayals, and, yes, death. Still a little confused about everything that went down? Here’s your guide to The White Lotus Season 1 ending explained…
+
+Who Dies in The White Lotus Finale?
+
+Armond! (Yeah, we already addressed this.)
+
+However what’s still worth going into is how Armond died. While it would be easy to ascribe the moment to the long-simmering feud between him and Shane, that’s not exactly accurate. And yet it is.
+
+Here’s how it breaks down… Once Shane caught Armond giving a drugged up rim job to employee Dillon (Lukas Gage), he had the power to not only force Armond to scramble to fulfill his every whim, but Armand’s time at the White Lotus was ticking. Add to that the fact that Paula (Brittany O’Grady) stupidly egged her loverboy Kai (Kekoa Scott Kekumano) on to rob the Mossbachers — meaning a staff member committed a crime on Armond’s watch — and Armond was doomed.
+
+After snorting a load of cocaine for his final dinner as hotel manager, Armond decides to leave a fetid gift for nemesis Shane. He sneaks into Shane’s beloved pineapple suite, zips open luggage, and poops. What he doesn’t count on is Shane coming back into the room.
+
+When Shane realizes that someone is still in his suite, he grabs the room’s pineapple knife to defend himself from the interloper. Since the Mossbachers were robbed, Shane assumes the person in his room is the same violent assailant. Armond and him have a tense stand off that ends with Armond rushing into Shane’s blade.
+
+So it was a terrible accident that would not have happened had Armand not hated Shane so much that he needed to shit in his stuff.
+
+And that is why Shane is upset in the first scene set at the airport in The White Lotus. Well, that, and he believes his marriage to Rachel is over…
+
+Why Does Rachel Stay with Shane in The White Lotus Finale?
+
+The most surprising part of The White Lotus finale might have to do with Alexandra Daddario’s Rachel tearfully joining Shane at the airport and promising she’ll be happy with him. Everything in the series thus far had been signaling that theirs was a mis-match. In fact, Rachel starts the final episode of The White Lotus by telling Shane marrying him was a mistake. She even gets her own room and grapples with ending the marriage that’s barely begun.
+
+However, when Rachel turns to Belinda for advice, the devastated spa manager refuses to help. After being burned by Tanya — who was all in on funding Belinda’s dream business before becoming distracted by a new romance — Belinda tells Rachel she’s all out of advice. The conversation leaves Rachel in a lurch, without guidance to follow her own bliss, and forced to deal with the choices she’s made.
+
+It’s unclear about when and how Rachel learned about Armond’s death, but her arrival at the airport obviously signals that she has decided to give up her own professional dreams and devote her life to being Shane’s trophy wife. (In a frightening way, it’s possible his act of violence could have even scared her into thinking it’s now her job to make him happy, but that could be reading too much into it.)
+
+What Happens to Everyone Else in The White Lotus?
+
+Tanya and new lover Greg (Jon Gries) decide to make the most of their time together, as Greg has unspecified health issues he’s dying from. (I’m assuming it’s some sort of lung disease and not COVID, folks.) They decide to fly to Aspen together and live life to the fullest. Again this leaves Belinda in the lurch.
+
+Olivia (Sydney Sweeney) confronts Paula about her role in the robbery and eventually comforts her friend, cementing their toxic friendship for good. Why was Paula so upset? Because the cops apprehended Kai and put him in jail (and returned the Mossbacher’s expensive jewelry to them).
+
+The drama of the robbery also cemented Nicole (Connie Britton) and Mark’s (Steve Zahn) marriage, meaning they came out better for all the drama. Except for that final little twist…
+
+After finding companionship with the locals, Quinn (Fred Hechinger) decides to slip away from his family as they’re boarding their flight home to stay in Hawaii. As he explains to his parents, he doesn’t want to go home. He wants to finish school remotely and join his new friends as they paddle around the islands and eventually across the ocean to Fiji. Of all the characters in The White Lotus, Quinn might be the only one to truly rid himself of his toxic ties and behavior. We’re rooting for you, Quinn!
+
+Will There Be a The White Lotus Season 2?
+
+Yes! HBO has already announced that writer/director Mike White will be making a second season of The White Lotus. The White Lotus Season 2 will feature all new characters in a new location, i.e. a different White Lotus resort.
+
+Where to stream The White Lotus
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

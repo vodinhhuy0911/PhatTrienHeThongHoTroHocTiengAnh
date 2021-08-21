@@ -1,0 +1,1942 @@
+USA TODAY
+
+The USA TODAY Tech section looks to foster a conversation and community around gaming, its impact on people of different communities and tips on how to enjoy your favorite games more! We're looking for broad appeal, player insight, new information, tips and tricks, first-person experiences with a game, fresh takes on games or gaming culture, or listicles of your favorite/least favorite gaming elements.
+
+We will only accept pieces that are submitted exclusively to USA TODAY on topics of PC, console, phone gaming or board games. We do not accept material that has been published on blogs or other news sites.
+
+How to submit
+
+Columns can be up to 750 words. They should be pasted directly into an email and sent to moneyforum@usatoday.com or through the form linked here (or below).
+
+Pieces should include links (URLs, not headlines or footnotes) to back up quotes and factual material – if included in the piece. People featured in columns must be identified by their real, full names.
+
+Please include a short biography, two sentences at most, to run at the end of your column. If you or a business, trade group or other institution with which you are associated stands to gain financially or in any other way from your column, you should disclose that information to us in detail. In most cases, it should also be included in the body of the piece or in the author's biographical information.
+
+We do not publish open letters, class projects or material that has been submitted to multiple outlets.
+
+Columns are accepted for online publication. Print publication is not guaranteed. All columns published by USA TODAY are available for use in print and online by the more than 260 other newspapers in the USA TODAY Network. They include Bergen County (N.J.), Burlington (Vt.), Cincinnati, Des Moines, Detroit, El Paso, Indianapolis, Louisville, Memphis, Milwaukee, Nashville, Phoenix, Reno, Tallahassee and Wilmington (Del.).
+
+Authors may post their columns elsewhere 48 hours after they are published at USA TODAY. By submitting a column to USA TODAY and agreeing to its publication, authors are granting exclusive rights to the piece to the USA TODAY Network for 48 hours and non-exclusive rights thereafter.
+
+Submission form
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This fall for tech lovers means new iPhones, which also usher in the arrival of a new version of iOS.
+
+Apple revealed the first details of iOS 15 during an online keynote address last month for its annual Worldwide Developers Conference.
+
+The update for Apple's mobile operating system will include features such as the ability to take FaceTime calls from Android devices and upgrades to notifications.
+
+However, not every feature will work for every phone. As Apple explains in the fine print in a preview for iOS 15, if you don't have an iPhone with an A12 bionic chip or later, some options won't be available.
+
+So which phones have the A12 chip and up? Everything from the iPhone XS and XR and beyond is covered. But if you own an iPhone X or older? You're out of luck.
+
+Here's a look at some of the key iOS 1features you'll miss if you own an older iPhone:
+
+All clear:Blue Origin gets clearance to send Jeff Bezos, 3 others to space
+
+Video games:Fortnite working with LeBron James on new gear
+
+FaceTime features
+
+Spatial audio offers a richer audio experience attempting to replicate the sound of a friend or family member in the room. Users of older phones also won't have access to Portrait Mode.
+
+No big Maps updates
+
+Most notable will be the absence of immersive walking directions, where your iPhone will help guide you using augmented reality. Also missing is more detailed maps with information such as elevation, trees, buildings and landmarks.
+
+Live Text
+
+This feature will allow owners of newer iPhones to look up text within photos or screenshots and highlight them for more information.
+
+Animated Weather backgrounds
+
+Apple's Weather app will offer more animated backgrounds they say will better illustrate concepts such as the sun's position, clouds and precipitation.
+
+Siri
+
+A lot of the upgrades that make Apple's voice assistant better at processing your voice won't be available on older iPhones. It will also miss offline support.
+
+Keyboard dictation
+
+When users currently attempt to dictate text, it times out after 60 seconds. Owners of newer iPhones will soon be able to do this for an unlimited amount of time.
+
+Walking steadiness
+
+The feature which will only be available on iPhone 8 and later models measures how you walk to determine your risk of falling.
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A dispute between satellite TV provider Dish and media company Sinclair could result in more than 100 local TV stations being removed from the pay TV service.
+
+Sinclair Broadcast Group, headquartered in Baltimore, Maryland, said Monday an agreement with Dish is unlikely to be reached before the companies' current one expires Aug. 16. If that is the result, 108 Sinclair stations and its Tennis Channel would be removed. The stations include 97 ABC, CBS, Fox and NBC affiliates and their removal would impact 3.5 million Dish subscribers across 38% of the country, Sinclair said.
+
+Englewood, Colorado-based Dish has 8.55 million satellite TV subscribers and 2.44 million Sling TV subscribers. These negotiation with Sinclair do not involve Sling, Dish said.
+
+Samsung Galaxy S21 Ultra 5G:Can the flagship smartphone replace your digital camera for vacation photos?
+
+It's back-to-school time:So how do we cut back all the video gaming?
+
+As is typical in these carriage disputes, both sides say the other is to blame. Dish "has a demonstrated track record of dropping local and national programming that viewers value," Sinclair said in a press release about the standoff.
+
+"DISH has recently had carriage disruptions, some of which continue to this day, with the NFL Network, HBO, the Bally Sports Regional Sports Networks, Mid Atlantic Sports Network, Altitude Sports Network, the NBC RSNs, Nexstar Media Group, E.W. Scripps Co., Mission Broadcasting, Cox Media Group, Sunbeam Broadcasting, and Capital Broadcasting. In the past few years, DISH Network has dropped over 230 channels due to carriage disputes," Sinclair said.
+
+You can see the list of channels that Sinclair says could be dropped. Sinclair's markets include Austin, Texas, Birmingham, Ala., Chattanooga, Tenn., Cincinnati, Green Bay-Appleton, Wisc., Oklahoma City, Pittsburgh, Seattle-Tacoma and Washington.
+
+"The media conglomerate is trying to use its market power to demand an unreasonable fee increase, using millions of Americans as pawns in its negotiations," Dish said in a press release. "Sinclair is demanding DISH pay nearly a billion dollars in fees for their television channels – a massive increase from what we pay for these same channels today despite declining viewership,” said Dish TV group president Brian Neylon said in a statement.
+
+Dish said it is still planning to negotiate, he said. “There is still time to reach an agreement with Sinclair that is fair for all parties involved, especially our customers,” Neylon said.
+
+Rich Greenfield, partner and media and technology analyst at LightShed Partners, tweeted that Sinclair is "trying to FORCE carriage of" the regional sports networks it acquired two years ago from Disney. Disney had to sell them to gain approval for its $71 billion bid for Fox.
+
+Less than two weeks ago, Dish ended a dispute with AT&T that kept HBO and Cinemax off its system for more than three years.
+
+Follow Mike Snider on Twitter: @MikeSnider.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Mike Feibus
+
+Special to USA TODAY
+
+If you’re still determined to pack two trips’ worth of fun and adventure into your first summer getaway since COVID-19, then maybe it’s time to assess whether your smartphone will do justice to the two years’ worth of vacation memories you’re about to make.
+
+I did. When we left for our epic island-hopping adventure in the British Virgin Islands earlier this summer, I brought the Samsung Galaxy S21 Ultra 5G “call-camera” with me, and left my fancy, high-end digital SLR camera at home. And I came back happy.
+
+I like to take good pictures. But I want the camera to do the work. So I never take the time to learn the pro features, whether that’s with my digital single-lens reflex camera and its many lenses or my smartphone. I just leave it in auto-focus.
+
+Truth be told, I only have that fancy, high-end digital DSLR to shoot video, which is something I need to do for work sometimes. And ever since I bought it, I’ve taken it with me on vacation because it happens to take really nice pictures.
+
+If you're considering upgrading your smartphone before embarking on your first vacation in nearly two years and wondering if it can do the job of your "real" camera, read on.
+
+Latest and greatest
+
+There are three reasons I decided to take only a flagship smartphone like the S21 Ultra to the British Virgin Islands:
+
+Lots of lenses: Lenses flat enough to fit into a smartphone aren’t nearly as flexible as camera lenses, which leverage their length for zooming. So smartphone makers have been closing the gap by building teams of specialist lenses to take quality photos in different conditions. The S21 Ultra has four rear cameras: wide, ultra-wide and two telephotos. Apple’s iPhone 12 Pro Max has three, forgoing the second telephoto lens.
+
+Night mode: The S21 Ultra and iPhone 12 Pro Max are much better at low-light photography, which has been a challenge for smartphones. Both feature a specialty Night Mode, which results in better pictures – but also takes longer to focus.
+
+Artificial intelligence performance: It’s one thing to pack all those lenses into the rear camera bump of a skinny smartphone. It's quite another to be able to switch lenses on the fly – and even combine two of them for better quality zoom. And today’s flagship smartphones are plenty capable.
+
+In fairness to my Panasonic Lumix DC-GH5 camera, it is four years old, and the S21 Ultra is barely halfway to its first birthday. Plus, I do handicap the GH5 with my stubborn insistence on auto-mode – that’s especially detrimental in low-light situations – as well as with my solitary 5x zoom lens, with its admittedly pedestrian 12-60mm focal length. For comparison, the S21 Ultra’s super telephoto lens has an equivalent focal length of 240mm.
+
+With plenty of daylight, and for subjects in range, I do sometimes snap richer, more detailed pictures with the GH5 than the S21 Ultra. The GH5 would obviously compete better if I lugged more lenses along – and in the hands of a better photographer. But that’s the whole point here, isn’t it? I’m not a better photographer. And I won’t carry more lenses. Unless they fit in my pocket.
+
+So how’d I do?
+
+With such beautiful Caribbean subjects, from the breathtaking Devil’s Bay on Virgin Gorda to the secluded stretches of beach on remote Anegada Island, everyone came back with pictures to treasure. But as the only one with a flagship phone, I was able to coax more great shots in more situations.
+
+I most often earned oohs and aahs from my boatmates when we compared long-distance shots, and when we looked at pictures taken in low-light conditions. There was also a subtler advantage: My pictures often had more detail than even those from a high-end, two-year-old smartphone. That gave me more flexibility to crop photos later.
+
+I took a few pictures in Night Mode that came out blurry. The gentle rocking of the boat and Night Mode’s lengthy focus time clearly conspired against me on those.
+
+What to do?
+
+You’ll notice a big improvement in the number of scenes and situations you can capture with a current top-of-the-line smartphone like the S21 Ultra – even if your smartphone is less than four years old.
+
+On the other hand, you’ll probably be content with the pictures you take with your existing phone – provided you don’t invite anybody along who is taking shots with the latest technology.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The Associated Press
+
+SEOUL, South Korea – Billionaire Samsung scion Lee Jae-yong will be released on parole this week after he spent 18 months in prison for his role in a massive corruption scandal that triggered nationwide protests and led to the ouster of the country’s previous president.
+
+The announcement Monday by the Justice Ministry, which came a year before Lee completed his 30-month sentence, extends a history of leniency toward major white-collar crime and preferential treatment for convicted tycoons. President Moon Jae-in, after winning a presidential by-election in 2017, had vowed to curb the excesses of “chaebol,” South Korea’s family-owned conglomerates, and end their cozy ties with the government.
+
+Lee, who has been imprisoned since January, runs the Samsung group as vice chairman of Samsung Electronics, one of the world’s largest makers of computer memory chips and smartphones.
+
+Smartphones:Can the Samsung Galaxy S21 Ultra 5G replace your digital camera for vacation photos?
+
+Reading an amazing book? Here's how to seamlessly sync between the audiobook and ebook
+
+He was convicted of bribing President Park Geun-hye and her close confidante, who are serving lengthier prison terms, to win government support for a merger in 2015 between two Samsung affiliates that tightened his control over the corporate empire.
+
+Business leaders and members of Moon’s government and ruling party endorsed Lee’s early release, citing Samsung’s crucial role in the national economy and the increasing challenges it faces in the global semiconductor market.
+
+Polls indicate that South Koreans – years removed from the angry rallies of 2016 and 2017 – are largely in favor of Lee’s release, showing Samsung’s deep influence in a country where it provides the smartphones, TVs and credit cards people use, the apartments they live in and the hospitals where they are born or go to die.
+
+Even after he is released Friday, legal risks will loom for Lee as he undergoes a trial on separate charges of stock price manipulation and auditing violations related to the merger in 2015. Lee’s next court hearing in that case is set for Thursday at the Seoul Central District Court.
+
+Justice Minister Park Beom-kye said the decision to grant parole to Lee, who will be released with about 800 other convicts, was based on concerns related to the “national economic situation and the global economic environment” amid the prolonged COVID-19 crisis. Moon’s office didn’t immediately comment on Lee’s release.
+
+Lee, 53, was originally sentenced in 2017 to five years in prison on the corruption charges but was freed after 11 months in February 2018 after a Seoul High Court ruling reduced his term to 2½ years and suspended his sentence, overturning convictions.
+
+The Supreme Court returned the case to the high court in 2019, ruling that the amount of Lee’s bribes had been undervalued. Lee was sent back to jail in January this year after a retrial.
+
+Samsung Electronics has shown no sign of business trouble while Lee ran the company from behind bars, communicating his decisions through visiting company executives. The demand for its semiconductor chips, TVs and other products has surged as the pandemic forced millions to stay at home.
+
+The company said last month that its operating profit for the second quarter increased by 54% from a year earlier to 12.57 trillion won ($11 billion), driven by its dual strengths in components and finished products.
+
+There were concerns that Lee’s prison term slowed Samsung’s major investments when it needs to spend aggressively to stay competitive in semiconductors and other technologies.
+
+The demand for advanced memory chips is likely to grow rapidly in the coming years, driven by fifth-generation (5G) wireless services, artificial intelligence and self-driving cars.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Nick Perry
+
+Associated Press
+
+WELLINGTON, New Zealand (AP) — Google co-founder Larry Page has gained New Zealand residency, officials confirmed Friday, stoking debate over whether extremely wealthy people can essentially buy access to the South Pacific country.
+
+Immigration New Zealand said Page first applied for residency in November under a special visa open to people with at least 10 million New Zealand dollars ($7 million) to invest.
+
+"As he was offshore at the time, his application was not able to be processed because of COVID-19 restrictions," the agency said in a statement. "Once Mr. Page entered New Zealand, his application was able to be processed and it was approved on 4 February 2021."
+
+Gaining New Zealand residency would not necessarily affect Page's residency status in the U.S. or any other nations.
+
+New Zealand lawmakers confirmed that Page and his son first arrived in New Zealand in January after the family filed an urgent application for the son to be evacuated from Fiji due to a medical emergency.
+
+"The day after the application was received, a New Zealand air ambulance staffed by a New Zealand ICU nurse-escort medevaced the child and an adult family member from Fiji to New Zealand," Health Minister Andrew Little told lawmakers in Parliament.
+
+Little was responding to questions about how Page had managed to enter the country at a time when New Zealand had shut its borders to non-residents in an attempt to stop the spread of the coronavirus.
+
+Little told lawmakers the family had abided by applicable virus protocols when they arrived.
+
+Step away from the screen, kiddo:It's back-to-school time. So how do we cut back all the video gaming?
+
+Beware:Touchless QR codes open new doors for scammers
+
+Page's residency application was approved about three weeks later.
+
+Immigration New Zealand noted that while Page had become a resident, he didn't have permanent residency status and remained subject to certain restrictions.
+
+Still, the agency on its website touts the "Investor Plus" visa as offering a "New Zealand lifestyle," adding that "you may be able to bring your car, boat and household items to New Zealand, free of customs charges."
+
+Some local news organizations reported that Page had since left New Zealand.
+
+Google did not immediately respond to requests for comment.
+
+Forbes on Friday ranked Page as the world's sixth-wealthiest person, with a fortune of $117 billion. Forbes noted that Page stepped down as chief executive of Google's parent company Alphabet in 2019 but remained a board member and controlling shareholder.
+
+Opposition lawmakers said the episode raised questions about why Page was approved so quickly at a time when many skilled workers or separated family members who were desperate to enter New Zealand were being turned away.
+
+"The government is sending a message that money is more important than doctors, fruit pickers and families who are separated from their children," ACT deputy leader Brooke van Velden said in a statement.
+
+In 2017, it emerged that Silicon Valley billionaire Peter Thiel had been able to gain New Zealand citizenship six years earlier, despite never having lived in the country. Thiel was approved after a top lawmaker decided his entrepreneurial skills and philanthropy were valuable to the nation.
+
+Thiel didn't even have to leave California for the ceremony — he was granted citizenship during a private ceremony held at the New Zealand Consulate in Santa Monica.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Anyone who ventured into a restaurant during the pandemic knows that the QR code is a contactless way to look at a menu. Why keep passing around old plastic menus that can go through a ton of hands as we fight the virus?
+
+And now, scammers want to offer you that touchless experience too.
+
+We're well versed on why consumers don't want to click on links or attachments in texts or emails that arrive out of the blue. But the Better Business Bureau is warning consumers that they need to be extra careful if they're sent a digitally readable square known as a QR code.
+
+One victim told the BBB Scam Tracker that they received a fraudulent letter about student loan consolidation. It contained a QR code that appeared to link to the official Studentaid.gov website. The QR code also helped the letter, which was part of a fraud, appear official.
+
+Apple wants to look in your iPhone:Company plans to scan U.S. phones for images of child abuse
+
+It's back-to-school time:So how do we cut back all the video gaming?
+
+A QR code — or quick response code — is a matrix bar code that took off in the manufacturing industry after it was developed in 1994 by engineers working for Denso Wave, a Japanese auto parts supply giant.
+
+Using the camera on a smartphone, a blob of black and white turns into a list of food and drinks on the restaurant menu, which is now on your phone.
+
+Companies use QR codes to point consumers to their apps and track packages, too.
+
+Don't download malware
+
+As the QR codes have become more commonly used, though, the BBB notes that it has received reports nationwide of con artists using the system to their advantage.
+
+Laura Blankenship, chief of staff and director of marketing for the Better Business Bureau Serving Eastern Michigan, said locally she has not received any of QR code complaints yet but it's likely just a matter of time.
+
+"This is much like a phishing scams," she said.
+
+"Just like clicking links, you have to be careful what website you’re opening on your phone. If you’ve never heard of the organization or the website where the QR code is supposed to go to, that’s a huge red flag."
+
+She said the use of the QR code by scammers offers another way to steal personal information or get you to download malware onto your device.
+
+Experts note that QR codes are a bit like a shortened URL when it comes to fraud. :A consumer isn't going to be able to immediately see where the link will take them. So criminals can disguise their motives and abuse the technology.
+
+The BBB alert said the scam can start via an email, a direct message on social media, a text message, a flyer, or a piece of mail that includes a QR code.
+
+The scammers want you to scan the code with your phone’s camera. But you have no idea where the QR code could end up taking you or what the scammers might do next.
+
+Some possible bad outcomes: The crooks can now send text messages to one or all contacts in a user’s address book; or even send a payment to a destination where it cannot be recovered, according to an alert earlier this year by the U.S. Army Major Cybercrime Unit.
+
+"In some scams, the QR code takes you to a phishing website, where you are prompted to enter your personal information or login credentials for scammers to steal," the BBB warned.
+
+"Other times, con artists use QR codes to automatically launch payment apps or follow a malicious social media account."
+
+Scams can differ but the crooks want you to scan the code right away. What you need to do, though, is step back and make sure any correspondence is legitimate before you scan the code. Contact the friend or co-worker directly to see what they might have sent and make sure the sender wasn't hacked.
+
+What are the red flags of QR code scams?
+
+The BBB and others offer these warnings:
+
+Don’t open links from strangers. If you receive an unsolicited message from a stranger, don’t scan the QR code, even if they promise you exciting gifts or investment opportunities.
+
+Verify the source. If a QR code appears to come from a well-known company or government agency, take extra time to go to the official website to confirm it.
+
+Be suspicious if, after scanning a QR code, a password or login information is requested. Don't give that extra information.
+
+Be wary of short links. If a URL-shortened link appears when you scan a QR code, understand that you can’t know where the code is directing you. It could be hiding a malicious URL.
+
+Some scammers attempt to mislead consumers by altering legitimate business ads.
+
+Install a QR scanner with added security. Some antivirus companies have QR scanner apps that check the safety of a scanned link before you open it. They can identify phishing scams, forced app downloads, and other dangerous links.
+
+Adam Levin, founder of CyberScout and author of "Swiped: How To Protect Yourself in a World Full of Scammers, Phishers and Identity Thieves," said consumers need to realize that QR codes are easy to print out.
+
+"Scammers sometimes cover legitimate QR codes with bad ones," he said.
+
+"If you're at an outdoor cafe and each table has a QR code linking to the menu, it's relatively easy to replace the code with one that links to malware," Levin warned.
+
+"This is doubly the case if the QR code directs you to another link-shortening service such as bit.ly, which can hide the final online destination of the code."
+
+In general, he said, consumers need to be more cautious with the QR codes and even use them sparingly.
+
+"Your smartphone can be a gateway to your personal data, finances and accounts," he said. "Scanning QR codes and hoping for the best is asking for trouble."
+
+Overall, Levin said, it’s a good rule of thumb to turn your smartphone off and restart it regularly.
+
+"Many forms of malware that live in your phone such as spyware depend on the device never being turned off."
+
+ContactSusan Tompor: stompor@freepress.com. Follow her on Twitter@tompor. To subscribe, please go to freep.com/specialoffer. Read more on business and sign up for our business newsletter.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Jenna Fryer
+
+Associated Press
+
+TOKYO — A condom fixed Jessica Fox's canoe, and skateboarder Jagger Eaton celebrated his bronze medal by broadcasting live on Instagram. Margielyn Didal "let" Tony Hawk take a picture with her to post on Facebook.
+
+The stability of the cardboard framed beds in the athlete's village has been tested by Olympians who treated them as trampolines on nearly every social media platform, and a Greek water polo player created a dating app — which might have come in handy for American rugby player Ilona Maher, who rolled with the schtick of the "Thirsty Olympian."
+
+The made-to-watch Tokyo Games, where pandemic precautions prevent permitting spectators, have become a digital affair more than ever. From social media to streaming, athletes and their events are reaching the public in record-smashing and trailblazing ways.
+
+More than 100 million unique users had visited Olympic digital platforms or used the Tokyo 2020 app through the first week of the games. U.S. rightsholder NBC has notched 2.5 billion streaming minutes of Olympics content across all its digital platforms, the network said, a 77% increase from the 2018 Pyeongchang Winter Games. The first week in Tokyo was the highest-ever weekly usage for streaming platform Peacock.
+
+But it's the social media platforms that are causing the breakout buzz. Social posts by Olympics accounts on TikTok, Instagram, Facebook, Twitter and Weibo generated 3.7 billion engagements. The Olympics' social media accounts have a combined total of 75 million followers.
+
+Then there is the TikTok phenomenon. Launched in 2017, the short-form, video-sharing app has been one of the preferred social media platforms of these games. Athletes you'd never heard about before Tokyo — particularly those from niche sports — have used TikTok to capture moments that have not only gone viral but became the avenue to introduce themselves to the world.
+
+Karate, skateboarding, sport climbing and surfing — all sports that resonate with a younger demographic — certainly helped drive traffic to TikTok. The podium winners in women's street skateboarding were 13, 13 and 16 years old, and silver medalist Rayssa Leal of Brazil has 3.4 million followers on TikTok, half of her 6.5 million followers on Instagram.
+
+Even the official Olympics page has soared with more than three billion views of videos related to its #OlympicSpirit challenge.
+
+"TikTok, as my son told me recently, is the digital place of choice of younger audiences," IOC spokesman Mark Adams says. "The Games has to go to where the people are."
+
+Tokyo Games' social media standouts
+
+The world was familiar with gymnast Simone Biles before her second Olympics, and teammate Sunisa Lee was quite popular, too. After Lee won the women's all-around, she surpassed 1 million followers on her Instagram account. When she settled for bronze on uneven bars, the 18-year-old admitted her increased fame had been a distraction.
+
+But Ilona Maher? Few knew of the 24-year-old rugby player from Vermont who might very well be TikTok's breakout star of the Olympics. Posting while wearing a red, white and blue bucket hat, the self-deprecating 5-foot-10, 200-pound nursing school graduate read an article that called her "the thirsty Olympian" and ran with it.
+
+Maher uses a #beastbeautybrains campaign and hopes her videos spread body image positivity, bring more attention to the sport of rugby, and, most importantly, land her some endorsement deals.
+
+"As a female athlete in an emerging sport, I don't make a lot of money, so I do hope it opens the doors for brand deals," Maher says. As for the message she's trying to send young girls: "It's OK to take up space. You can be so many things, a beast on the rugby field, a beauty whenever, and have as much brains as the smartest person out there."
+
+►Watch out copin' that dance off TikTok:Choreographer JaQuel Knight, Logitech partner to help BIPOC dance creators copyright their moves
+
+►Apple's latest safety steps:Apple wants to look in your iPhone: Company plans to scan U.S. phones for images of child abuse
+
+Jagger Eaton arrived in Tokyo with a following in the skateboarding community that began in 2012 when he set a record as the youngest X Games competitor at age 11. But it wasn't until his sport was added to the Olympics that the rest of America became familiar with the 20-year-old Arizonan who won bronze with AirPods in his ears and his iPhone in his pocket.
+
+When he messed up a trick and then was shown searching for his fallen AirPod, Eaton went viral.
+
+"I am so stoked that skateboarding got that many eyes on it. I think it really pushes the sport forward and legitimizes skateboarding," says Eaton, who says he has "no idea" why America fell in love with him. His social media presence is deliberate, with a defined aesthetic he hopes legitimizes skateboarding.
+
+"I feel like people really see how much I love skateboarding and how much I want to give back to the skate community, as well as the younger generation that has given me so much motivation," Eaton says.
+
+Australian canoeist Jessica Fox found her fame not by winning gold in canoe slalom or bronze in kayak slalom, but when she posted a TikTok video of someone using a condom to repair the nose of her boat.
+
+Filipino skateboarder Margielyn Didal posted a picture alongside Tony Hawk, considered the greatest skateboarder of all time, that jumped in on Hawk's running joke that he's often misidentified in public. When her post was misinterpreted as Didal didn't recognize Hawk, the GOAT had to explain.
+
+Erik Shoji, an American volleyball player, gained attention with TikTok food reviews and tours from the athlete's village, along with behind-the-scenes looks at the athlete's experience. He didn't take social media seriously until he started a YouTube channel last year while battling COVID.
+
+Shoji amped up his presence as both a way to preserve his memories and spotlight the U.S. men's volleyball team off the court.
+
+"People see us playing but don't really know us off of the court," the Hawaiian says. "I hope that by showing myself and my teammates on TikTok that viewers were able to get to know us in a different light and fall in love with our team."
+
+Halfway around the world in Slovakia, 18-year-old synchronized swimmer Silvia Solymosyova gained traction even though she's not yet an Olympian. Solymosyova has studied TikTok trends to gain 1.2 million followers while reaching the U.S. audience with her underwater videos.
+
+"Lots of Slovaks think that everything from abroad is better. My region is too small and my niche is too specific. That's why I was trying to engage mostly with U.S. TikTokers and target the English-speaking audience," she said. "Because I'm Gen Z who is setting trends on TikTok, I've learned necessary skills, and I'm a little ahead."
+
+Then there's Marios Kapotsis, who is trying to lead Greece to its first-ever Olympic medal in men's water polo. The 29-year-old developed a dating app called "Vespr" that only functions at night.
+
+"So the app starts when the sun goes down, it's open, and when the sun goes up, it's closed," Kapotsis says. "So it's only during the night. Whatever you do during the night, the next night, everything is finished. So every night is something new."
+
+___
+
+AP Sports Writer Jay Cohen and AP reporter Syd Fryer contributed.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Barbara Ortutay and Frank Bajak
+
+AP
+
+Apple unveiled plans to scan U.S. iPhones for images of child sexual abuse, drawing applause from child protection groups but raising concern among some security researchers that the system could be misused by governments looking to surveil their citizens.
+
+Apple said its messaging app will use on-device machine learning to warn about sensitive content without making private communications readable by the company. The tool Apple calls “neuralMatch” will detect known images of child sexual abuse without decrypting people’s messages. If it finds a match, the image will be reviewed by a human who can notify law enforcement if necessary.
+
+►Masking indoors:Apple to require masks in half of its US stores starting Thursday following CDC guidelines
+
+►Affordable housing:Apple gives $1 billion to fund affordable housing projects in California
+
+But researchers say the tool could be put to other purposes such as government surveillance of dissidents or protesters.
+
+Matthew Green of Johns Hopkins, a top cryptography researcher, was concerned that it could be used to frame innocent people by sending them harmless but malicious images designed to appear as matches for child porn, fooling Apple’s algorithm and alerting law enforcement – essentially framing people. “Researchers have been able to do this pretty easily,” he said.
+
+Tech companies including Microsoft, Google, Facebook and others have for years been sharing “hash lists” of known images of child sexual abuse. Apple has also been scanning user files stored in its iCloud service, which is not as securely encrypted as its messages, for such images.
+
+Some say this technology could leave the company vulnerable to political pressure in authoritarian states such as China. “What happens when the Chinese government says, ‘Here is a list of files that we want you to scan for,’” Green said. “Does Apple say no? I hope they say no, but their technology won’t say no.”
+
+The company has been under pressure from governments and law enforcement to allow for surveillance of encrypted data. Coming up with the security measures required Apple to perform a delicate balancing act between cracking down on the exploitation of children while keeping its high-profile commitment to protecting the privacy of its users.
+
+Story continues below.
+
+Apple believes it pulled off that feat with technology that it developed in consultation with several prominent cryptographers, including Stanford University professor Dan Boneh, whose work in the field has won a Turing Award, often called technology’s version of the Nobel Prize.
+
+The computer scientist who more than a decade ago invented PhotoDNA, the technology used by law enforcement to identify child pornography online, acknowledged the potential for abuse of Apple’s system but said it was far outweighed by the imperative of battling child sexual abuse.
+
+“It possible? Of course. But is it something that I’m concerned about? No,” said Hany Farid, a researcher at the University of California at Berkeley, who argues that plenty of other programs designed to secure devices from various threats haven’t seen “this type of mission creep.” For example, WhatsApp provides users with end-to-end encryption to protect their privacy, but employs a system for detecting malware and warning users not to click on harmful links.
+
+Apple was one of the first major companies to embrace “end-to-end” encryption, in which messages are scrambled so that only their senders and recipients can read them. Law enforcement, however, has long pressured for access to that information in order to investigate crimes such as terrorism or child sexual exploitation.
+
+“Apple’s expanded protection for children is a game changer,” John Clark, the president and CEO of the National Center for Missing and Exploited Children, said in a statement. “With so many people using Apple products, these new safety measures have lifesaving potential for children who are being enticed online and whose horrific images are being circulated in child sexual abuse material.”
+
+Julia Cordua, the CEO of Thorn, said that Apple’s technology balances “the need for privacy with digital safety for children.” Thorn, a nonprofit founded by Demi Moore and Ashton Kutcher, uses technology to help protect children from sexual abuse by identifying victims and working with tech platforms.
+
+Contributing: Mike Liedtke, The Associated Press
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Marc Saltzman
+
+Special to USA TODAY
+
+Whether you’ve purchased a new computer to fulfil your gaming needs or would like to add some fun (and functionality) to an aging PC, perhaps it’s time to invest in a few accessories.
+
+You’re not alone: the demand for computer gaming accessories grew 81% year-over-year, according to market research firm NPD Group, when comparing U.S. sales data between 2019 and 2020. Combined with PC gaming hardware, such as game-centric laptops and desktops, consumers spent $4.5 billion last year – double the total sales from 2017.
+
+“Not only has PC gaming become the dominant gaming platform globally, but making the technical and aesthetic choices for your setup is a fun hobby in and of itself,” says Evan Lahti, editor-in-chief for PC Gamer, a leading publisher of computer game news, reviews, and how-to’s, across its nearly 30-year-old magazine and popular website.
+
+“People like PC gaming because it gives you access to higher fidelity gaming, higher performance gaming, with lots of options for upgrading and customization over time,” he explains.
+
+Peripherals range from controllers, mice and keyboards, to monitors, routers and headsets, to gaming furniture, such as specialty chairs and desks.
+
+The following is a look at a few new and newsworthy accessories to spice up your laptop or desktop gaming setup.
+
+Not mousing around
+
+Regardless of the genres you’re into, the Razer Viper 8KHz ($79.99) is simply one of the best wired mice on the market.
+
+The ambidextrous esports gaming mouse features an 8000 Hz polling rate for incredible speed, low latency and smooth cursor movement. That is, this “hyper rolling” tech sends up to 8 times more data per second (and reducing delay from 1 to 1/8th of a millisecond) compared to other gaming mice, says Razer – all to give you an edge while competing online.
+
+Weighing 71 grams (2.5 oz.), the black Viper 8KHz also houses 2nd-generation Razer optical switches, to make every click feel (and sound) more satisfying, an reduce the odds of “misclicks,” while achieving an industry-leading 99.6% resolution accuracy.
+
+Another gaming mouse option is Marsback’s Zephyr Pro ($59), the follow-up to last year’s “world’s first” gaming mouse with a built-in fan to keep your palm cool.
+
+Offering more power and performance than its predecessor, the “sweatproof” Zephyr Pro features premium parts, including OMRON switches and a Pixart 3389 optical sensor (with 16,000 dots-per-inch resolution).
+
+Available in black or white, it’s also a RGB (red-green-blue) mouse, which lets you customize the 16.8 million colors.
+
+Keys, please
+
+If you’re looking to replace the keyboard that came with your PC, Logitech has 14 wired and wireless gaming models to choose from.
+
+A best-seller is the Logitech G G815 LightSync RGB Mechanical Gaming Keyboard ($199), an ultra-thin, fully customizable and mechanical gaming keyboard for desktops and laptops.
+
+With its low profile, Logitech says gamers get the speed and accuracy they want with traditional switches, yet at half the height. You can choose between GL Clicky (audible click and tactile feedback), GL Tactile (a gentle bump for some tactile feedback), or GL Linear (a completely smooth keystroke).
+
+Handled with software, LightSync RGB technology lets you customize the keyboard from a full spectrum of millions of colors, as well as synchronize lighting and effects with other Logitech G devices.
+
+Also via free software, programmable G keys line the left side of the keyboard. There are also dedicated media controls for quickly accessing music, adjusting volume, skipping through music and video tracks and instant mute.
+
+A USB port at the front of the keyboard is ideal for charging devices, while a USB port on the back of the keyboard can be used to pass through data (to the connected device in the front), if plugged into a PC.
+
+Screen dream
+
+Monitors are getting bigger, wider, clearer, and faster – all of which are appealing to those who play computer games.
+
+The ROG (Republic of Gamers) Strix XG27AQM ($699) is a 27-inch monitor with wide-quad HD (WQHD, 2560 x 1440) resolution and high dynamic range (HDR) for better contrast, brightness and color.
+
+But what really sets is apart is its speed. Capable of delivering a 270 Hz refresh rate (with overclocking), it’s the kind of display used by pro esports gamers for incredibly smooth and fast (0.5 ms) response times. Especially when you’re competing online, every millisecond counts.
+
+Standard features on this fast IPS monitor include ASUS Extreme Low Motion Blur Sync (ELMB SYNC) technology and compatible with NVIDIA G-SYNC, all to eliminate “ghosting” and “tearing” in your fast-paced shooters and racing games.
+
+Hear ye, hear ye
+
+Whether you’re looking to strategize during a heated multiplayer match or simply want to trash-talk online opponents, a headset microphone is ideal for private audio listening and chatting with others.
+
+While SteelSeries has less expensive wired and wireless models, its Arctis 9 Wireless ($199) is a premium headset for PC gamers, offering lossless 2.4 GHz wireless for lag-free, high fidelity gaming audio and simultaneous Bluetooth connectivity for calls, music, and VoIP chatting while playing.
+
+The Danish gaming peripheral maker says it uses similar technology adopted by aircraft carrier deck crews in its Discord-certified microphone. That means clear audio (to whom you’re yelling at, or with!), with noise cancellation, while on-ear ChatMix control lets you instantly change audio levels on the fly – without pausing your game. It also supports DTS Surround Sound.
+
+Better yet, the Arctis 9 Wireless headset’s battery tops 20 hours between charges.
+
+Table stakes
+
+Gaming desks are also ideal for PC gamers – and can be had without breaking the bank.
+
+New this summer, Ameriwood Home’s NTense Xtreme Gaming Desk ($195.98 for white, $250.19 for black) offers two levels to set up gear, such as placing monitors and speakers on the back riser, and the mouse and keyboard on the main level.
+
+The wire management trough keeps cords organized and out of the way, while two USB ports lets you charge up a phone, wireless headset and other devices. The desk also includes a configurable cup holder and headphone hook.
+
+For added versatility, the NTense Genesis Adjustable Gaming Desk ($237.45 for white or $260.51 for black), on the other hand, adjusts to three different heights. It converts from a 29-inch sitting desk (office chair) to a height of 36 inches (barstool) to a full 40-inch-tall standing desk.
+
+It also includes wire management, dual USB ports, cup holder and headphone hook.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Check out these computer gaming accessories
+
+The demand for computer gaming accessories grew 81% percent year-over-year in 2020, according to market research firm NPD Group.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Yelp is adding details to listings, so users can see what COVID-19 guidelines businesses have implemented.
+
+Starting Thursday, Yelp users can filter businesses based on two new attributes: "Proof of vaccination required" and "All staff fully vaccinated," the app announced.
+
+Yelp plans to proactively monitor the pages of businesses that add these attributes to prevent any potential backlash.
+
+"Yelp’s Content Guidelines require that all reviews be based on a first-hand consumer experience," Noorie Malik, Yelp's vice president of operations, said in a blog post Thursday. "However, in recent weeks, we’ve seen a rise in reviews focused on people’s stance on COVID vaccinations rather than their actual experience with the business."
+
+Can you be asked? Yes, businesses can require vaccination proof
+
+Carrying proof of vaccine: How to store your vaccination card on your smartphone
+
+Yelp said that whenever a business experiences unusual activity on its listing such as "review bombing," a coordinated effort to post negative reviews to drive down its rating, Yelp will temporarily disable posting and place an alert until activity slows.
+
+Yelp businesses can detail amenities such as mask requirements and whether all staffers wear masks.
+
+As the delta variant of the coronavirus spreads, governments and businesses have pushed for stricter vaccination requirements. Companies including Facebook and United Airlines will require their employees to get vaccinated before they return to the office.
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Spotify is testing out new music streaming plans, including one option offering streaming for $0.99 a month.
+
+A reader for tech site The Verge shared screenshots of an offered plan called Spotify Plus, which would remain supported by ads but include features such as on-demand listening and unlimited skips of songs.
+
+In a statement emailed to USA TODAY, Spotify said it's currently conducting a test of an ad-supported subscription plan with a select group of users.
+
+The company said the tests may lead to new offerings or updates or help them learn more about their users. Some Spotify users who see the tests might also see plans available at various prices.
+
+Bye-bye Fleets:Twitter's disappearing tweets feature is gone for good
+
+Need to share proof of vaccine?:Here's how to store your COVID-19 vaccination card on your smartphone
+
+Spotify currently offers a free option where users can listen to tracks with unlimited skips on a PC or Mac. The company's Premium plans include unlimited track skipping on mobile devices, ad-free music played at the highest quality, and the ability to download songs and podcasts.
+
+Spotify offers individual plans for $9.99 a month, Duo plans for two accounts at $12.99 a month, or a Family plan supporting up to six accounts for $15.99 a month. If you're a student, you can get a discounted plan for $4.99 monthly.
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@JaQuel Knight, the choreographer behind Beyoncé and Megan Thee Stallion’s popular music videos, collaborated with Switzerland-based company Logitech to help ten BIPOC creators secure copyright for their choreography of popular dance trends on social media platforms like TikTok.
+
+As part of Logitech’s #Creators4BIPOC month, a movement that addresses barriers BIPOC face as content creators, the tech brand announced the initiative last week highlight the work of Black creators who originate the dances that trend on social media, according to a news release. The announcement comes in light of the recent Black TikTok strike where Black creators on the social media app abstained from creating new trends to prove their importance to the culture.
+
+Once registered, choreographers can receive payment if their choreography is used in feature films, commercials or video games, according to the news release.This is important in the world of dance as it allows choreographers to be credited and rewarded monetarily for their work, putting the power in the creator's hands, the release said.
+
+“The JK Foundation was ultimately started to provide a place of support for dancers (during an extremely fragile time in the pandemic, nonetheless), and to put the power back in the artists’ hands - not just for myself, but for the next JaQuel Knight,” Knight said in a news release.
+
+The first six creators who are in the process of getting their work copyrighted are Keara Wilson, the creator of the “Savage” dance; Young Deji, the creator of “The Woah” dance; Fullout Cortland, choreographer of Doja Cat’s “Say So” performance at the 2020 Billboard Music Awards; the Nae Nae Twins, creator of the “Savage Remix” dance; Chloe Arnold for her choreography of “Salute A Legend” for Syncopated Ladies; and Mya Johnson and Chris Cotter, creators of the “Up” dance.
+
+The team also announced a new short film that documents a group of creators working to copyright their choreography.
+
+►'It's not a burden':How TikTok dance creators push for recognition, career opportunities with each post
+
+►Here's why it sparked backlash:Jimmy Fallon addresses his TikTok dance segment with Addison Rae
+
+The initiative under Logitech For Creators, a business under the technology manufacturing company dedicated to amplifying online creators, began out of a conversation with Knight. Meridith Rojas, Global Head of Entertainment and Creator Marketing for Logitech For Creators, said she saw an article about Knight’s journey copyrighting his work and wanted to learn more. The connection soon became a business venture that would help online creators copyright their work as he did.
+
+“There's just this authentic wave of creativity due to technology, due to these platforms like Tiktok, that are enabling so many people around the world to follow their dreams, Rojas said. “And there's no reason that one artist should protect their work and another artist should not.”
+
+They want to help give credit where credit is due, Rojas said. Logitech invited the creators to the ceremony, saying it was a night dedicated to Knight.
+
+Instead, they were surprised to learn that Logitech and the JaQuel Knight Foundation took the first step in helping them copyright their work: submitting their choreography for registration with the United States Copyright Office.
+
+Copyrighting choreography is not an easy task. To copyright movement, it must be “fixed,” according to the United States Copyright Office. Fixed mediums for choreography include video recordings, photographs or drawing and dance notation such as labanotation.
+
+Knight previously worked on copyrighting his work with the Dance Notation Bureau, including his choreography for Beyoncé’s “Single Ladies” music video. He became the first commercial choreographer in pop music to succeed in copyrighting his work, according to Billboard.
+
+Knight primarily worked with Lynne Weber, the executive director of the Dance Notation Bureau, to put his work into labanotation. The notation system developed by dance theorist Rudolf Laban and documents movement through symbols on a staff that can describe various aspects of the movement.
+
+“The notation allows you to separate the dance from the performer,” Weber said. “You're really getting the essence of the dance as opposed to a particular performance.”
+
+'We're trying to help people out':Lena Waithe, Barry Jenkins open up about creating Black opportunity
+
+Weber shared that creating notation through videos like TikTok can be challenging because it requires replaying the video repeatedly to get a full understanding of the choreographer’s style and technique. In the end, the process of copyrighting helps choreographers protect their work, Weber said.
+
+“We really believe in the choreographers and the dances, and we want them also to be captured for history,” Weber said. “They're important for our culture. And he's [Knight] helping that process.”
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Twitter's Fleets is no more.
+
+On Tuesday, the social media platform shut down the feature where users could share text, photos, videos and tweets that disappeared in 24 hours – similar to rival Snapchat – due to the lack of new user engagement.
+
+The end of Fleets, which debuted last November, came nearly three weeks after Twitter announced the move. The company gave a sendoff in what other way, in a pair of tweets.
+
+But that didn't stop some users from reportedly having a bit of, shall we say, fun with a rather risqué farewell to Fleets late Monday before they disappeared on Tuesday.
+
+Twitter had no comment, opting to just let Fleets fly the coop.
+
+In a blog post on July 13, Ilya Brown, Twitter's head of product said Fleets was built to be "a lower-pressure, ephemeral way people to share their fleeting thoughts," especially for new users to use the platform.
+
+But Fleets didn't flourish. It was mostly used by those "who are already Tweeting to amplify their own Tweets and talk directly with others," Brown said. While the goal was to engage users who don't like to tweet or maybe aren't as concerned about how many "retweets" or "likes" they get per se, but to casually share their thoughts on the social platform that, well at times, can be brutal.
+
+"We hoped Fleets would help more people feel comfortable joining the conversation on Twitter," Brown said in the blog post. "However, we haven’t seen an increase in the amount of new people joining the conversation with Fleets like (as) we hoped."
+
+This rare admission of a product miss for Twitter comes as it has recently added new features for its 199 million daily active users including Spaces, the social media platform's response to audio chat hit Clubhouse; a Tip Jar, which allows users to send money directly to their favorite accounts; and Blue, a new subscription service that offers 'Undo Tweet' function currently for users only in Canada and Australia.
+
+Investors seemed to like the move as Twitter's stock has remained steady since the announcement of no more Fleets.
+
+What's interesting about Twitter discontinuing Fleets altogether is that the company has a pattern of taking the best assets of a feature and integrating it into the overall product. Remember the hype over Twitter Moments, "curated stories about what’s happening around the world" via tweets in 2015 that was later morphed into the Explore tab? And then there was Periscope, the once-popular Twitter-owned live video streaming app that shut down in March but is a part of Twitter's overall functionality. Periscope's co-founder, Kayvon Beykpour, is currently Twitter's consumer product head.
+
+► How to scale back your kid's screen time:It's back-to-school time. So how do we cut back all the video gaming?
+
+►Prove you're all vaxxed up:Need to share proof of vaccine? Here's how to store your COVID-19 vaccination card on your smartphone
+
+Brown said Twitter will conduct tests to try incorporating features from the Fleets composer including "the full-screen camera, text formatting options, and GIF stickers," into Twitter's product. As of now, Fleets doesn't seem to have a similar fate as Moments and Periscope yet, as Beykpour intimated in a series of tweets on Wednesday.
+
+"We weren’t seeing the impact we’d like to see from a big bet, so we’re going to pivot our focus elsewhere," Beykpour said. "We’re still very focused on building tools that inspire new forms of conversation on Twitter so you’ll see us taking these learnings into new bets."
+
+"And just to make a point of our internal philosophy clear: big bets are risky and speculative, so by definition, a number of them won’t work," Beykpour added. "If we’re not having to wind down features every once in a while, then it would be a sign that we’re not taking big enough swings."
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The Associated Press
+
+SEATTLE – The divorce of Bill Gates and Melinda French Gates has been finalized.
+
+The Microsoft co-founder and his wife announced in May that they were ending their 27-year marriage, and on Monday a King County Superior Court judge signed the dissolution decree. The New York Times reports the court documents didn’t detail how they would divide their assets.
+
+Bill Gates was once the world’s richest person. His fortune is estimated at about $150 billion.
+
+They met after she began working at Microsoft as a product manager in 1987. The two were married in 1994 in Hawaii.
+
+The Seattle-based Bill and Melinda Gates Foundation is the most influential private foundation in the world, with an endowment worth about $50 billion. It has focused on global health and development and U.S. education issues since incorporating in 2000.
+
+The two have said they will continue to work together as co-chairs of their foundation. However, if after two years the two decide they cannot continue in their roles, French Gates will resign her positions as co-chair and trustee, The Bill and Melinda Gates Foundation announced this month.
+
+If French Gates resigns, Gates would essentially buy her out of the foundation, one of the world’s largest private charitable organizations, and she would receive resources from him to do her own philanthropic work. The resources received would be separate from the foundation’s endowment, according to foundation.
+
+►It's back-to-school time:So how do we cut back all the video gaming?
+
+►Need to share proof of vaccine?:Here's how to store your COVID-19 vaccination card on your smartphone
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@The head of Blizzard Entertainment is stepping down after video game publisher Activision Blizzard was sued by the state of California over alleged sexual harassment and equal pay violations.
+
+In a statement posted Tuesday, Blizzard Entertainment announced J. Allen Brack will step down as head of the studio, replaced by Jen Oneal and Mike Ybarra as co-leaders of the studio.
+
+Oneal joined Blizzard earlier this year as an executive vice president of development, providing support to franchises Diablo and Overwatch.
+
+Ybarra left Xbox to join Blizzard in 2019 as executive vice president and general manager of platform and technology, overseeing the studio's Battle.net online service.
+
+"I am confident that Jen Oneal and Mike Ybarra will provide the leadership Blizzard needs to realize its full potential and will accelerate the pace of change," said Brack in a statement.
+
+►Trying to connect or reconnect? How to find anyone’s email address online
+
+►Need to share proof of vaccine? Here's how to store your COVID-19 vaccination card on your smartphone
+
+Brack's exit follows a lawsuit filed against Activision Blizzard by California's Department of Fair Employment and Housing alleging the company violated equal pay laws and fostered a "sexist culture" within the publisher.
+
+The lawsuit alleges Activision Blizzard paid women less than men despite doing more work, and fired or forced women to quit at higher frequencies than men. The suit also charges that women who worked at the company were subject to constant sexual harassment including groping, comments and advances.
+
+The publisher's initial response to the lawsuit sparked a walkout among employees last week, and an apology from Activision Blizzard CEO Bobby Kotick.
+
+"It is imperative that we acknowledge all perspectives and experiences and respect the feelings of those who have been mistreated in any way," Kotick said in a note to employees. "I am sorry that we did not provide the right empathy and understanding."
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Associated Press
+
+The union that tried – and failed – to organize Amazon warehouse workers in Bessemer, Alabama, may get a do-over.
+
+The Retail, Wholesale and Department Store Union on Monday said that a hearing officer for the National Labor Relations Board has recommended that the vote by workers in April to overwhelmingly reject the union be set aside and that another vote be held in its place. The hearing officer determined that Amazon violated labor law, according to the union.
+
+Amazon countered in a statement that "our employees had a chance to be heard during a noisy time when all types of voices were weighing into the national debate, and at the end of the day, they voted overwhelmingly in favor of a direct connection with their managers and the company. Their voice should be heard above all else, and we plan to appeal to ensure that happens."
+
+The NLRB, which could not be reached for comment, has not yet issued a final decision, which would typically come two or three weeks after the initial recommendation.
+
+The RWDSU said Monday it supports the initial recommendation by the hearing officer.
+
+"Workers endured an intensive anti-union campaign designed by Amazon to intimidate and interfere with their choice on whether or not to form a union," it said in a statement.
+
+The union said in a filing in April that Amazon threatened workers with layoffs and even the closing of the warehouse if they unionized. It also said Amazon fired a pro-union employee, but declined to name the person.
+
+►Amazon mission:Getting a 'key' to your apartment building
+
+►Citizen app:Crime app releases Protect, an on-demand subscription security feature
+
+Many of the other allegations by the union revolve around a mailbox that Amazon installed in the parking lot of the Bessemer, Alabama, warehouse. It said the mailbox created the false appearance that Amazon was conducting the election, intimidating workers into voting against the union. Security cameras in the parking lot could have recorded workers going to the mailbox, giving the impression that workers were being watched by the company and that their votes weren't private, according to the retail union.
+
+Workers overwhelmingly voted against forming a union, with 1,798 rejecting it and 738 voting in favor of it. A total of 3,117 votes were cast, about 53% of the nearly 6,000 workers at the warehouse.
+
+The union push was the biggest in Amazon's history and only the second time that an organizing effort from within the company had come to a vote. But Bessemer was always viewed as a long shot since it pitted the country's second-largest employer against warehouse workers in a state with laws that don't favor unions.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Urooba Jamal
+
+The Associated Press
+
+LONDON – Early in the coronavirus pandemic, Jennifer Sherlock went out with a few men she met through dating apps. The dates were “weird,” she said, and not just because they were masked, socially distanced and outdoors.
+
+One one occasion, a date remained masked while they were out for a stroll but soon after invited her back to his place, a move Sherlock saw as reckless. “It was so off-putting, and awkward,” she said. “So we wouldn’t be safe outside without mask(s), but we would be safe back at his place maskless?”
+
+She decided she needed a way to filter people, so she began arranging video chats before agreeing to meet anybody in person. Sherlock, 42, a PR consultant who lives in New Jersey, said it's a practice she'll continue after the pandemic.
+
+Sherlock isn’t alone in changing the way she used dating apps during the pandemic, prompting many to roll out new features. Despite the social distancing of the past 18 months, the use of dating apps in general has surged as people sought connections amid their isolation.
+
+Tinder reported that 2020 was its busiest year yet; this year, its users have already set two records for usage between January and March. Hinge tripled its revenue from 2019 to 2020, and the company expects it to double from that this year.
+
+►Trying to connect or reconnect?:How to find anyone’s email address online
+
+►Need to share proof of vaccine?:Here's how to store your COVID-19 vaccination card on your smartphone
+
+In response to changing demands, Tinder announced new tools last month that will allow users to get to know people better online. People will now be able to add videos to their profile and can chat with others even before matching with them.
+
+“Historically consumers were reluctant to connect via video because they didn’t see the need for it,” said Jess Carbino, an online dating expert and sociologist who has worked for Tinder and Bumble. After COVID-19, however, many people expect a higher degree of screening, she said. "Online dating apps like Tinder are leaning into that.”
+
+The dating apps say their research shows video chats are here to stay, even as life starts to return to normal in some parts of the world.
+
+Almost half of Tinder users had a video chat with a match during the pandemic, with 40% of them intending to continue them after the pandemic. Tinder says this is largely driven by Gen Z users in their late teens and early 20s, who now make up more than half of the app’s users. And a majority of Hinge UK users, 69%, also say they’ll continue with virtual dates after the pandemic.
+
+Tinder, alongside other popular apps including Hinge, OkCupid and Bumble, has in Britain and the U.S. partnered with the government to add a badge to profiles indicating that users have been vaccinated. (There's no verification process, though, so matches could be lying.)
+
+Dating app users are also increasingly looking for deeper connections rather than casual encounters, Carbino said.
+
+That’s what happened to Maria del Mar, 29, an aerospace engineer, who wasn’t expecting to end up in a relationship after she matched with someone on Tinder early in the pandemic last year.
+
+She started chatting with her now-boyfriend through the app in April 2020 during a complete lockdown in Spain, where she lives. Having moved back to her parents' tiny town of León from Barcelona, del Mar was bored when she joined the app but was surprised to find many things in common with her now-partner.
+
+After weeks of chatting, they finally met for a first date – a socially distanced hike – after restrictions eased slightly in May 2020. Now the two have moved in together. “If it wasn’t for the app, probably our paths wouldn’t have crossed,” she said.
+
+Fernando Rosales, 32, was a frequent user of Grindr, an app popular with gay men looking for more casual encounters, in pre-pandemic times. He turned to Tinder for social connections when coronavirus restrictions prevented people from meeting others in London, where he lives.
+
+"Grindr is like, 'I like you, you like me, you’re within 100 meters of me, I’m going to come over,'” said Rosales, who works at the popular British coffee chain Pret.
+
+“Tinder is something more social," he added,. Sometimes he uses the app just to meet others to play online video games or video chat.
+
+Ocean, 26, a drag artist and photographer in Berlin, turned to the live video feature of a LGBTQ app called Taimi to make friends across the world during the pandemic. Having two-to-five minute video chats with strangers from places like the Philippines or parts of the U.S. was “amazing,” she said. Ocean's given name is Kai Sistemich; she identifies as a woman when in drag.
+
+She said she'll continue using the feature after the pandemic, especially while she’s doing solo activities like cooking, or getting ready before going out to party.
+
+Sherlock also expects some of her pandemic dating behaviors to carry into the post-pandemic world. She recently asked two men she was texting for FaceTime chats before meeting in person, something she would not have done before the pandemic.
+
+“It’s a crazy dating world out there, so saving time is necessary,” she said.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@As the delta variant of the COVID-19 virus runs rampant throughout the U.S., a renewed push is being made to get more Americans vaccinated.
+
+President Joe Biden said last week he would require federal workers to verify they have been vaccinated or undergo regular testing.
+
+Similar policies have been introduced at some local governments, while some companies are requiring their employees to get the vaccine to return to the office. Even Broadway said it will make the same request of theatergoers before attending a show.
+
+Of course, you could bring the COVID-19 vaccine card verifying those details with you, which brings not only the annoyance of carrying it everywhere (try fitting that into a wallet), but the fear you wind up losing it.
+
+Thank goodness we have something else in our pockets that can assist: our smartphones. Here are a few ways you can keep your vaccine card handy:
+
+Any money coming?:Zoom reaches settlement in class-action lawsuit over 'Zoombombings'
+
+Spot on patrol:Robotic police 'dogs' have privacy watchdogs worried
+
+Take a picture
+
+Seriously, that's it. If you go this route, consider placing it in a hidden album so it can't be viewed from your library. This also avoids the awkward scenario of having to scroll through the abyss of your camera roll to pull up your vaccine card.
+
+On an iPhone, after you take a picture of your card, go to the Share button on Photos, then select Hide. The image will be placed in a Hidden album you can find by tapping Albums, then scrolling to Utilities.
+
+If you use a Google Pixel or Samsung Galaxy smartphone, you can create locked folders to store your COVID-19 vaccine card.
+
+Scan it to your smartphone
+
+If you're using an iPhone, scanning your COVID-19 card using the Notes app adds a little more security. To do this, start a new note, then tap on the camera. Go down to Scan Document and add your card with the built-in scanner. You can then choose to lock it with a passcode. Any time you tap on the note, it will ask you to type a passcode to view.
+
+There's the app option
+
+Some state governments have launched apps where users can access their vaccine card information. For those who live in New Jersey, for example, the state has the Docket app where residents can view their vaccination status. And for New Yorkers the Excelsior pass provides residents quick access.
+
+There are other digital options, too. In June, Walmart announced it would provide access to digital COVID-19 records through Walmart and Sam's Club accounts.
+
+Also, if you own an Android device running the Android 5 operating system or later, you can store your vaccine card as a pass.
+
+Meanwhile, the service VaxYes allows users to add their vaccine card information and have it transformed into a digital passport which can be added to wallets on Google Pay or Apple Wallet. The company says all data is encrypted and its service is compliant with HIPAA, which governs how health care professionals must store and protect your data.
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@After months of testing, Citizen, the crime and neighborhood watch app, is releasing Protect, a subscription-based feature that lets users contact virtual agents for help if they feel they're in danger.
+
+According to Citizen, the feature can connect users with a Protect agent either through video, audio, or text available around the clock. The company said audio and text-only communication allows users to discreetly call for help "in difficult situations" where they might not be able to or are scared to be seen calling 911. The Protect feature costs $19.99 a month.
+
+Protect began beta testing earlier this year as the feature has been available to 100,000 users, Citizen said. The new feature comes as Citizen currently has more than 8 million users who have sent out about 9 billion alerts in major U.S. cities including New York, Los Angeles, Chicago, Atlanta, Houston and the San Francisco Bay Area.
+
+The new feature also arrives while Citizen has been looking into a "pilot project" that could allow users to request private security to scenes as the app says its overall mission is "to make your world a safer place."
+
+The Citizen app uses smartphone locations to notify users about possible criminal activity in their area, including those happening in real time, complete with live footage from users at the scene and live discussions.
+
+While the Protect feature is not meant to replace calling 911, Citizen founder Andrew Frame said its options, including location tracking to send emergency responders to a user's exact location, can also help navigate them to safe spaces.
+
+"Protect brings personal safety into the 21st century and gives our users the tools they need to keep themselves safe, no matter where they are," said Frame in a statement.
+
+►How to scale back your kid's screen time:It's back to school time. So how do we cut back all the video gaming?
+
+►Prove you're all vaxxed up:Need to share proof of vaccine? Here's how to store your COVID-19 vaccination card on your smartphone
+
+Two of Protect's main components include the "Get Agent" button located on the Citizen app where users can connect with Protect agents either through video, audio, or text. Citizen said the trained agents can determine if the situation may warrant calling 911 on users' behalf while listening to their audio and monitoring their live location "to get help quickly and with ease."
+
+Another component is "Protect Mode," where users can either enable "Shake for Agent," or "Distress Detection" or both to connect with a Protect agent discreetly. "Shake for Agent" works when users literally shake their phone "two or more times to be connected" with an agent, Citizen said.
+
+And once the Distress Detection is enabled, Citizen said a user's audio is monitored with its technology that identifies sounds that may indicate trouble, like screaming.
+
+When a distress signal is identified, Citizen said, a user will be asked if they want to be connected with a Protect agent, and if they don't respond within 10 seconds, the user will be automatically connected in case they are in the midst of an emergency situation.
+
+Citizen said the Protect Mode is currently available only for iPhone users and will be available for Android users soon.
+
+Citizen said Protect agents who take user requests undergo a rigorous training program that includes a four-week Public Safety Telecommunicator certification course.
+
+Some of that training includes bias prevention, education about mental illness and anti-racism awareness "to ensure agents have the skills and knowledge to direct the user appropriately," Citizen said.
+
+The company also said that many Protect agents have backgrounds in public safety ranging from former EMTs, former police and fire dispatchers, to former suicide intervention specialists.
+
+Citizen said Protect agents have "looped in" 911 and sent first responders to hundreds of Protect subscribers who believed they were in danger. The company said in one incident, agents helped first responders locate two lost hikers who were dehydrated and disorientated.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Kim Komando
+
+Special to USA TODAY
+
+Back in the day, autocorrect created more issues in our texts and emails than it fixed.
+
+Today, you can open up an email draft, and Gmail will finish your sentences and even suggest a subject line – all mimicking the way you type. Perhaps you don't like the idea of Google's artificial intelligence reading as you write emails. Tap or click here for steps to turn off Smart Compose.
+
+Here’s something many people don’t know. You can remove photos of your home from Google Street View. I did. Tap or click here to get your home removed, too. It only takes a minute.
+
+Don't stop now. I've got a handful of hidden settings every Google user should know:
+
+1. Yes, you can get things done offline
+
+Google Docs, Sheets, and Slides are a great way to collaborate. If you don’t have an internet connection, you can’t work in real time with someone else. But you can work offline and save those changes once you have a connection again.
+
+Here’s the catch: You need to turn on offline access before you need it. You must be connected to the internet to make these changes.
+
+• Open Chrome and make sure you’re signed in with your Google account. Go to drive.google.com/drive/settings.
+
+• Next to Offline, you will see a box to create, open, and edit your recent Google Docs, Sheets, and Slides files on this device while offline. Check the box.
+
+Then, save the specific docs you want to work on.
+
+• Go to drive.google.com. Right-click the file you want to save offline.
+
+• Turn on Available offline.
+
+Once you regain network access, your edits will be uploaded. Be careful about making changes across multiple devices at once because you could override your work.
+
+►Get more:15 tricks to get the most out of your free Google Drive account
+
+►Are your iMessage texts disappearing? The answer may be checking your email
+
+2. Download everything Google knows about you
+
+By now, you know how much Google tracks about your interests, your life, your work, your purchases, your contacts … I could go on.
+
+Google Takeout is telling. You can use this tool to export a copy of all the content connected to your Google account.
+
+This download includes everything from your bookmarks to your Google Maps location history. Some other particularly revealing sections hold all your email contacts, every YouTube video you have ever watched, and your entire search history. Yes, you’ll be embarrassed.
+
+• Be sure you’re signed in to your Google account, then go to ​​takeout.google.com.
+
+• Choose all the data you wish to export.
+
+• Hit Next step, then choose how you’d like to receive this information: A download link via email or have it added to your Google Drive, Dropbox, OneDrive, or Box account.
+
+• Choose how often you’d like to receive this (once or every two months for a year) and the file type you’d like to receive.
+
+• Click Create export. You’ll get an email when the process is complete.
+
+►User Google Maps? Tap or click for a hidden setting you should change right now.
+
+►Avoid the ‘oops!’:3 easy ways to protect your iPhone, iPad and other digital devices from disaster
+
+3. Recall that email you sent when you were upset
+
+Gmail gives you the ability to recall messages. Once again, you need to set this feature before you need it. It's worth doing, just for the peace of mind. I recommend choosing the maximum time for your cancellation period.
+
+• Click the Settings gear icon > See all settings.
+
+• Under General, scroll to Undo Send. Select a cancellation period of 5, 10, 20, or 30 seconds.
+
+From now on, after you send an email, you’ll see “Message sent” and the option to “Undo” or “View message” in the bottom left corner of your screen. To cancel the send, click Undo. Your email will revert to a draft.
+
+►Get smart:These five sites can check your grammar and help you sound smarter
+
+►Is someone using your webcam to spy on you:How to know and what to do to protect your privacy
+
+4. Try Chrome’s experimental features
+
+I never suggest beta or experimental versions of software without warning. They can be glitchy and annoying. When it comes to entire operating systems, I recommend most people wait for the final build. You don’t want an unresolved issue tanking your only computer.
+
+For smaller-scale beta tests, you can try out Google’s experimental features for Gmail. You can test out features that haven’t made it to public launch yet and provide feedback if you choose.
+
+Right now, there are no features in testing. Still, you might as well set this up now, so you have access the next time experiments are released. Previous ones included the Undo Send feature I mentioned above.
+
+To turn on Experimental Access, open Gmail on your computer.
+
+• In the top right corner, click Settings > See all settings. Under General, scroll to Experimental Access.
+
+• Check the box next to Enable experimental access. At the bottom of the page, click Save changes.
+
+Google has other experiments you can try out right now. These are developed by creative coders who use Chrome, Android, AI and more to tell a story or create something new.
+
+The Shared Piano experiment is neat. It was developed during the pandemic to enable remote music teaching and collaboration. Up to 10 people can play together at once. You don’t need to log in or install any software, either.
+
+5. Sort through your tabs
+
+If you’re like me, you have way too many tabs open from time to time. Instead of clicking through each one to find the URL you want, you can search.
+
+• Open Chrome.
+
+• Next to your list of tabs, you’ll see a small arrow point down. Click the arrow.
+
+• Type in a website, keyword, or another search term.
+
+• Click the tab you want to open or click the X to close it.
+
+Bonus Tip: How we tracked down an online troll and stalker
+
+Dana called my national radio show for help because her 18-year-old daughter was being stalked by someone she met on Tinder. Then, the stalker put Dana’s photo and cellphone number on porn site ads. We tracked the stalker down and tell you how we did it.
+
+Check out my podcast “Kim Komando Explains” on Apple, Google Podcasts, or your favorite podcast player. Or you can listen here on my site.
+
+Learn about all the latest technology on the Kim Komando Show, the nation's largest weekend radio talk show. Kim takes calls and dispenses advice on today's digital lifestyle, from smartphones and tablets to online privacy and data hacks. For her daily tips, free newsletters and more, visit her website at Komando.com.
+
+The views and opinions expressed in this column are the author’s and do not necessarily reflect those of USA TODAY.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Kim Komando
+
+Special to USA TODAY
+
+Keeping up with your inbox feels never-ending some days. Between work, your personal life, and all that spam, you might have hundreds of emails to sift through.
+
+Junk mail getting you down? Do something about it. Spending a little time once will save you from clicking “trash” all day long. Tap or click for five simple ways to stop spam.
+
+When it comes to catching up with an old friend or finding contact details for a potential business partner, reaching them by phone may be your first step. Tap or click for all the best ways to find anyone’s cell phone number.
+
+If you strike out, turn to email. Maybe you wrote down someone’s email address incorrectly, or you have been trying to track down a relative and hit a dead end. I can help.
+
+1. Start with a search
+
+It might seem obvious, but one of the best ways to find an email address is to do a quick search for it online. If a search like “John Smith” + “email” doesn’t yield any results, there are several other ways to go about it.
+
+When you use quotation marks in your search, it tells Google to search for that whole phrase. In the example above, results will only be displayed for John Smith. A regular search might produce results related to many people named John and tons of Smiths.
+
+You could also try to guess the email provider the person is using. Try searching for “John Smith” + “gmail.com” or “yahoo.com.” Include the company that the person works for as well, like “John Smith” + “Acme Inc.” + “email.”
+
+►Google like a pro: Seven tricks to find exactly what you’re looking for
+
+2. Use a site like White Pages or web directories
+
+Usually, when I talk about online directories, it's advice on how to remove yourself. These sites gather up a ton of information you might not want accessible for just anyone to find.
+
+Tap or click to delete yourself from all the big people search sites. Be careful and follow the directions carefully; they try to trick you. Never pay to remove your info.
+
+If you’re the one doing the searching, it’s worth seeing what you can turn up. With WhitePages.com, you can find cellphone numbers, addresses, business details, relatives and property details. It might not provide you with the email address, but it will undoubtedly give you more information to work with.
+
+►Security:Citizen crime app releases Protect, an on-demand subscription security feature
+
+►Need to share proof of vaccine? Here's how to store your COVID-19 vaccination card on your smartphone
+
+Hunter.io lets you search through a company's domain for an email address and lists them with some information redacted for business contacts. If you find the person you are looking for, it will give you a good idea of their email address. A free account will provide you with 25 free searches a month.
+
+3. Try social media sites
+
+There’s a chance you can find the person's email address on their social media profiles. Some professionals will list their contact info on sites like Twitter or LinkedIn.
+
+If you do find a social media profile, send the person a direct message. Ask if they can share their email address or how you can get in touch with them.
+
+►True or false: If you look someone up on Facebook, they know about it. Tap or click for the truth.
+
+4. Try a plugin
+
+Web browser plugins like Email Extractor for Chrome can help you find email addresses on web pages. While you can't search for email addresses with the plugin, it can extract all the addresses listed on a domain.
+
+This will make it easier to find a specific address if you know where to look. Email Extractor fetches IDs from the website’s source code to show you hidden addresses and addresses listed in plain text.
+
+Email Hunter is another Chrome plugin you can try. It extracts addresses from pages as you visit them and automatically saves them to a notepad.
+
+5. Make your best guess
+
+If all else fails, guess. Really! Most companies use simple naming structures for addresses, like John.Smith@acmeinc.com.
+
+Using the Hunter.io web directory, you can easily see what the structure is for a searched company. The website shows you the most common pattern in their address when you search for a business, like (first)(last)@acmeinc.com.
+
+►Bonus Tip: Is your boss watching your every move?
+
+Check out my podcast “Kim Komando Explains” on Apple, Google Podcasts, or your favorite podcast player.
+
+Thanks to invasive software, companies can track your every click, keystroke and movement – even outside of work hours. In this episode, security researcher Cooper Quintin reveals how so-called bossware works, what it tracks and how badly things can go when organizations use it to see every single thing you're doing.
+
+Learn about all the latest technology on the Kim Komando Show, the nation's largest weekend radio talk show. Kim takes calls and dispenses advice on today's digital lifestyle, from smartphones and tablets to online privacy and data hacks. For her daily tips, free newsletters and more, visit her website at Komando.com.
+
+The views and opinions expressed in this column are the author’s and do not necessarily reflect those of USA TODAY.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Christine Persaud
+
+— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.
+
+Amazon Prime members already know that Prime Video has some amazing original series, from The Boys to The Marvelous Mrs. Maisel. Sometimes, that great show you want to watch is only available through one of Amazon's add-on channels, however, such as Starz or Showtime. If you've ever clicked a title only to find you're not signed up, we have good news: Through the end of Prime Day 2021 (Tuesday, June 22), Amazon is cutting the price of select Prime Video add-on channels to just $0.99 for the first two months!
+
+Get expert shopping advice delivered to your phone. Sign up for text message alerts from the deal-hunting nerds at Reviewed.
+
+That means that Prime members will be able to sign up for premium channels, including favorites such as Starz, Showtime, Paramount+, Discovery+, AMC+, Epix, BET+, Noggin, allblk, PBS Masterpiece, UP Faith & Family, Acorn TV, Lifetime Movie Club, PBS Kids, PBS Documentaries, Pantaya, Motortrend and Moviesphere.
+
+With regular prices for these channels ranging between $3.99 per month (Lifetime Movie Club and PBS Documentaries) and $10.99 per month for Showtime, the two-month savings runs anywhere from $6 to $20. The best part? You can cancel at any time to avoid being charged the full price of these channels after the two months has passed.
+
+With the Starz add-on, normally $17.98 for two months and now available for $1.98, you'll not only get access to hot TV series, like Outlander and American Gods, you'll also be privy to action-packed movies, such as Vin Diesel's Bloodshot and Bad Boys For Life.
+
+For the same $1.98, you can also grab a two-month subscription to Showtime, down from its original price of $21.98 for two months. That represents the biggest savings of all the Amazon Prime Video add-on channel deals, and you'll be paying just $2 for access to shows like The Chi, Billions and Shameless for what equates to a $20 discount—not too shabby!
+
+From mysteries to niche content and new blockbusters to old classics, there's no shortage of choices—and with all of them at just $0.99 right now, it's the perfect time to try them out.
+
+Need help finding products? Sign up for our weekly newsletter. It’s free and you can unsubscribe at any time.
+
+The product experts at Reviewed have all your shopping needs covered. Follow Reviewed on Facebook, Twitter, and Instagram for the latest deals, reviews, and more.
+
+Prices were accurate at the time this article was published but may change over time.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Dear son,
+
+Thank you.
+
+Your mom and I have been stressed, tired, sad, angry and just overall worried about how this pandemic was unfolding and what it meant for your life.
+
+We dealt with wholesale changes to our own schedules, work, health, and household finances. We saw the country get overrun by an unforgiving virus that brought deadly waves crashing down on everything around us.
+
+Our lives changed. Your life changed. The fear was honestly too much to carry at times.
+
+You were a constant source of joy and hope while we tried to make sense of a situation that had none to make. Remote learning was challenging for everybody involved. Children with disabilities became increasingly ignored and marginalized across the country. Autistic kids like yourself were no exception.
+
+You still managed to show the teachers just how smart you are despite being nervous about those Zoom classrooms and being asked to "participate" more. Thank your mom and the great teachers you have for that, by the way. They’re the reason you continued to excel at school this year and were given all the accommodations you needed, without argument.
+
+Opinions in your inbox: Get a digest of our takes on current events every morning
+
+Where you helped me personally the most was with your insistence that we play video games together, as much as possible. I owe you an apology for that, too. That’s coming. But If I’m being honest, some of the most fun I had and normal I’ve felt came while just playing Minecraft and Roblox with you.
+
+I was able to see your curiosity and sense of exploration in real-time and watched your communication and overall social skills grow. You taught me about the games and had more patience than I did when things didn't go our way. Those sessions became moments of calm once I stopped getting angry or frustrated with things neither of us can control.
+
+Now, an apology.
+
+The truth is it took me too long to realize you needed me to be composed and engaging. Parents are often pulled from many sides, stretched to limits we didn't know existed and it's hard to remember that our families need us to sometimes just be with them.
+
+It took me too long to see that you too were stressed and confused by why the world suddenly went off the rails and came to a halt.
+
+It took me too long to accept that the hours of playing Minecraft together could be a therapeutic exercise for both of us. That me doing something as simple as driving around Washington, D.C., playing Pokemon Go with you would become such a jumping-off point for laughter and excitement
+
+The importance of fathers::Sorry, Harvard, fathers still matter — including Black fathers
+
+It took me too long to understand that me being your father would erase most of the stress and the worry we were trying to shield you from.
+
+Thankfully, we appear to be on the back end of this pandemic and it looks like your turn for the vaccine is near.
+
+We don't know what that means for you long term. We're still going to homeschool you while we wait. And we're likely going to stay in a constant state of mistrust while things get back to a less frightening normal.
+
+But this past year has been one I'll never forget, because of you. I watched the world get overtaken by a virus. I watched work get harder and harder as we tried our best to report what was going on. I watched friends lose family members, strangers argue over masks and our elected leaders fail at their jobs.
+
+What kept me grounded through all of that was watching you be the beautiful little boy that you are and learning from you how to live in a space that isn't always built for your needs. Please know we tried to do our best for your sake.
+
+Thank you. I'm sorry.
+
+Louie Villalobos is audience development editor for USA TODAY Opinion. Follow him on Twitter: @louievillalobos
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Holly Meyer and David Crary
+
+Associated Press
+
+Facebook already asks for your thoughts. Now it wants your prayers.
+
+The social media giant has rolled out a new prayer request feature, a tool embraced by some religious leaders as a cutting-edge way to engage the faithful online. Others are eyeing it warily as they weigh its usefulness against the privacy and security concerns they have with Facebook.
+
+In Facebook Groups employing the feature, members can use it to rally prayer power for upcoming job interviews, illnesses and other personal challenges big and small. After they create a post, other users can tap an "I prayed" button, respond with a "like" or other reaction, leave a comment or send a direct message.
+
+Facebook began testing it in the U.S. in December as part of an ongoing effort to support faith communities, according to a statement attributed to a company spokesperson.
+
+"During the COVID-19 pandemic we've seen many faith and spirituality communities using our services to connect, so we're starting to explore new tools to support them," it said.
+
+How Facebook's prayer tool is being used
+
+The Rev. Robert Jeffress of First Baptist Church in Dallas, a Southern Baptist megachurch, was among the pastors enthusiastically welcoming of the prayer feature.
+
+"Facebook and other social media platforms continue to be tremendous tools to spread the Gospel of Christ and connect believers with one another — especially during this pandemic," he said. "While any tool can be misused, I support any effort like this that encourages people to turn to the one true God in our time of need."
+
+Adeel Zeb, a Muslim chaplain at The Claremont Colleges in California, also was upbeat.
+
+"As long as these companies initiate proper precautions and protocols to ensure the safety of religiously marginalized communities, people of faith should jump on board supporting this vital initiative," he said.
+
+►Fact check:Elon Musk did not offer to buy and delete Facebook
+
+►Who's responsible for COVID-19 misinformation?:Lawmakers introduce bill to hold Facebook, Twitter accountable
+
+Under its data policy, Facebook uses the information it gathers in a variety of ways, including to personalize advertisements. But the company says advertisers are not able to use a person's prayer posts to target ads.
+
+The Rev. Bob Stec, pastor of St. Ambrose Catholic Parish in Brunswick, Ohio, said via email that on one hand, he sees the new feature as a positive affirmation of people's need for an "authentic community" of prayer, support and worship.
+
+But "even while this is a 'good thing,' it is not necessary the deeply authentic community that we need," he said. "We need to join our voices and hands in prayer. We need to stand shoulder to shoulder with each other and walk through great moments and challenges together."
+
+Stec also worried about privacy concerns surrounding the sharing of deeply personal traumas.
+
+"Is it wise to post everything about everyone for the whole world to see?" he said. "On a good day we would all be reflective and make wise choices. When we are under stress or distress or in a difficult moment, it's almost too easy to reach out on Facebook to everyone."
+
+However, Jacki King, the minister to women at Second Baptist Conway, a Southern Baptist congregation in Conway, Arkansas, sees a potential benefit for people who are isolated amid the pandemic and struggling with mental health, finances and other issues.
+
+"They're much more likely to get on and make a comment than they are to walk into a church right now," King said. "It opens a line of communication."
+
+Bishop Paul Egensteiner of the Evangelical Lutheran Church in America's Metropolitan New York Synod said he has been dismayed by some aspects of Facebook but welcomes the feature, which bears similarities to a digital prayer request already used by the synod's churches.
+
+Story continues below.
+
+"I hope this is a genuine effort from Facebook to help religious organizations advance their mission," Egensteiner said. "I also pray that Facebook will continue improving its practices to stop misinformation on social media, which is also affecting our religious communities and efforts."
+
+The Rev. Thomas McKenzie, who leads Church of the Redeemer, an Anglican congregation in Nashville, Tennessee, said he wanted to hate the feature — he views Facebook as willing to exploit anything for money, even people's faith.
+
+But he thinks it could be encouraging to those willing to use it: "Facebook's evil motivations might have actually provided a tool that can be for good."
+
+Story continues below.
+
+His chief concern with any Internet technology, he added, is that it can encourage people to stay physically apart even when it is unnecessary.
+
+"You cannot participate fully in the body of Christ online. It's not possible," McKenzie said. "But these tools may give people the impression that it's possible."
+
+Rabbi Rick Jacobs, president of the Union of Reform Judaism, said he understood why some people would view the initiative skeptically.
+
+"But in the moment we're in, I don't know many people who don't have a big part of their prayer life online," he said. "We've all been using the chat function for something like this — sharing who we are praying for."
+
+Crossroads Community Church, a nondenominational congregation in Vancouver, Washington, saw the function go live about 10 weeks ago in its Facebook Group, which has roughly 2,500 members.
+
+About 20 to 30 prayer requests are posted each day, eliciting 30 to 40 responses apiece, according to Gabe Moreno, executive pastor of ministries. Each time someone responds, the initial poster gets a notification.
+
+Deniece Flippen, a moderator for the group, turns off the alerts for her posts, knowing that when she checks back she will be greeted with a flood of support.
+
+Flippen said that unlike with in-person group prayer, she doesn't feel the Holy Spirit or the physical manifestations she calls the "holy goosebumps." But the virtual experience is fulfilling nonetheless.
+
+"It's comforting to see that they're always there for me and we're always there for each other," Flippen said.
+
+►Do Facebook and Google censor conservatives?:Trump, Republicans bet claims they do will rally GOP base in 2022
+
+Members are asked on Fridays to share which requests got answered, and some get shoutouts in the Sunday morning livestreamed services.
+
+Moreno said he knows Facebook is not acting out of purely selfless motivation — it wants more user engagement with the platform. But his church's approach to it is theologically based, and they are trying to follow Jesus' example.
+
+"We should go where the people are," Moreno said. "The people are on Facebook. So we're going to go there."
+
+Contributing: Emily Leshner, The Associated Press
+
+Associated Press religion coverage receives support from the Lilly Endowment through The Conversation U.S. The AP is solely responsible for this content.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Admit it, parents: A lot of us have thrown out the rules when it comes to your kids and screen time.
+
+We juggled the demands of work and parenting at home, taking virtual meetings while whipping up your children's lunch, or desperately seeking out the mute button to shield your colleagues from the chaos at home.
+
+Enter the iPad, or iPhone, or TV, or Xbox to come to parents' rescues. When we needed just a window of productive time, we let our kids hang out on screens just a little while longer.
+
+But now school is about to restart, summer is here, and things have opened up just enough for both parents and kids to enjoy life without screens.
+
+It might also mean parents are ready to bring back those rules around how much time your kids will have with screens.
+
+"I’m hearing a lot from parents and from kids that they want to do things that are not on the screen," said Jodi Dworkin, a professor in the University of Minnesota's Department of Family Social Science. "They’ve spent so much time on the screen that they’re looking for alternatives. So we shouldn’t assume that kids want to be on the screen all the time."
+
+►Ready for school:After a chaotic pandemic school year, help kids get back on track this fall
+
+►From Facebook to Fortnite:The metaverse is calling. Are we ready?
+
+Of course, not every kid will welcome dialing back on screen time. Ashley Levine, who works in public relations in California, say she and her husband set strict rules around screens for her kids – ages 8, 4 and 3 – before the pandemic: no iPads, no TV, but a family movie night once a month.
+
+Then came the lockdowns. Levine pulled her kids out of school. Without an immediate option for child care, she and her husband decided to relax those limits.
+
+"They had TV time every afternoon just because it was the only hour and a half my husband and I could actually get work done and be productive," Levine said.
+
+Four months later, with a child care option in place, Levine's family brought back those screen time limits, much to the dismay of her kids.
+
+"It was really challenging because my kids had four months of being used to watching TV every day," she said. "And it’s one of those things that when you’re used to it, they asked for it daily."
+
+Gena Peth, a software and data analysis developer based in Washington state, similarly relaxed rules for her 15-year-old son during the pandemic. He got his first smartphone and was allowed to use chat tools to keep in touch with friends.
+
+"We had to be a little more open to ways to connect," Peth said.
+
+To prepare him for the new school year, Peth said she plans to dial back time spent on his Xbox or other devices like his iPad and new phone.
+
+"He’s resistant for sure," she said. "It’s not like he’s excited about it. But he understands it’s coming."
+
+So what should parents do?
+
+Peth said regular communication played a big role in helping her son prepare for the change. "We talk about this way ahead of time and just start kind of preparing him mentally."
+
+Dworkin said regular conversation about screen time and how devices are being used, especially in the context of a pandemic, can help ease your child's transition to fewer hours in front of a screen.
+
+"You can’t take that stuff away now, but you can have a conversation about – we made different decisions because you couldn’t do these things in person, and now we want to talk about what our time will look like now that you can do more things in person," she said.
+
+Rebecca Dore, a senior research associate at The Ohio State University's Crane Center for Early Childhood Research and Policy, said parents should focus on new activities that will replace screen time.
+
+Dore also advised parents consider working with their kids on a Family Media Plan, a tool from the American Academy of Pediatrics to collaborate on how much screen time kids can have.
+
+"Getting your kids on board with setting these limits can be really useful as well, especially for older kids and going into teenage years," Dore said.
+
+For Levine, holding firm to the changes helped their kids adjust, but she says her kids do have more time with screens than before the pandemic. "When they do use screen time now, I try to make it at least something meaningful that I think is worth their time."
+
+►What's on your back-to-school shopping list? Share your story!
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@As the delta variant sweeps across the U.S., guidance on what Americans should do to protect themselves and others remains fluid.
+
+Unvaccinated Americans are urged to get their COVID-19 shot, while governments and businesses update rules for employees and customers, including requiring them to get vaccinated.
+
+That opens the door to a couple questions. Do I have to carry my COVID vaccine card everywhere? What businesses or organizations will require me to get vaccinated?
+
+This is where your smartphone can play a key role.
+
+Keep that physical COVID vaccine card at home. Instead, keep a copy of it on your smartphone. You can take a picture of it, scan it, or use an app that holds your vaccine information.
+
+Meanwhile, if you're uncertain whether a local restaurant has tweaked its pandemic requirements, Yelp is offering a solution. The recommendation app will now allow businesses to note where proof of vaccination is required or whether their employees have been vaccinated.
+
+This might be the beginning. We could see more tech tools become available to help navigate changing restrictions, and Talking Tech will be here to provide the latest.
+
+What else happened in tech?
+
+► Back to school season. Are you a parent hoping to dial back the time your kids spend on screens as schools prepare to open again? I asked experts and parents for their advice.
+
+► Spotify for $0.99? The music streaming giant is testing out varying plans for users, including one for $0.99 a month that includes ads but unlimited skips of songs.
+
+► RIP Fleets. Guess you could say interest in Twitter's disappearing messages feature was ... fleeting.
+
+► TikTok creators fight for credit. The social media app has cultivated its own universe of celebrities, which is why creators of original dances and other content are pushing to make sure they receive proper credit.
+
+Game break
+
+More updates on the story about Activision Blizzard, the video game publisher facing a lawsuit from the state of California over sexual harassment and equal pay violations: the head of its Blizzard Entertainment studio – which works on games such as World of Warcraft and Overwatch – has stepped down.
+
+This week on Talking Tech
+
+On the Talking Tech podcast, we discuss Facebook CEO Mark Zuckerberg's interest in the metaverse, tips on securing your smartphone, and "Zoombombings."
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@USA TODAY
+
+We recognize that mistakes may happen — or that new information can emerge after a story is published — and we pledge to address all concerns quickly, fairly and transparently. If a correction or clarification is warranted, we will highlight that in the original file and explain to readers why the change was made. Any correction or clarification would also be published on our corrections log.
+
+To report corrections & clarifications, contact:
+
+Phone , 1-800-872-7073
+
+, 1-800-872-7073 Email, accuracy@usatoday.com
+
+Please indicate whether you're responding to content online or in the newspaper.
+
+The following corrections & clarifications have been published on stories produced by USA TODAY's newsroom:
+
+August 2021
+
+News: An Aug. 17 story on Page 6A incorrectly described Fatima Goss Graves’ role with the National Women’s Law Center. She is its president and co-founded the Time’s Up Legal Defense Fund that it administers.
+
+News: Eagle Scout Wyatt Niemann's last name was misspelled in an earlier version of this story. https://www.usatoday.com/story/news/nation/2021/08/10/boy-scout-eagle-scout-earn-50-merit-badges-50-states/5553833001/
+
+Sports: A headline on a story regarding Latinos in the NFL misstated Anthony Munoz's Hall of Fame status in some Aug. 6 editions. Munoz was inducted in 1998.
+
+Sports: A previous version of this story misidentified Hakuho Sho's status. He is an active wrestler. https://www.usatoday.com/story/sports/olympics/2021/08/07/sumo-olympic-sport-sports-future-looks-bright-after-tokyo-games/8029523002/
+
+Money: An earlier version of this story misstated Shahil Shrestha’s home country, which is Nepal. https://www.usatoday.com/story/money/personalfinance/real-estate/2021/08/09/remote-work-incentives-expand-smaller-cities-try-attract-talent/5478847001/
+
+Sports: A story in the Aug. 9 edition misstated the country Emil Zatopek competed for in the 1952 Olympics. He was from Czechoslovakia. https://www.usatoday.com/story/sports/olympics/2021/08/08/tokyo-olympic-track-field-athing-mu-sydney-mclaughlin/5530189001/
+
+News: This story was updated based on new information received after publication from multiple sources. The rating on this file has been changed from False to True. https://www.usatoday.com/story/news/factcheck/2021/08/04/fact-check-viral-image-altered-show-sexual-message-backpack/5461452001/?fbclid=IwAR3SFVVSp1vXLjYvO6lMTPEaz7WeFf8PXhYJSkuOD8z7AlD8DMZdAHkW3ZA
+
+News: This story has been updated to fix House Speaker Nancy Pelosi's title. https://www.usatoday.com/story/news/politics/2021/01/10/howard-liebengood-capitol-police-officer-dies-days-after-riot/6615758002/
+
+News: The Associated Press has updated this story to remove an erroneous quote from Cherokee County District Attorney Shannon Wallace. https://www.usatoday.com/story/news/nation/2021/07/27/atlanta-spa-shooter-pleading-guilty-hopes-life-sentence/5384869001/
+
+News: This story's headline has been updated to correct Sen. Susan Collins' comments on the Jan. 6 select committee. https://www.usatoday.com/story/news/politics/2021/08/01/susan-collins-says-trump-shouldnt-testify-january-6-committee/5447261001/
+
+July 2021
+
+News: This story has been updated to clarify the number of COVID-19 vaccine shots administered in the U.S. https://www.usatoday.com/story/news/health/2021/07/30/delta-variant-new-cdc-data-why-masks-important-vaccinated-transmission/5427884001/
+
+Sports: An earlier version of this story incorrectly reported the definitions of port and starboard. Port is the right side of the boat from the rower's perspective facing the stern and starboard is the left side. https://www.usatoday.com/story/sports/olympics/2021/07/23/rowing-tokyo-olympics-seven-events/8070502002/
+
+Sports: A story in the July 29 edition about the increase in the hiring of Black head coaches in the NBA misspelled the name of a San Antonio Spurs assistant coach. She is Becky Hammon. https://www.usatoday.com/story/sports/nba/2021/07/28/seven-hires-nba-nears-record-number-black-coaches/5374290001/
+
+Entertainment: An earlier version of this report included an image misidentified as Dusty Hill. https://www.usatoday.com/story/entertainment/music/2021/07/28/zz-top-bassist-dusty-hill-dead-72/5404890001/
+
+Opinion: This column has been updated to reflect the timing and location of the fine for the Norwegian handball team. https://www.usatoday.com/story/opinion/2021/07/27/tokyo-olympics-german-gymnasts-unitards-why-not-hijabs/5385281001/
+
+Tech: This story has been corrected to clarify the research will focus on how extremist groups raise funds. https://www.usatoday.com/story/tech/2021/07/26/paypal-adl-collaborate-cutting-off-funding-hate-groups/8092628002/?Adsfa
+
+Money: An earlier headline of this story misidentified the percentage of teenage workers in the U.S. https://www.usatoday.com/story/money/2021/07/25/work-shortage-teenagers-largest-segments-workforce/8086700002/
+
+Money: An earlier version of this story misattributed a quote to Michelle Lee, editor-in-chief of Allure, and has since been corrected. https://www.usatoday.com/story/money/shopping/2021/07/24/lipstick-makeup-sales-rise-target-ulta-kohls-sephora-covid-masks/7430171002/
+
+Sports: An earlier version of this story incorrectly stated the location of Olympian Lee Kiefer's fencing club. She has trained with Bluegrass Fencers' Club in Lexington. https://www.usatoday.com/story/sports/olympics/2021/07/25/lee-kiefer-makes-history-gold-womens-foil-tokyo-olympics/8085797002/
+
+Money: This article has been updated to include relevant timing. The photos Troy Nicholas was seeking were taken in February 2020 and sent to him in July 2020. https://www.usatoday.com/story/money/columnist/2021/07/22/jcpenney-photos-were-delayed-how-do-get-my-family-pictures/8045786002/ https://www.facebook.com/usatodaymoney/posts/4559893540701417 https://twitter.com/USATODAYmoney/status/1418616902994235394
+
+Sports: In a previous version of this story, a photo misidentified Suni Lee. https://www.usatoday.com/story/sports/olympics/2021/07/21/sunisa-lee-olympics-gymnastics-rising-star/7976840002/
+
+News: This story has been corrected to show that the decision not to prosecute was made during the Trump administration. https://www.usatoday.com/story/news/politics/2021/07/19/wilbur-ross-misled-congress-census-citizenship-question-watchdog/8017463002/
+
+News: A July 12 story on Page 5A incorrectly stated which candidate President Donald Trump endorsed in a 2017 Alabama Senate primary. Trump endorsed Sen. Luther Strange over Rep. Mo Brooks. https://www.usatoday.com/story/news/politics/2021/07/11/how-much-does-trump-endorsement-help-gop-candidates/7880571002/
+
+News: This story has been updated to reflect information provided by the Carl Sagan estate after this item initially published. The rating has been changed from False to Missing context. https://www.usatoday.com/story/news/factcheck/2021/07/12/fact-check-quote-truth-misattributed-carl-sagan/7925859002/
+
+News: A July 14 story on Page 2A incorrectly identified the title of Georgia Secretary of State Brad Raffensperger. https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/
+
+Sports: A previous version of this story misidentified Kahlil Watson's school. He went to Wake Forest (N.C.) High School. https://www.usatoday.com/story/sports/mlb/2021/07/11/mlb-draft-pittsburgh-pirates-draft-louisville-catcher-henry-davis/7932887002/
+
+News: An earlier version of this story misstated the Republican support for the proposal in the Senate. Two Republicans, Sens. Rand Paul, R-Ky., and Rob Portman, R-Ohio. have co-sponsored the bill. https://www.usatoday.com/story/news/politics/2021/07/09/joe-biden-wants-close-crack-powder-cocaine-sentencing-disparity/7842213002/
+
+Politics: A previous version of this story mis-stated the timeline of the interactions between Newman and Greene. https://www.usatoday.com/story/news/politics/2021/07/09/marjorie-taylor-greene-makes-transphobic-comments-fundraiser/7915979002/
+
+June 2021
+
+News: A photo caption on Page 1D on July 1 didn't make clear that "A Capitol Fourth" in Washington, D.C., was not a live event this year.
+
+Social media: A previous tweet incorrectly described the events of a live video. Here is the updated version: https://twitter.com/USATODAY/status/1411715358218674180
+
+Sports: An earlier version of this story listed the incorrect starting date for K-Zone. It launched on July 1, 2001. https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2021/07/04/buster-posey-brandon-crawford-san-francisco-giants/7853260002/
+
+News: A Wednesday story on Page 1A about using DNA analysis to identify mass casualty victims misidentified the last name of the 1,642nd victim identified in the 9/11 attack on the World Trade Center. He was Scott Michael Johnson. https://www.usatoday.com/story/news/nation/2021/06/29/surfside-condo-collapse-dna-testing-could-key-identify-victims/7790521002/
+
+News: This story has been updated to reflect when the National Institute of Standards and Technology was founded. https://www.usatoday.com/story/news/nation/2021/06/28/miami-condo-collapse-update-missing-people-florida-building/5369756001/
+
+News: This story was updated to correct an inaccurate statement attributed to Pakistan's foreign minister. Shah Mahmood Qureshi said the nation is shutting its border to refugees but did not make reference to the Taliban. https://www.usatoday.com/story/news/world/2021/06/27/after-us-leaves-afghanistan-pakistan-worry-taliban-take-over/5363611001/
+
+Money: An earlier version of this story gave incorrect figures for the number of Americans working from home in May 2020 and May 2021. https://www.usatoday.com/story/money/2021/06/25/return-work-labor-day-businesses-shift-mindset-employees/5310673001/
+
+Money: A prior version of this video misspelled the name of Priyanka Chopra Jonas. https://www.usatoday.com/videos/money/2021/06/17/rebranding-victorias-secret-says-goodbye-its-angels/7732395002/
+
+News: John Zaia, who directs the Center for Gene Therapy at City of Hope, is leading a trial of a COVID-19 vaccine for cancer patients, which was developed by colleagues there. Existing COVID-19 vaccines appear to be safe and provide about 80% protection for patients with inflammatory bowel disease. An article in the June 25 edition misstated Zaia’s role and the type of bowel condition.
+
+News: A story on page 1D in the June 25 edition misspelled the name of Evelyn Minjares-Carrillo. https://www.usatoday.com/story/news/education/2021/06/25/common-app-hbcu-college-application-test-score-optional/5310479001/
+
+News: This story was updated June 22 with a reworded claim that provides a more nuanced summary of the point made in the Facebook post being fact-checked here. Other references were updated for clarity. This does not change our rating for this post, which remains False. https://www.usatoday.com/story/news/factcheck/2021/06/06/fact-check-post-misleads-effectiveness-j-j-covid-19-vaccine-older-adults/7466677002/
+
+Sports: A previous version of this story incorrectly reported the margin by which Ryan Crouser bested the previous world record. He beat the record by 10 inches. https://www.usatoday.com/story/sports/olympics/2021/06/18/ryan-crouser-sets-world-record-mens-shot-put-us-olympic-trials/7751068002/
+
+News: Earlier versions of these stories overestimated the number of undocumented immigrants affected by the bill discussed by the Senate Judiciary Committee. https://www.usatoday.com/story/news/2021/06/15/bidens-eu-meeting-california-reopening-5-things-know-tuesday/7688088002/ https://www.usatoday.com/story/news/politics/2021/06/14/vp-kamala-harris-meet-daca-recipients-amid-immigration-uncertainty/7683960002/
+
+News: An earlier version of this story overestimated the number of "Dreamers" who could be helped by the American Dream and Promise Act. There are are more than 3 million Dreamers among 11 million undocumented Americans. https://www.usatoday.com/in-depth/news/nation/2021/04/14/immigration-reform-dreamers-daca-recipients-hope-stay-us/7004644002/
+
+Entertainment: A photo caption in a previous version of this report misidentified Amanda Kloots’ sister. Her name is Anna Kloots. https://www.usatoday.com/in-depth/entertainment/books/2021/06/14/amanda-kloots-gets-real-grief-shares-sign-late-nick-cordero/7597484002/
+
+Travel: Germany’s entry requirements have been updated. https://www.usatoday.com/story/travel/news/2021/05/19/covid-travel-restrictions-countries-fully-vaccinated-americans-europe/7284487002/
+
+Travel: This story has been updated to reflect that though Celebrity Cruises has billed the Celebrity Millennium sailing as "fully vaccinated," some unvaccinated children are aboard the ship. https://www.usatoday.com/story/travel/cruises/2021/06/10/passengers-positive-covid-after-sailing-100-vaccinated-cruise/7645511002/
+
+News: A prior version of this story misstated the name of the National Oceanic and Atmospheric Administration. https://www.usatoday.com/story/news/nation/2021/06/10/southern-ocean-officially-recognized-fifth-ocean-national-geographic/7645212002/
+
+Tech: A previous version of this story did not include AT&T's latest robocall-blocking security software, ActiveArmor. https://www.usatoday.com/story/tech/2021/06/05/how-stop-robocalls-iphone-android-these-apps-fight-spammers/7542584002/
+
+Life: A story on Page 1D on June 9 incorrectly stated why a patient needed emergency surgery. It was for inflamed fibroids.
+
+Sports: A display quote accompanying a story on the Logan Paul-Floyd Mayweather Jr. fight in some editions June 4 misidentified the person who said it. The statement was made by Logan Paul.
+
+Sports: A previous version of this story misidentified the Arizona Diamondbacks' home TV network. It is Bally Sports Arizona. https://www.usatoday.com/story/sports/mlb/2021/06/02/diamondbacks-announcer-bob-brenly-mocks-marcus-stromans-durag/7503646002/
+
+Sports: A photo caption included in a story on Michelle Wie West in the June edition misstated the number of golf tournaments she played in 2021 before the U.S. Women’s Open. She had played in three.
+
+May 2021
+
+News: A previous version of this video misstated that John Warner held a position in Virginia state government. https://www.usatoday.com/videos/news/politics/2021/05/26/john-warner-former-virginia-senator-has-died-94-years-old/7448706002/
+
+Sports: A column on Joe West in the May 25 edition misstated the record-setting number of games he was set to umpire in that day. It is 5,376.
+
+News: This story has been updated to include a photo approved for use by the parent and student. A previous version included altered photos to conceal the identity of minors. https://www.usatoday.com/story/news/nation/2021/05/23/florida-female-students-yearbook-photos-bartram-trail-high-school/5237009001/
+
+News: This story has been updated to correct the poll's name as a Reuters/Ipsos poll. https://www.usatoday.com/story/news/politics/2021/05/25/poll-quarter-americans-surveyed-say-trump-true-president/7426714002/
+
+Entertainment: An earlier version of this report misidentified the Ford pickup truck seen in the series finale of "Last Man Standing." The vehicle is a 1956 F-100. https://www.usatoday.com/story/entertainment/tv/2021/05/21/last-man-standing-series-finale-recap-tim-allen-interview/5135396001/
+
+News: A May 20 story on Page 3A contained an incorrect title for Ken Cooper. He is director of THT of New York, a New York state-certified firearms and security training academy. https://www.usatoday.com/story/news/2021/05/19/andrew-brown-bodycam-video-police-civil-liberties-experts-weigh/5165158001/
+
+Sports: The NHL playoff power rankings in the May 17 edition misstated the Minnesota Wild’s record against the Vegas Golden Knights this season. The Wild were 5-2-1 against the Knights, and one of the losses came in regulation. https://www.usatoday.com/restricted/?return=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fsports%2Fnhl%2F2021%2F05%2F14%2Fnhl-stanley-cup-playoffs-power-rankings%2F5016621001%2F
+
+News: A story on Page 3A on May 18 incorrectly included Florida among the states that Joe Biden carried in the 2020 presidential election. Donald Trump won Florida. https://www.usatoday.com/in-depth/news/politics/2021/05/15/target-joe-biden-donald-trump-gop-find-hard-hurt-his-image/5042821001/
+
+News: A prior version of this story mischaracterized part of virologist Jesse Bloom's position. He said he can’t rule out the possibility the coronavirus was either a natural occurrence or accidentally released from a lab in China. https://www.usatoday.com/story/news/health/2021/05/14/covid-origins-chinese-lab-leak-animals-us-scientists-want-answers/5056422001/
+
+Entertainment: An earlier version of this report misstated when tickets for new dates on Justin Bieber's world tour go on sale. They go on sale later this month. https://www.usatoday.com/story/entertainment/music/2020/07/23/justin-bieber-reveals-rescheduled-world-tour-adds-new-show-dates-2021/5497174002/
+
+Entertainment: An earlier version of this report incorrectly characterized a previous fatal shooting at the X-clusive nightclub in Shively, Kentucky, last August. Police say Ronnie T. O'Bannon is "a person of interest" in that case. https://www.usatoday.com/story/entertainment/music/2021/05/11/jack-harlow-dj-charged-louisville-nightclub-shooting/5045655001/
+
+News: This story was updated May 11 to clarify the nature of viral shedding connected to COVID-19 and the vaccines. COVID-19 vaccinated people don't shed viral particles from the vaccine, be they live virus or spike proteins. The update does not affect the "false" rating. https://www.usatoday.com/story/news/factcheck/2021/05/07/fact-check-covid-19-vaccinated-people-dont-shed-virus/4971413001/
+
+Social media: A previous tweet misstated the origin of the confrontations in Gaza. https://twitter.com/USATODAY/status/1391897178038095874
+
+News: A May 7 story on Page 1A incorrectly identified the regional locations of Wake Island and Hawaii. The islands are in the North Pacific. https://www.usatoday.com/in-depth/news/politics/2021/05/06/trump-navy-secretary-kenneth-braithwaite-spent-2-3-million-travel/4860333001/
+
+News: This article has been updated to correct information provided by the Biden administration related to preschool in Missouri and child poverty in Arizona. https://www.usatoday.com/story/news/politics/2021/05/06/biden-using-state-specific-data-sell-child-care-education-plan/4956903001/
+
+News: This article was updated May 5 to detail new CDC guidelines and how previous restrictions on gatherings were set on a state level, not federally. The rating was changed from "False" to "Missing context." https://www.usatoday.com/story/news/factcheck/2021/04/28/fact-check-biden-didnt-say-july-fourth-celebrations-canceled/4854599001/
+
+April 2021
+
+Travel: An earlier version of this story misstated from where travel will be restricted. President Joe Biden's administration plans to restrict travel from India to the United States. https://www.usatoday.com/story/travel/airline-news/2021/04/30/india-travel-us-restrict-flights-india-due-covid-19-surge/4892115001/
+
+News: This article has been update to reflect and link to Arizona's 2020 election data. https://www.usatoday.com/story/news/politics/2021/05/02/cindy-mccain-arizona-2020-election-audit-ludicrous/4915508001/
+
+Travel: A previous version of this story incorrectly characterized a study of homelessness at airports. The $400,000 study is being conducted by the Transportation Research Board. https://www.usatoday.com/story/travel/airline-news/2021/04/18/covid-travel-and-stress-airports-step-up-mental-health-assistance/7239029002/
+
+News: This story has been updated to reflect that additional charges were brought against the former deputy in January 2020. https://www.usatoday.com/story/news/nation/2021/04/27/accused-drug-planting-deputy-slapped-two-dozen-new-charges/4852722001/
+
+Social media: A previous tweet of this quote misidentified the actress. https://twitter.com/USATODAY/status/1386504898741735427
+
+News: An earlier version of this story incorrectly referenced the legality of machine guns in the United States. Machine guns registered with the ATF before 1986 can still be bought and sold with government approval. https://www.usatoday.com/story/news/factcheck/2021/04/22/fact-check-post-missing-context-ar-15-rifles-and-mass-shootings/7039204002/
+
+News: Elvis Presley received a polio vaccine in 1956 before performing on “The Ed Sullivan Show.” An April 20 article on Page 1A contained incorrect information. https://www.usatoday.com/in-depth/news/health/2021/04/19/covid-vaccine-tracker-available-widely-hesitancy/7187382002/
+
+News: An April 14 graphic on Page 2A, comparing a Taser X26P and a Glock 17 handgun, included incorrect weights. The Taser with cartridge and battery is 1.74 pounds. The loaded Glock is 2.02 pounds. https://www.usatoday.com/in-depth/news/2021/04/14/daunte-wright-shooting-brooklyn-center-minnesota-taser-accidental-discharge-firearm-mistake/7201753002/
+
+News: An earlier version of this story incorrectly stated the name and age of 50-year-old Jasvinder Kaur based on information provided by the Indianapolis Metropolitan Police Department. https://www.usatoday.com/story/news/nation/2021/04/16/deadly-indianapolis-fedex-shooting-what-we-know-suspect-victims/7250410002/
+
+News: An earlier version of this story incorrectly identified the FedEx facility where the shooting took place on Thursday night. https://www.usatoday.com/story/news/nation/2021/04/15/fedex-shooting-indianapolis-international-airport-police/7249620002/
+
+Sports: A previous version of this story mischaracterized new revenue generated since Deion Sanders arrived at Jackson State. The school’s athletic department has generated the equivalency of $185 million in advertising and exposure, a university spokeswoman said. https://www.usatoday.com/story/sports/nfl/columnist/bell/2021/04/17/deion-sanders-star-power-paying-off-jackson-state-football/7266362002/
+
+Social media: An earlier version of this social card contained an error based on information provided by the Indianapolis police. https://www.instagram.com/p/CNx4fxisroI/ https://www.facebook.com/usatoday/posts/10159375864285667 https://twitter.com/USATODAY/status/1383507602336718853
+
+News: An earlier version of The Short List misidentified the race of 13-year-old Adam Toledo. https://www.usatoday.com/story/news/2021/04/15/adam-toledo-video-derek-chauvin-russian-sanctions-kim-potter-court-its-thursdays-news/7237902002/
+
+News: An earlier version of this story misreported the placement of Derek Chauvin's hands as he kneeled on George Floyd. https://www.usatoday.com/story/news/nation/2021/03/29/george-floyd-video-chauvin-trial-jurors-watch-9-minute-cellphone-video-his-death/7046237002/
+
+Life: The author of a review of Fox News' "Gutfeld!" was misidentified on April 14. Bill Keveney wrote the review.
+
+Opinion: A prior version of this column misstated where former police officer Derek Chauvin's hand was. https://www.usatoday.com/story/opinion/2021/04/13/how-view-george-floyds-drug-addiction-column/7199523002/
+
+News: A prior version of this story misstated the name of the Naval Criminal Investigative Service. https://www.usatoday.com/in-depth/news/nation/2021/04/13/us-navy-marines-white-supremacy-discharged/4566463001/
+
+Travel: An earlier version of this story listed an incorrect location for The Grove Resort & Water Park, which is in Winter Garden, Florida. https://www.usatoday.com/story/travel/hotels/2021/04/11/floridas-best-water-parks-margaritaville-tradewinds-grove/7160444002/
+
+News: This story was updated to reflect that Brazil was the second nation to have 4,000 COVID-19 deaths in a single day. https://www.usatoday.com/story/news/world/2021/04/07/brazil-covid-19-deaths-exceed-4-000-daily-variant-rages/7125324002/
+
+News: A story on Page 3D on April 8 incorrectly described the experience of Lindsay Fox, who worked in an emergency room in Newark, New Jersey. She saw as many as 100 COVID-19 positive patients in a shift, and a refrigerated truck full of dead bodies. https://www.usatoday.com/story/news/nation/2021/04/07/hillsboro-new-mexico-covid-19-vaccine-community-comes-together/7121695002/
+
+Sports: An earlier version of this story included a UNLV opponent and score from a previous season. https://www.usatoday.com/in-depth/sports/ncaab/2021/04/03/final-four-how-perfect-teams-have-fared-tournament-since-1976/4834970001/
+
+Sports: This story has been updated to correct the age of UNC Greensboro coach Wes Miller. He is 38. https://www.usatoday.com/story/sports/ncaab/2021/04/01/north-carolina-basketball-tar-heels-roy-williams-coach-candidates/4836387001/
+
+Entertainment: A prior version of this video misidentified the cause of the heart attack of rapper DM. https://www.usatoday.com/videos/entertainment/music/2021/04/04/dmx-hospital-after-suffering-heart-attack/7082763002/
+
+Sports: An earlier version of this story incorrectly reported the years Jordan Burroughs won world titles. He won in 2011, 2013, 2015 and 2017. https://www.usatoday.com/story/sports/olympics/2021/04/03/olympic-wrestler-jordan-burroughs-fails-make-us-team-tokyo/7080854002/
+
+March 2021
+
+Sports: A previous version of this story incorrectly stated Shaka Smart's record as the men's basketball coach at Texas. He was 109-86. https://www.usatoday.com/story/sports/ncaab/2021/03/26/shaka-smart-marquette-basketball-coach/7013415002/
+
+News: Since December, the U.S. has bought 200 million more doses each of the Moderna and Pfizer-BioNTech vaccines. The Trump administration ordered 100 million each in December, and the Biden administration another 100 million each in February. An article in the March 26 edition contained incorrect information.
+
+Sports: A story about Jerry Jones and the National Medal of Honor Museum and Leadership Institute in the March 25 edition incorrectly stated the number of years that have passed since the first Medal of Honor was bestowed. It has been 158 years. https://www.usatoday.com/story/sports/nfl/cowboys/2021/03/25/cowboys-jerry-jones-national-medal-honor-museum-giving-20-million/6986461002/
+
+News: This story has been updated to correct the name of the school where F. King Alexander was president prior to his tenure at LSU. He worked at California State University, Long Beach. https://www.usatoday.com/story/news/investigations/2021/03/23/oregon-state-university-president-alexander-resigns-amid-lsu-scandal/6965847002/
+
+News: This story has been updated to reflect White House press secretary Jen Psaki's mention on Wednesday of potential executive actions related to gun control. https://www.usatoday.com/story/news/politics/2021/03/24/gun-control-where-president-biden-stands-legislation-executive-orders/6989667002/
+
+News: A prior version misstated time of police arrival and reported shooting of officer in Boulder, Colorado. https://www.usatoday.com/in-depth/news/2021/03/23/boulder-shootings-10-killed-suspect-surrenders/6963259002/
+
+News: An earlier version of this story misspelled Tralona Bartkowiak's first name. https://www.usatoday.com/story/news/nation/2021/03/23/boulder-shooting-victims-colorado-identified-eric-talley/6964265002/
+
+News: Marty Walsh is the first union member to head the Department of Labor in nearly 50 years. https://www.usatoday.com/in-depth/graphics/2021/03/05/tracking-the-confirmations-of-bidens-cabinet-members/4557215001/
+
+News: An earlier version of this story misspelled Thao Nguyen's name and where she resided during the coronavirus pandemic in 2020. https://www.usatoday.com/story/news/education/2021/03/20/covid-19-college-student-newspapers-coronavirus/4503367001/
+
+News: We clarified the Biden administration's timeline for its goal of 100 million doses in the first section of this article on March 19. https://www.usatoday.com/in-depth/graphics/2021/03/12/when-will-everyone-be-vaccinated-for-covid-19-when-will-we-reach-us-herd-immunity-projection/6840512002/
+
+Travel: An earlier version of this story mischaracterized California Attractions and Parks Association’s recommendations to mitigate the effects of shouting on theme park rides. https://www.usatoday.com/story/travel/news/2021/03/16/covid-and-theme-parks-try-not-scream-rides-group-advises/4720336001/
+
+Sports: A story on the Drew family and the NCAA Tournament in the March 17 edition misstated the year Bryce Drew hit The Shot for Valparaiso. It was 1998. https://www.usatoday.com/story/sports/ncaab/2021/03/15/scott-drew-bryce-drew-baylor-grand-canyon-ncaa-tournament/4697397001/
+
+Social media: Previous posts incorrectly stated the new tax filing deadline date. The Internal Revenue Service has pushed the deadline to May 17. https://www.facebook.com/usatoday/posts/10159299124870667 https://twitter.com/USATODAY/status/1372334587192471553
+
+News: Interior Secretary Deb Haaland is the first Native American to serve as a presidential Cabinet secretary. https://www.usatoday.com/story/news/politics/2021/03/15/deb-haaland-confirmed-becomes-first-native-american-cabinet/4700097001/
+
+Sports: A previous version of this story misstated North Carolina's last NCAA Tournament appearance. The Tar Heels last appeared in the tournament in 2019. https://www.usatoday.com/story/sports/ncaab/tourney/2021/03/14/march-madness-ncaa-tournament-bracket-analysis-south-region/4678604001/
+
+News: A story that ran in Jan. 11 editions incorrectly quoted President Donald Trump during a conversation with a Georgia official based on incorrect information provided to USA TODAY. A subsequent recording of the call published by The Wall Street Journal shows Trump asked the official to look for "dishonesty." https://www.usatoday.com/story/news/politics/2021/01/09/trump-phone-call-pressured-georgia-election-investigator/6610212002/
+
+Travel: A previous version of this photo gallery had incorrect information about the height of Vermont's Decker Towers. The Burlington building is 11 floors and 124 feet tall. https://www.usatoday.com/picture-gallery/travel/news/2021/03/11/tallest-building-in-every-state/115502164/
+
+News: Sen. Jeanne Shaheen, D-N.H., is a co-sponsor of the bill to extend the application deadline for the Paycheck Protection Program. https://www.usatoday.com/story/news/politics/2021/03/12/bipartisan-group-lawmakers-scramble-extend-payroll-protection-program/4665435001/
+
+Sports: An earlier version of this story incorrectly identified the announcer who made racist comments during a girls high school basketball game between Norman (Oklahoma) and Midwest City. The announcer was Matt Rowan. https://www.usatoday.com/story/sports/2021/03/12/announcer-directs-racist-comments-toward-norman-girls-basketball-kneeling-during-national-anthem/4666770001/
+
+Sports: The location of the LPGA Tour's Drive On Championship in the tournament scores was misidentified in the March 8 and March 9 editions. It was held in Ocala, Florida.
+
+Sports: A photo caption in the March 1 edition accompanying an LPGA story misidentified the Korda sister celebrating with tournament winner Nelly Korda. The sibling was Jessica Korda.
+
+Social media: A previous version of this graphic underrepresented the number of COVID-19 vaccines delivered.⁠ https://www.facebook.com/usatoday/photos/10159261339295667 https://twitter.com/USATODAY/status/1366927557090770945 https://www.instagram.com/p/CL8E3hiLt3H/
+
+News: An earlier version of this story from The Associated Press incorrectly reported that the shooting victim had died. https://www.usatoday.com/story/news/nation/2021/03/01/arkansas-school-shooting-student-killed-pine-bluff/6878759002/
+
+Money: This story has been updated to reflect that this is the first time Reese's has offered a peanut butter cup without chocolate. https://www.usatoday.com/story/money/2021/03/02/reeses-peanut-butter-cups-without-chocolate-back-hershey-company/6884001002/
+
+February 2021
+
+News: A Feb. 24 photo on Page 1A showed a COVID-19 mobile testing clinic by the Community-University Health Care Center in Minneapolis in September. The caption incorrectly described the type of clinic.
+
+News: This story has been updated to reflect the correct number of terrorists involved in the Sept. 11, 2001, attacks who entered the U.S. on a student visa; it was only one. https://www.usatoday.com/story/news/nation/2021/02/20/dhs-ice-sued-over-international-students-enter-us/4493742001/
+
+News: This story has been updated to correct the years that Newsmax and OANN launched. https://www.usatoday.com/story/news/politics/2021/02/21/paleologos-poll-newsmax-and-oann-out-foxing-fox/4533848001/
+
+Sports: A previous tweet incorrectly identified the team for which David Ayres played. https://twitter.com/usatodaysports/status/1363884866618732545
+
+News: A Page 1A story on Feb. 15 incorrectly described Sen. Bernie Sanders’ political affiliation. He is a registered independent who caucuses with Democrats.
+
+Money: An earlier version of this story misidentified one of the online brokerage firms that restricted the buying and selling of stocks. https://www.usatoday.com/story/money/2021/02/18/gamestop-hearing-robinhood-reddit-ceos-testify-before-congress/6770118002/
+
+Sports: A previous version of this story misstated Garrett Reid’s age when he passed away. He was 29. https://www.usatoday.com/story/sports/nfl/super-bowl/2021/02/07/britt-reid-son-chiefs-coach-andy-reid-miss-super-bowl-2021/4425667001/ https://www.usatoday.com/story/sports/nfl/chiefs/2021/02/11/britt-reid-no-longer-employed-chiefs-reports-nfl-investigating/6721965002/
+
+Sports: A story on Jordan Spieth in some Feb. 11 editions misstated his third-round score in the Phoenix Open. He shot 10-under 61.
+
+News: Some Feb. 10 editions misidentified the political affiliation of Kevin Madden, an independent political strategist and former adviser to Mitt Romney's presidential campaign, in a story on Page 1A.
+
+Sports: A story on NASCAR Cup Series driver Denny Hamlin in Tuesday’s edition misstated his car number. He drives the No. 11 car. https://www.usatoday.com/story/sports/ftw/2021/02/08/nascar-denny-hamlin-seeks-daytona-500-winning-history/115441624/
+
+News: A previous version of this story gave the incorrect state for Rep. Rosa DeLauro. DeLauro represents Connecticut’s 3rd District. https://www.usatoday.com/story/news/politics/2021/02/08/covid-19-relief-democrats-propose-3-600-per-child-tax-credit/4434504001/
+
+Sports: A story in the Feb. 5 edition about fans who have been to every Super Bowl misstated the Super Bowl in which Tony Dungy and Lovie Smith coached against each other. It was Super Bowl 41. https://www.usatoday.com/story/sports/nfl/2021/02/02/super-bowl-2021-five-fans-attend-55th-consecutive-game/6657265002/
+
+News: The Missouri item in the 50 States roundup of the Feb. 4 edition included an incorrect city. Kansas City's mayor, Quinton Lucas, is seeking to ensure that Black and Hispanic residents have equal opportunities to get COVID-19 vaccinations.
+
+Sports: A previous version of this story mischaracterized the nature of Francesca Jones' scholarship with the LTA. The support she receives benefits Jones and her current coaching team. https://www.usatoday.com/story/sports/tennis/aus/2021/02/08/australian-open-debut-francesca-jones/4420665001/
+
+Entertainment: A previous version of this story misidentified a 2018 film titled “The Nightingale.” The adaptation of Kristin Hannah's book of the same name has not yet been released. https://www.usatoday.com/story/entertainment/books/2021/02/02/the-four-winds-review-kristin-hannahs-epic-dust-bowl-era-novel/4345865001/
+
+Sports: An earlier version of this story included a photo that was not of Martellus Bennett. https://www.usatoday.com/story/sports/columnist/mike-freeman/2021/02/04/martellus-bennett-shares-dark-important-thoughts-nfl-life/4370498001/
+
+Entertainment: An earlier version of this story misstated the timing of Fox News' segment debunking election-fraud claims involving Dominion Voting Systems machines. The network aired its segment about Dominion in November, before the company wrote a letter raising the prospect of legal action against those making or providing a platform for what it claims are defamatory statements. https://www.usatoday.com/story/entertainment/tv/2021/02/02/newsmax-anchor-walks-out-after-my-pillow-ceo-mike-lindell-rant/4363781001/
+
+Travel: A federal magistrate has not granted permission for Jenny Cudd to leave the country, as indicated in a previous version of this story. https://www.usatoday.com/story/travel/news/2021/02/02/capitol-rioter-wants-go-mexican-vacation-and-court-lets-her/4358889001/
+
+January 2021
+
+Entertainment: A previous version of this report incorrectly characterized the status of Rod Stewart’s plea deal. Defense lawyers say the details of the deal have been worked out, and prosecutors confirm negotiations are ongoing. https://www.usatoday.com/story/entertainment/music/2021/01/29/rod-stewart-avoids-trial-reaches-plea-deal-florida-altercation/4316404001/
+
+News: This story has been updated to reflect a change to the Tampa Bay Buccaneers' official shade of red. The rating has been changed to Missing Context. https://www.usatoday.com/story/news/factcheck/2021/01/27/fact-check-super-bowl-lv-chiefs-bucs-logos-same-primary-pantone-color/4276067001/
+
+Travel: An earlier version of this story mischaracterized President Joe Biden’s action on rescinding the Muslim travel ban. It was a presidential proclamation. https://www.usatoday.com/story/travel/news/2021/01/21/biden-executive-order-ends-muslim-travel-ban-donald-trump/4240420001/
+
+News: This story has been updated to clarify that the satirical event flyer was emailed to a law student listserv on Jan. 25. https://www.usatoday.com/story/news/factcheck/2021/01/27/fact-check-flyer-calling-capitol-riot-stanford-event-satire/4267449001/
+
+Sports: An earlier version of this story misstated the team for which Leslie Frazier works. He is the defensive coordinator for the Buffalo Bills. https://www.usatoday.com/story/sports/nfl/texans/2021/01/27/houston-texans-hire-ravens-assistant-david-culley-head-coach/4288346001/
+
+Tech: A prior version of this story misspelled Mei of “Turning Red.” https://www.usatoday.com/story/tech/reviewedcom/2021/01/11/here-all-new-pixar-projects-coming-disney-plus/6625409002/
+
+Sports: Earlier tweets shared reporting about the helicopter crash that killed Kobe Bryant and eight others. It was our intent to share new reporting around the day's timeline. Our tweets came with no warning or context. We took down those tweets and regret the insensitivity of the content. https://twitter.com/usatodaysports/status/1354133575050944512
+
+Sports: A previous version of the headline and this story misstated the Mets offer to Trevor Bauer. The offer would approach Gerrit Cole's $36 million average value on his nine-year, $324 million contract signed a year ago. https://www.usatoday.com/story/sports/mlb/mets/2021/01/26/trevor-bauer-mets-offer-contract/4258036001/
+
+Video: An earlier version of this video misstated the terms of Biden's executive order, which formalizes an international COVID-19 travel testing requirement and recommends international travelers quarantine upon arrival in the U.S. https://www.usatoday.com/videos/travel/news/2021/01/25/president-biden-expected-reinstate-covid-19-travel-restrictions/6698470002/
+
+Travel: An earlier version of this story misstated the terms of one of President Joe Biden’s executive orders, which formalizes an international COVID-19 travel testing requirement and recommends international travelers quarantine upon arrival in the U.S. https://www.usatoday.com/story/travel/news/2021/01/24/joe-biden-covid-19-travel-restrictions-non-us-travelers/6695664002/
+
+Sports: A column in the Jan. 18 editions about Colin Kaepernick and Martin Luther King Jr. referred to support that King showed Tommie Smith and John Carlos. It should have noted that according to news reports, Carlos met with King in early 1968 to discuss nonviolent protest. King was assassinated before the Olympics were held in Mexico City.
+
+News: A prior version of this story misstated which company acquired Aerojet Rocketdyne. https://www.usatoday.com/story/news/nation/2021/01/16/nasa-fires-moon-rocket-test-but-engines-shut-down-early/4193701001/
+
+News: This version corrects time of C-Span report of rioters inside Statuary Hall to 2:33. It also corrects the content of a Dec. 19 tweet from the president: "Be there, will be wild!" https://www.usatoday.com/in-depth/news/2021/01/06/dc-protests-capitol-riot-trump-supporters-electoral-college-stolen-election/6568305002/
+
+News: A previous version of the headline misstated the number of known COVID-19 cases among primates. https://www.usatoday.com/story/news/nation/2021/01/12/covid-gorillas-test-positive-san-diego-zoo-safari-park-california/6635869002/
+
+Instagram: Federal authorities said Friday that there is "no direct evidence of kill and capture teams" among the Capitol rioters, walking back claims outlined in court documents that attackers sought to apprehend and "assassinate elected officials." ⁠This post has been updated to clarify the allegation. https://www.instagram.com/p/CKFFJC8srZt/
+
+News: Due to a change in CDC reporting, this page temporarily displayed the number of total vaccine doses administered as a share of population, instead of the number of first doses administered. https://www.usatoday.com/in-depth/graphics/2021/01/14/covid-vaccine-distribution-by-state-how-many-covid-vaccines-have-been-given-in-us-how-many-people/6599531002/
+
+Money: A story in some Jan. 12 editions misidentified the company targeted for acquisition by Staples. The target company is Office Depot.
+
+News: Data language on this page has been updated. https://www.usatoday.com/story/news/education/2020/11/10/covid-updates-iowa-schools-coronavirus-school-districts/5893590002/
+
+Golfweek: A previous version of this story incorrectly stated that Phil Mickelson won the event at Tucson National. https://golfweek.usatoday.com/2021/01/13/phil-mickelson-amateur-pga-tour-win-1991/
+
+News: In stories that ran Jan. 13 on 4A and 1D, the status of a Capitol Police officer was incorrect. No Capitol Police officers had been arrested. Rep. Tim Ryan, D-Ohio, corrected his statement. https://www.usatoday.com/in-depth/news/investigations/2021/01/13/capitol-riot-law-enforcement-failure-analysis/6601142002/ https://www.usatoday.com/story/news/politics/2021/01/12/2-capitol-police-suspended-10-under-investigation-after-capitol-riot/6639735002/
+
+News: An earlier version of this article listed the wrong state for Rocky Mount, Virginia. https://www.usatoday.com/story/news/politics/elections/2021/01/10/capitol-riot-live-updates-online-planning-more-arrests-made-videos/6614783002/
+
+News: This version corrects time of C-Span report of rioters inside Statuary Hall to 2:33. https://www.usatoday.com/in-depth/news/2021/01/06/dc-protests-capitol-riot-trump-supporters-electoral-college-stolen-election/6568305002/
+
+News: A story on 1D in print editions on Jan. 6 misspelled the last name of Denison University student Davis Kleen. https://www.usatoday.com/story/news/education/2021/01/04/colleges-offer-classes-covid-prompts-longer-winter-break/4126710001/
+
+News: In a previous version of this story, Brad Rukstales' residence was misstated. He lives in Illinois. https://www.usatoday.com/story/news/2021/01/07/capitol-mob-drew-trump-fans-qanon-shaman-fireman-jake-angeli-arrest/6585339002/
+
+Travel: A Jan. 11 story on Page 6D about crowded Brazilian beaches amid the coronavirus pandemic had an incorrect byline. Mauricio Savarese and Diane Jeantet of The Associated Press reported and wrote the story. https://www.usatoday.com/story/travel/news/2021/01/08/brazilians-packed-beaches-over-holidays-covid-deaths-hit-200-000/6592970002/
+
+Sports: A previous version of this story included incorrect information about the first female to work in a CBS broadcast booth for an NFL game. https://www.usatoday.com/story/sports/nfl/2021/01/10/nfl-playoff-game-nickelodeon-features-new-orleans-saints-vs-bears/6608939002/
+
+Money: An earlier version of this story misidentified UPS as the service delaying one company's deliveries. https://www.usatoday.com/story/money/2021/01/02/small-businesses-holiday-shipping-deals-usps-fedex-ups/4087597001/
+
+Entertainment: Tanya Roberts, who starred in the 1985 James Bond film "A View to A Kill," as well as classic TV series "Charlie's Angels" and "That '70s Show," has been hospitalized, according to her publicist Mike Pingel, who had incorrectly confirmed the actress' death Sunday. https://www.usatoday.com/story/entertainment/movies/2021/01/03/tanya-roberts-dies-bond-charlies-angels-70-s-show-star/4123788001/
+
+News: This Facebook post has been edited to remove language that does not meet our standards. https://www.facebook.com/usatoday
+
+More:Corrections & Clarifications 2016
+
+More:Corrections & Clarifications 2017
+
+More:Corrections & Clarifications 2018
+
+More:Corrections & Clarifications 2019
+
+More:Corrections & Clarifications 2020
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Twitter has suspended the account of U.S. Rep. Marjorie Taylor Greene for the second time in two months due to a tweet about the COVID-19 vaccine the platform called "misleading."
+
+In an emailed statement to USA TODAY, Twitter said Greene's account will stay in a read-only mode for one week due to repeated violations of Twitter rules.
+
+In a tweet Monday night, Greene said the U.S. Food and Drug Administration should not approve vaccines for COVID-19 because they are "failing." The tweet has been labeled by Twitter as "misleading," and cannot be replied to, shared, or liked.
+
+In a large-scale clinical trial, the Pfizer-BioNTech vaccine was shown to prevent 95% of symptomatic COVID-19, while the Moderna vaccine prevented 94%. The Johnson & Johnson vaccine was shown to be 72% effective.
+
+Last month, Greene's account was suspended for 12 hours for "misleading" tweets she posted related to COVID-19. After her suspension was lifted, Greene returned to Twitter to excoriate the platform.
+
+Coming soon to a theater near you:AMC says customers will soon be able to buy movie tickets with bitcoin
+
+Video games:Pokémon UNITE is a good game, but it needs to fix the money issue to be great
+
+"American social media company Twitter banned me for 12 hrs, censoring me, & violating my freedom of speech," Greene wrote.
+
+In March, Twitter began cracking down on misinformation about COVID-19, including applying labels to tweets deemed "misleading" and a strike system to decide whether additional penalties against accounts were needed.
+
+According to Twitter's strike system, users with four strikes have their accounts locked down for seven days. Five or more strikes can lead to a permanent suspension.
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Coming soon to an AMC theater near you: Bitcoin.
+
+During a quarterly earnings call with investors Monday, AMC Entertainment revealed it will soon have technology in place at all U.S. theaters to allow consumers to buy tickets or concessions online using bitcoins.
+
+The theater chain said it will also offer support for Google Pay and Apple Pay at its theaters in the U.S. by the end of the year.
+
+AMC Entertainment is "in the preliminary stage" of exploring opportunities to dive into the cryptocurrency space, said CEO Adam Aron.
+
+Aron cited his work on the board of acquisition firm Centricus – which is in the process of buying a startup specializing in blockchain technology – in helping him learn about cryptocurrency and decide to allow bitcoins as a payment option for AMC.
+
+"I've had to learn more in the past six months about blockchain and cryptocurrency than I learned about it in the entire decade before that," said Aron.
+
+►Video games:Pokémon UNITE is a good game, but it needs to fix the money issue to be great
+
+►QR codes:Touchless codes open new doors for scammers
+
+Cryptocurrency such as Bitcoin has slowly generated broader acceptance as an option for payment. In April, Venmo launched a feature to allow its users to buy and sell digital currency, including bitcoins. In March, PayPal said it would support paying for goods using cryptocurrency.
+
+Automaker Tesla initially allowed consumers to make purchases using bitcoins, but CEO Elon Musk halted it due to environmental concerns. At a recent crypto conference, Musk said Tesla will "most likely" accept bitcoins again when it's more environmentally friendly, reports TechCrunch.
+
+►AMC Stubs A-List memberships reactivate:Not ready to go back to the movies? Here's how to cancel.
+
+►Movies:With coronavirus rising, 'The Suicide Squad' opens softly at box office
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Pokemon Unite upsets the gamer community with pay-to-win
+
+The multiplayer game faces a backlash after gamers found real money could affect their matches.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Consumers gained some freedom this past spring as COVID's hold weakened but Americans' streaming appetite continued to grow, surpassing the massive amount of movies and TV episodes watched during lockdown.
+
+As more people got vaccinations, restaurants and other businesses began reopening for in-person sales. Regardless, streamers did not hit the brakes on bingeing.
+
+Worldwide streaming time grew 13% in the April-June 2021 time period, compared to a year ago, according to Conviva, a Foster City, California, research firm that tracks more than 500 million unique viewers and 180 billion streams annually on more than 3.3 billion applications.
+
+Since mid-March 2020, Conviva has recorded streaming video surges of double-digit growth in time spent watching, with an uptick of 63% globally in the second quarter of 2020. Continued growth during April-June suggests "while viewing habits certainly changed, those temporary spikes have turned out to be not so temporary," Conviva's Q2 2021 State of Streaming report says. "The pandemic has spurred a tipping point in streaming that shows no signs of reversal."
+
+Samsung Galaxy S21 Ultra 5G:Can the flagship smartphone replace your digital camera for vacation photos?
+
+It's back-to-school time:So how do we cut back all the video gaming?
+
+In North America, streaming grew just 2% during the three-month period, with the most growth seen in South America (179%) and Africa (79%).
+
+There had been some signs such as a decline in new video subscriptions, pointing to a possible post-pandemic lull. Evidently not just yet.
+
+"Even with the absolutely astronomical spike in streaming in the U.S. in Q2 2020, we still recorded growth when compared to the height of pandemic streaming and see accelerating year-over-year growth as we exit Q2 2021," said Paula Mantle, Conviva’s director of global marketing and research. "Streaming has become a staple for Americans and we see no signs of that subsiding even as the world began to look a little more normal."
+
+How we watch streaming video
+
+A big screen TV is the display of choice in every region except Asia, where smartphones and mobile devices are used for 42% of all viewing with big screens getting 16%. Elsewhere big screens accounted for 50% or more of viewing, with North American streamers using big screens 82% of the time. Tablets, mobile phones and desktops, collectively are used for 18% of viewing in North America.
+
+For now, when we do watch on a connected TV, the average time spent is 27.6 minutes, compared to just 9.1 minutes when watching on a mobile phone. Streaming sessions on smart TVs and game consoles run 26.3 minutes.
+
+Streaming TV:Can you have too much of a good thing? 8 tips to help you trim costs
+
+'Black Widow' didn't bomb:Why it's time to stop screaming about streaming
+
+Roku remained the most popular streaming device connected to TVs, with 31% of users, followed by Amazon Fire TV (18%), Samsung TV (12%), PlayStation and LG TV (6% each), Xbox, Apple TV, Android TV and Chromecast (5% each).
+
+"Consumers are increasingly switching to smart TVs with built-in streaming capabilities rather than relying on external connected TV or gaming consoles to stream," Mantle said. "As viewers upgrade their television sets over time we expect to see this trend continue, as consumers will clearly consider and value streaming capabilities more than ever as their streaming viewing time increases."
+
+Follow Mike Snider on Twitter: @MikeSnider.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@You can't help but notice when you first try Razer's new wireless earbuds, they light up.
+
+It's not just that they light up, though. They can pulse to the music, or adapt a color-changing pattern similar to breathing as they shift between colors.
+
+It's an odd option for a category of devices valued more for sound than looks. Honestly, before I used them, it seemed like a gimmick meant to distract from the sound quality.
+
+That's not the case with Razer's second-generation Hammerhead True Wireless Earbuds. They sound great, so much so this is probably the first time I've debated whether to use something other than my trusted Apple AirPods.
+
+I've been testing the Hammerhead earbuds for just more than a week now, and they strike a really strong combination of vibrant sound, comfortable fit and style, and affordability at $129.99. But they are lacking a couple key features that would truly put these on par with – or let them surpass – AirPods.
+
+How to curb hate on Instagram?:New safety features Limits and Hidden Words aim to help
+
+Social media:Twitter suspends Marjorie Taylor Greene – again – for 'misleading' COVID-19 tweet
+
+The setup is fairly straightforward. You pair them with your smartphone through settings, then launch Razer's Audio app to check battery life, adjust equalizer settings and remap some of the touch controls.
+
+There's also a separate Chroma RGB app for tweaking the colors emanating from the earbuds. You can choose a breathing pattern, an audio meter that pulses during songs, a spectrum fading in and out between a variety of colors, or a static one if you're attached to one color.
+
+But let's get to the important part: How do they sound? I've been really impressed. Using the Enhanced Bass option within the equalizer option, it feels like the bass packs more punch compared to other earbuds I've tried.
+
+The Hammerhead earbuds pack a very effective Active Noise Cancellation feature, which attempts to hide ambient sound and let you focus on what's coming through your buds. There's also a passthrough option where you can choose to hear more of your surroundings.
+
+The battery life on these buds is also astounding. Razer says users can get up to 32.5 hours of life between the buds themselves and the rechargeable case. That's double the original version of Hammerheads.
+
+Like most earbuds, the Hammerheads also have touch controls users can activate while wearing them. You can tap once on an earbud to pause a song, for example, or twice to skip ahead to the next song. Within the Audio app, users are able to remap the controls to have the taps perform whichever tasks you prefer.
+
+However, when comparing them with earbuds such as AirPods or Amazon's revamped Echo Buds, the Hammerheads are missing a couple of notable features. Unlike AirPods which automatically paused when they are removed from your ear, Hammerheads stopped playing only after I had them shut inside the case.
+
+Another key feature missing here: the ability to locate a missing earbud. Apple and Amazon had these baked in through an app, where you could play a sound if an earbud went missing. Razer does not. And this is more of a gripe, but there's no detailed way to track the battery life of the case while in the app. Your only clue is an indicator light that goes from green to yellow to red to show how much juice is left.
+
+But for $129.99 – roughly the same price as Apple's standard AirPods and way less than the $249.99 AirPods Pro – Razer's Hammerheads deliver really good sound and features for anyone seeking to get quality earbuds on a budget.
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@YouTube suspended Sen. Rand Paul's account for seven days Tuesday due to a video from the Kentucky Republican saying cloth masks are not effective in protecting against COVID-19.
+
+“We removed content from Senator Paul’s channel for including claims that masks are ineffective in preventing the contraction or transmission of COVID-19, in accordance with our COVID-19 medical misinformation policies," YouTube said in a statement. “We apply our policies consistently across the platform, regardless of speaker or political views.”
+
+During the seven-day suspension, Paul will be unable to post new videos to his YouTube account.
+
+The latest guidance from the Centers for Disease Control and Prevention says studies show wearing cloth masks helps prevent infection and reduce the spread of COVID-19.
+
+Ready for folding smartphones?:Samsung reveals Galaxy Z Fold3 5G and Flip3 5G phones
+
+Coming soon to a theater near you:AMC says customers will soon be able to buy movie tickets with bitcoin
+
+"Research supports that mask-wearing has no significant adverse health effects for wearers," the CDC's guidance also says.
+
+Paul responded to YouTube's actions Tuesday evening in a tweet by calling the move a "badge of honor...leftwing cretins at Youtube banning me for 7 days for a video that quotes 2 peer reviewed articles saying cloth masks don’t work."
+
+He included a link to an article that eventually allows readers to view the video on Rumble, a competitor to YouTube that has become popular with conservatives. Paul has said he will post videos moving forward to Rumble, as it allows "uncensored news."
+
+Under YouTube's "Community Guidelines," users who receive a second strike within the same 90-day period as the first strike are not allowed to post content for two weeks.
+
+Three strikes in the same 90-day period result in a channel getting permanently removed from YouTube, and the company notes deleting the content "will not remove a strike."
+
+Paul's office said in a Tuesday news release that YouTube's decision "is a huge disservice to the thousands of Kentuckians who visit his page for regular updates on the work he does for Kentucky in the Senate."
+
+"I think this kind of censorship is very dangerous, incredibly anti-free speech and truly anti-progress of science, which involves skepticism and argumentation to arrive at the truth,” Paul said in the news release. “As a libertarian leaning senator, I think private companies have the right to ban me if they want to, so in this case I’ll just channel that frustration into ensuring the public knows YouTube is acting as an arm of government and censoring their users for contradicting the government.”
+
+Paul has been an outspoken critic of masks and government-issued mandates that have been aimed at limiting the spread of COVID-19 during the pandemic, which has recently seen the delta variant fuel a surge in new cases and hospitalizations mainly among unvaccinated residents both in Kentucky and states around the country.
+
+Paul has also repeatedly clashed with the nation's infectious diseases chief and top White House medical adviser Dr. Anthony Fauci over COVID-19 theories and "gain-of-function" research.
+
+This is not the first time Kentucky's junior senator has run afoul of YouTube's rules.
+
+In February 2020, before the pandemic spread throughout the world, YouTube removed a video of the Kentucky Republican reading a controversial question that named an alleged whistleblower during President Donald Trump's first impeachment trial.
+
+The concern over the delta variant and other virus variants has led to businesses and state governments reinstituting universal mask mandates for the vaccinated and unvaccinated alike.
+
+This story has been updated.
+
+The Associated Press contributed to this report. Reach Billy Kobin at bkobin@courierjournal.com.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Samsung's newest foldable smartphones, scheduled to arrive Aug. 27, look sleek, sexy and promise increased durability and price-consciousness.
+
+The Galaxy Z Fold3 5G smartphone ($1,799.99), which has a brighter, more responsive AMOLED screen – measuring 7.6-inches when unfolded – can be pre-ordered now. So can the Galaxy Z Flip3 5G ($999.99) with a 6.7-inch AMOLED display (when opened) and a 1.9-inch OLED cover screen that's four times larger than the original Galaxy Z Flip device.
+
+But that's not all Samsung unveiled Wednesday during its Galaxy Unpacked event held online. Also introduced: two new smartwatches, the Galaxy Watch4 (starting at $249.99) and the Galaxy Watch4 Classic ($349.99-up), both available for pre-order, and new Galaxy Buds2 ($149.99), priced $50 below the Galaxy Buds Pro ear buds, released back in January alongside the Galaxy S21 smartphones.
+
+New from Samsung:Here's how to pre-order the new Samsung Galaxy Fold, Flip, Buds, and Watches
+
+Streaming surge continues:We especially like big screens, smart TVs and Roku
+
+Unfolding device dominance
+
+The electronics giant was the world’s fastest growing 5G smartphone vendor in Q1 2021, according to Strategy Analytics. But despite being innovative and stylish, foldable devices – a category in which the U.K.-based research firm forecasts Samsung to maintain a 70% market share this year – have yet to truly take off.
+
+"Samsung is pushing 5G foldables hard because it wants to differentiate from Apple iPhone in the premium smartphone segment, generate fresh revenue streams from a new hardware design, and fend off rising competition from Chinese brands like Xiaomi in the fast-growing 5G market," said Neil Mawston, executive director of Strategy Analytics' global wireless practice.
+
+While the prices of Samsung's latest phones may still seem, well, pricey, they are coming in at lower costs than previous models. And consumers do like the idea of foldable device, he said, "because they pack a big screen into a small design. Slip a 6-inch smartphone into your pocket on the train, unfold an 8-inch tablet on your desk or couch."
+
+Samsung's first foldable phone, the Galaxy Fold, cost about $2,000 when it hit the market in September 2019. That came after a six-month delay due to broken screens and other damage issues reported by product reviewers.
+
+The Galaxy Z Fold2 5G, released last September, carried an original price of $1,999 before Samsung reduced that by $550 in February 2021. Samsung also reduced the price of the Galaxy Z Flip 5G, originally $1,449 in August 2020, to $649.99 with trade-in on Samsung.com.
+
+"Foldables are an exciting category, but to date they have been somewhat exotic," said Avi Greengart, president and lead analyst for tech research firm Techsponential. "However, Samsung keeps iterating and improving them, and its third generation adds waterproofing, new features, and lower prices."
+
+Both devices are made with Armor Aluminum, the strongest ever used on its smartphones, Samsung says. Each is also protected by Gorilla Glass Victus with screens 80% more durable than the Z Fold2's. Both boast adaptive 120Hz refresh rates for smoother scrolling in apps, for instance. And both are water resistant, too.
+
+The Z Fold3's 6.2-inch AMOLED cover screen, used when closed, looks like a normal smartphone before unfolding to its tablet-sized form. It has a total of five cameras including an under display camera and a rear triple camera with 12 megapixel ultra-wide, wide-angle and telephoto lenses.
+
+Its enhanced Flex mode lets you multitask, for example, checking notes while monitoring a Zoom call on the top screen. "The Galaxy Z Fold3 can be a productivity powerhouse with a huge interior display that can be used as a slate for writing or drawing with a special, optional S-Pen," Greengart said.
+
+S Pen Fold Edition is designed to be used exclusively with Fold3 and is priced at $49.99. There is also an option for the S Pen Fold Edition with a case, which is $79.99. There is also the S Pen Pro which offers a more comfortable grip with a thicker body that can be used with Fold3 as well as other Samsung S Pen-enabled devices. It features Bluetooth connectivity and is priced at $99.99.
+
+Thinner and lighter than the Galaxy Z Fold2, the Fold3 is available in Phantom Black, Phantom Green, and Phantom Silver. S-Pens for the Z Fold3 start at $49.99.
+
+Even though they remain beyond the price range of most consumers, the new devices allow Samsung, "to target early adopters with deep pockets who will pay just about anything for the latest status symbol or gadget," Mawston said.
+
+Samsung Galaxy S21 Ultra 5G:Can the super smartphone replace your digital camera for vacation photos?
+
+It's back-to-school time:So how do we cut back all the video gaming?
+
+A smartphone you may flip for
+
+The new Z Flip3, when folded measures about 3.5 inches by 2.8 inches and 0.7 inches thick, making it easy to fit in smaller pockets than traditional smartphones. It has front and dual rear cameras, and you can take videos and photos – including hands-free selfies – while it's closed or flip it open and use the display as a viewfinder.
+
+You can also get messages and notifications with the Z Flip3 closed, on the cover screen. When you open the Z Flip3, you can watch videos in Flex mode with the video on the top half of the screen and controls on the bottom – and listen to its Dolby Atmos stereo speakers.
+
+"The Galaxy Z Flip3 is now priced in the same range as ordinary premium smartphones that only fold if you sit on them by accident," Greengart said.
+
+Those who pre-order the one of the foldable devices before Aug. 26, 2021 can get $200 Samsung Credit on a Galaxy Z Fold3 or $150 on a Galaxy Z Flip3. Pre-order on Samsung.com or the Shop Samsung App and opt-in to a 3-year Samsung Care+ plan and you can get a discount on the price of the total plan and have no monthly payment for the first 12 months.
+
+Also on Samsung.com, shoppers can trade-in up to four devices and earn up to $800 credit on the Galaxy Z Fold3 (up to $650 on the Galaxy Z Flip3) and on a three-year plan get monthly payments as low as $28 per month for Galaxy Z Fold3 ($13 per month for Galaxy Z Flip3).
+
+Samsung's smarter smartwatches
+
+Samsung worked with Google to create a new Wear OS platform to expand the galaxy of apps available for the new Galaxy Watch4 and Galaxy Watch4 Classic – including Google Maps, Samsung Pay, adidas Running, Calm, Strava, and Spotify.
+
+Each will also track heart rate and other health measurements including body composition (unfortunately, the devices do not produce blood pressure readings in the U.S.). Connect to a Samsung Smart TV and your calorie count and heart rate will appear on screen.
+
+"Samsung’s smartwatches have been the best option for Android phone buyers, but lacked wide third-party app support," Greengart said. "The hope is that by working with Google for the operating system, and then layering Samsung’s interface on top, Galaxy Watch4 will offer the best of both worlds. The new Watch4 options have useful health metrics and are well-priced."
+
+Samsung is currently the world’s No. 2 smartwatch seller (behind Apple) with 13% global marketshare in Q1 2021, according to Strategy Analytics.
+
+Both smartwatches are available in two sizes (the Watch4 in 40mm and 44mm, the Classic in 42mm and 46mm) and have Bluetooth and LTE versions. The Watch4 is available in various colors ($249.99-up for Bluetooth versions and $299.99-up for LTE models), the Classic in black and silver ($349.99-up for Bluetooth, $399.99-up for LTE).
+
+You can pre-order them through Aug. 26 and get $50 in credit; the smartwatches are available starting Aug. 27.
+
+New Galaxy Buds out now
+
+The newest addition to Samsung's ear buds lineup, the Galaxy Buds2 ($149.99) are available Aug. 27 and can be pre-ordered for $129.99 with an eligible trade-in.
+
+The new in-earbuds – available in white, olive, lavender or graphite – are the company's smallest and lightest buds yet, Samsung says.
+
+Samsung Galaxy Buds2:A taste of the audio good life at a good price
+
+In addition to active noise cancellation for blocking out sounds, three different ambient sound settings let varying levels of outside sounds in when you use Samsung's wearables app. Improved audio promises that your voice will sound clearer when making phone calls.
+
+Follow Mike Snider on Twitter: @MikeSnider.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@As the delta variant sweeps across the U.S., many people are taking to social media to mourn the loss of their "fall plans."
+
+The uptick in COVID-19 cases has pushed governments and businesses to begin requiring vaccines for workers, while mandates on mask wearing return after they had been lifted prior to the variant's spread.
+
+Meanwhile, on Friday, a Centers for Disease Control and Prevention panel recommended a booster vaccine shot for Americans who are immunocompromised.
+
+As it appears restrictions aimed at limiting the spread of COVID-19 return, many Americans who have spent months isolating themselves have turned to memes to help them cope with the cancellations of their plans this fall.
+
+According to the website Know Your Meme, which tracks popular internet memes, the first known use of the "fall plans" meme was posted by Twitter user @jush_for_fun, referencing participants in the show "Ru Paul's Drag Race."
+
+Need Zoom for school?:There's a new way to keep kids focused
+
+Infrastructure:How will the $65 billion broadband service plan impact you?
+
+Some of the memes have incorporated famous moments in sports, TV, movies and other pop culture, with "fall plans" representing a character and the "delta variant" being the person or object standing in their way. For example, one shows an image of Joe Pesci and Daniel Stern from "Home Alone" under the caption "Fall plans," while Macaulay Culkin's character appears under "delta variant."
+
+Since then, the meme has taken on countless forms. Here are some of the best ones:
+
+Follow Brett Molina on Twitter: @brettmolina23.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Samsung brought its first foldable smartphone, the Galaxy Fold, to market two years ago. Now, the electronics giant is looking to truly establish a paying audience of foldable device diehards.
+
+Its newest products, the Galaxy Z Fold3 5G smartphone ($1,799.99) and the Galaxy Z Flip3 5G ($999.99), available Aug. 27, still come at a pretty price. But discounts of up to $800 and $650, respectively, on the devices – and monthly payment plans – can bring the folding smartphones into reach for more consumers.
+
+The new products “will firmly establish Samsung’s dominance in this advanced category of devices," said Anisha Bhatia, senior analyst at GlobalData, in a statement commenting on Samsung's unveiling of the devices this week.
+
+“Both foldable phones are priced lower than their predecessors and are more durable," she said. "Phones with folding displays are an integral part of Samsung’s smartphone strategy, and Samsung is on its fourth iteration, gaining an increasing amount of consumer feedback, which is cycled back into improving its next generation of devices.”
+
+New from Samsung:Here's how to pre-order the new Samsung Galaxy Fold, Flip, Buds, and Watches
+
+The Galaxy Z Fold3 5G, which sports brighter, more responsive screens of 6.2 inches when closed and 7.6 inches when opened, targets folks focused on productivity and multitasking. You can have three apps operating at once and use an S Pen to take notes on one half of the Fold3 while attending a videoconference on the other.
+
+The Galaxy Z Flip3 5G, also with improved displays of 1.9 inches closed and 6.7 inches open, will be coveted by influencers and social media mavens. Photos and videos can be taken while the Flip3 is fully open, in flexed mode and its compact closed mode – with a double press of the power button, swipes of the screen and then a screen tap.
+
+"Samsung’s two new foldables bring higher specs at improved prices," said Neil Mawston, executive director of Strategy Analytics' global wireless practice. The devices "remain too expensive for most consumers, but it gives Samsung an opportunity to target early adopters with deep pockets who will pay just about anything for the latest status symbol or gadget," he said.
+
+Samsung also introduced the Galaxy Watch4 (starting at $249.99) and the Galaxy Watch4 Classic ($349.99-up), and new Galaxy Buds2 ($149.99) wireless in-ear headphones, all due out Aug. 27.
+
+While Samsung is No. 1 in foldable smartphones – Strategy Analytics expects the company to hold 70% global market share this year – it is No. 2 in the global smartwatch market behind Apple, which has 55% compared to 13% for Samsung in the second quarter of 2021, according to the research firm.
+
+What else happened in tech?
+
+• Twitter suspended the account of U.S. Rep. Marjorie Taylor Greene for the second time in two months after she tweeted the U.S. Food and Drug Administration should not approve vaccines for COVID-19 because they are "failing." The tweet has been labeled by Twitter as "misleading," and cannot be replied to, shared, or liked.
+
+• As many as 3.5 million Dish subscribers could lose some local channels if the satellite TV provider and Sinclair Broadcast Group do not reach a new agreement before the current one expires Aug. 16. Potentially lost: 108 Sinclair stations and Tennis Channel could be removed.
+
+•The $1 trillion bipartisan infrastructure plan passed Tuesday by the Senate – and expected to be considered by the House next month – includes $65 billion to improve broadband connectivity across the U.S. and make it more affordable.
+
+Game break
+
+Three marquee Grand Theft Auto franchise entrees could be getting the remastered treatment for several platforms including the Nintendo Switch and the newest PlayStation and Xbox consoles, Kotaku reported. The three games "Grand Theft Auto III," "Grand Theft Auto: Vice City," and "Grand Theft Auto: San Andreas," could be available in October or November, the site reported, citing persons who said the games were in the final stages of development.
+
+This week on Talking Tech
+
+On the Talking Tech podcast, the topics included managing kids' screen time as school gets back in session, streaming video's continued success and TikTok's updates to protect teens' privacy.
+
+Follow Mike Snider on Twitter: @MikeSnider.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Associated Press
+
+The co-founder and CEO of the fact-checking site Snopes.com has acknowledged plagiarizing from dozens of articles done by mainstream news outlets over several years, calling the appropriations "serious lapses in judgment."
+
+From 2015 to 2019 – and possibly even earlier – David Mikkelson included material lifted from the Los Angeles Times, The Guardian and others to scoop up web traffic, according to BuzzFeed News, which broke the story Friday.
+
+Mikkelson used his own name, a generic Snopes byline and a pseudonym when he lifted material, including single sentences and whole paragraphs on such subjects as same-sex marriage and the death of David Bowie, without citing the sources, BuzzFeed and Snopes said.
+
+►Privacy:TikTok adds privacy updates for teens, including limits on notifications
+
+►Tech assistance:How your smartphone can guide you through changes in COVID-19 guidance
+
+He has been suspended from editorial production pending the conclusion of an internal review but remains CEO and a 50% shareholder in the company, according to a statement from Snopes' senior leadership.
+
+"Let us be clear: Plagiarism undermines our mission and values, full stop. It has no place in any context within this organization," the statement said.
+
+In a separate statement, eight current Snopes writers also condemned Mikkelson's actions, while former staffers indicated to BuzzFeed that he routinely encouraged the practice as a way to make Snopes appear faster than it was.
+
+Mikkelson did not immediately return an Associated Press email seeking comment Saturday. He told BuzzFeed his behavior was due to a lack of formal journalism experience.
+
+"I didn't come from a journalism background," he said. "I wasn't used to doing news aggregation. A number of times I crossed the line to where it was copyright infringement. I own that."
+
+Created in 1994 under a different name by Mikkelson and his then-wife, Barbara Hamel, Snopes has earned two Webby Awards and served as one of Facebook's fact-checking partners between December 2016 and February 2019, BuzzFeed News said. In recent years, the site has been the focus of a contentious ownership battle between Mikkelson and the company that bought Hamel's shares.
+
+BuzzFeed News flagged stories from a range of outlets that also include The New York Times, CNN, NBC News and the BBC. Six were originally published under the Mikkelson pseudonym Jeff Zarronandia, three under Mikkelson's name and the rest as "Snopes staff." Snopes said it has identified 140 stories with possible problems, including the 54 found to include appropriated material.
+
+Snopes also cited AP material that wasn't properly attributed. It did not specify which stories.
+
+Senior management said in the statement that Snopes was removing unattributed content while leaving up individual pages. An editor's note will be used to outline the issues and link to original sources.
+
+"We are in the process of archiving and retracting all of the offending stories, along with disabling any monetization features on those posts," the statement said. "We will attempt to contact each news outlet whose reporting we appropriated to issue an apology."
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@This content is only available to USA TODAY subscribers.
+
+Subscribe for as low as $4.99 per month.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Original reporting that provides diverse perspectives on news and issues of today.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+Our most popular newsletter, Daily Briefing, to keep you updated on the day's top stories.
+
+We know you have many choices and appreciate you investing in us and the future of journalism.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

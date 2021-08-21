@@ -1,0 +1,471 @@
+Tracking severe weather
+
+Loading interactive map ... X Category
+
+Category Projected path
+
+Projected path Traveled path Loading data ...
+
+Track the latest weather stories and share your comments with the CNN Weather team on Facebook and Twitter.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(CNN) Right now, there's a shortage of truck drivers in the US and worldwide , exacerbated by the e-commerce boom brought on by the pandemic.
+
+One solution to the problem is autonomous trucks, and several companies are in a race to be the first to launch one. Among them is San Diego-based TuSimple.
+
+Founded in 2015, TuSimple has completed about 2 million miles of road tests with its 70 prototype trucks across the US, China and Europe. Although these are simply commercially available trucks retrofitted with its technology, TuSimple has deals in place with two of the world's largest truck manufacturers -- Navistar in the US and Traton, Volkswagen's trucking business, in Europe -- to design and build fully autonomous models, which it hopes to launch by 2024.
+
+In the case of electric bikes, the future is now: one retailer reported the sale of e-bikes and e-scooters had increased 230% this year. E-bikes give the user a boost to their pedaling, allowing them to go further with less effort. E-bikes are now even available on ride-share apps, like Uber.
+
+Dubai is developing a sci-fi style transport network of electric sky pods it hopes will provide a clean, speedy transport alternative for commuters. The pods, described by its developers as " a cross between a monorail and a ski lift ," are expected for launch in 2030.
+
+While sleeper trains or buses might be the way most of us get some shut-eye on overnight travel, a self-driving hotel suite from Toronto-based designer Steve Lee of Aprilli Design Studio might offer a plush alternative in the future.
+
+The Coradia iLint by French rail transport company Alstom is the world's first hydrogen-powered passenger train. It began testing in Germany in 2018, and in September this year entered regular service in Austria.
+
+High-speed "Maglev" trains also use a magnetic levitation system. In 2019, China unveiled a sleek new Maglev prototype it claims will be able to travel at speeds of 600 kilometers (372 miles) per hour, which will start production in 2021. It plans to add 1,000 kilometers of track to its three existing Maglev systems, starting in Hubei province
+
+Reaching speeds of up to 1,000 kilometers (620 miles) per hour, Hyperloop could be a sustainable replacement to short-haul flights. Dutch company Hardt started work on the first Hyperloop test facility in Europe last year, anticipated to open in 2022.
+
+Reaching speeds of up to 1,000 kilometers (620 miles) per hour, Hyperloop could be a sustainable replacement to short-haul flights. Dutch company Hardt started work on the first Hyperloop test facility in Europe last year, anticipated to open in 2022.
+
+Hyperloop is like a bullet train, without tracks and rails. Floating pods are propelled through a low-pressure steel tube using magnetic levitation. Virgin is currently running Hyperloop tests in Nevada.
+
+Hyperloop is like a bullet train, without tracks and rails. Floating pods are propelled through a low-pressure steel tube using magnetic levitation. Virgin is currently running Hyperloop tests in Nevada.
+
+In December 2019, Canadian airline Harbour Air flew the world's first all-electric, zero-emission commercial aircraft. The six-seater seaplane was retrofitted with magniX's magni500 all-electric motor. Harbour Air -- which carries half a million passengers annually -- hopes to become the world's first all-electric airline.
+
+Low carbon travel isn't just about switching to sustainable fuel sources -- it's also about redesigning the transport itself. A " Flying-V " plane designed by Delft's University of Technology in the Netherlands and Dutch airline KLM can cut fuel consumption by 20%. Ultimately, researchers hope to switch out the kerosene with a sustainable fuel source, like liquid hydrogen.
+
+Hydrogen aviation could provide a sustainable solution for short and medium-haul flights. In September, Airbus unveiled plans for three hydrogen-powered, zero-emission aircraft which can carry 100 to 200 passengers. It hopes to launch the first ZEROe aircraft in 2035.
+
+Hydrogen aviation could provide a sustainable solution for short and medium-haul flights. In September, Airbus unveiled plans for three hydrogen-powered, zero-emission aircraft which can carry 100 to 200 passengers. It hopes to launch the first ZEROe aircraft in 2035.
+
+It's not just maritime ships that are going green. Cities around the world are adopting electric ferries. Norwegian startup Zeabuz hopes its self-driving electric ferry will help revive urban waterways.
+
+As the climate crisis intensifies, low or zero-emission transport is becoming vital for a sustainable future. Oceanbird is a wind-powered transatlantic car carrier that cuts carbon emissions by 90%, compared to a standard car carrier. Click through to see the forms of transport set to transform the future.
+
+As the climate crisis intensifies, low or zero-emission transport is becoming vital for a sustainable future. Oceanbird is a wind-powered transatlantic car carrier that cuts carbon emissions by 90%, compared to a standard car carrier. Click through to see the forms of transport set to transform the future.
+
+No sleep
+
+TuSimple's latest road test involved hauling fresh produce 951 miles, from Nogales, Arizona to Oklahoma City. The pickup and the dropoff were handled by a human driver, but for the bulk of the route -- from Tucson to Dallas -- the truck drove itself.
+
+"Today, because the system is not fully ready, we have a safety driver and a safety engineer on board at all times when we're testing, but we drove in full autonomy: the driver wasn't touching the wheel," said Cheng Lu, TuSimple's president and CEO.
+
+The journey was completed in 14 hours versus the usual 24 with a human driver, mostly because a truck doesn't need to sleep. "In the US, a driver can only work 11 hours a day. We simply had a handoff when our first pair of drivers had to stop because they reached their 11 hours of operation," said Lu. That, of course, negates the advantage of an autonomous system, so the idea is that once TuSimple's trucks hit the market, there will be no need to have anyone onboard.
+
+Picking up the watermelons still required the human touch.
+
+Unlike self-driving cars, which are a still a way from being commercially available , TuSimple trucks won't be required to operate in bustling city traffic, but only on stretches of highway that have been thoroughly mapped via the company's own software.
+
+"We collect data from the roads, and we create this very detailed, high definition map of each route. That adds another layer of safety for the vehicles," said Lu. As a result, TuSimple's trucks will only be able to self-drive along these pre-mapped trade corridors, which Lu calls "virtual railroads," and nowhere else.
+
+According to the company, in the US 80% of goods travel through just 10% of the nation's trade corridors, so even selective mapping allows for capturing a large portion of the business. TuSimple is currently mapping routes between Arizona and Texas, and plans to have mapped routes across the nation by 2024.
+
+Its plans are dependent on state legislation, however, because currently some states do not allow for testing of autonomous trucks on public roads.
+
+Happier drivers?
+
+The technology will add about $50,000 to the cost of a truck, making the final price roughly $200,000. According to Lu, that's still cheaper than paying for a human driver.
+
+"If you take $50,000 and divide it by 1 million miles, the average lifespan of a truck, that means you're adding five cents per mile. But you're saving the cost of a human driver, which based on average US wages is about $80,000 to $120,000 per year -- or 80 cents to $1.20 per mile. Today, the direct labor cost is about 50% of the cost of operating a truck," he said.
+
+That doesn't mean driverless trucks will take away jobs, according to Lu. By focusing on the "middle mile," rather than on the pickup and delivery of the goods, TuSimple believes it can create new freight capacity without creating new demand for drivers, while at the same time protecting existing jobs. "A UPS driver is dropping off 200 packages a day -- that's not what autonomy is meant for. We believe that every driver will be able to retire as a driver, even if they enter the workforce today," said Lu.
+
+TuSimple's autonomous fleet.
+
+Instead, TuSimple aims to take over the routes between terminals and distribution centers, which involve long stretches of monotonous driving.
+
+"Take Phoenix to El Paso: that's a six-hour drive. A person cannot make the round trip, because it's more than 11 hours. But the truck can go back and forth all day, the most mundane job that drivers don't want to do. That means you free up that human driver to do the first and the last mile (pickup and delivery).They get to work a full day, which is a more efficient use of their time, and they get to go home at night to their family," said Lu.
+
+No distractions
+
+Although Lu says that the reliability of both the software and the hardware still needs to be increased, TuSimple is planning its first fully autonomous tests, without a human safety driver in the cabin at all, before the end of the year. The results of such tests will indicate whether the company can meet its goal to launch its own trucks by 2024. Lu says that 7,000 have been reserved in the US alone.
+
+TuSimple has prominent competitors, such as Google spinoff Waymo and Uber-backed Aurora, but those are working on a wider range of self-driving vehicles, including passenger cars. TuSimple is working exclusively on driverless trucks, like US companies Plus and Embark.
+
+Grayson Brulte, an autonomy expert at consulting firm Brulte & Co., believes TuSimple is on the right track. "The biggest competitive advantage that TuSimple has over its competitors is that their technology was purpose-built for trucking. They're not trying to port an autonomy system built for passenger vehicles in dense urban environments to trucking or to build a virtual driver which can both drive passenger vehicles and class-8 trucks. These are different skills and different systems altogether," he said.
+
+Removing the human element on long trucking routes has other benefits. The company says its trucks react 15 times faster than human drivers, and can see farther down the road, even at night.
+
+"In the US every year there are about 5,000 fatalities involving trucks, and most are due to human error," said Lu. "The truck doesn't get tired, doesn't watch a movie or look at a phone. It doesn't get distracted."
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(CNN) Working in a factory or warehouse can mean doing the same task over and over, and that repetition can lead to chronic injury. Now, a battery-powered glove could help workers by taking some of the strain.
+
+The "Ironhand" glove strengthens the wearer's grip, meaning they don't have to use as much force to perform repetitive manual tasks. Its developer, Bioservo, says it can increase the wearer's hand strength by 20%.
+
+The Swedish company describes the system as a "soft exoskeleton." Exoskeletons are an external device that supports and protects the body, typically increasing strength and endurance. Most have a rigid structure, but the Ironhand is soft, like a regular glove.
+
+Reducing fatigue
+
+"When you have the glove on, it provides strength and reduces the effort needed when lifting objects," says Mikael Wester, Bioservo's marketing director. "It's all in order to reduce fatigue and prevent strain injuries in the long run."
+
+The Ironhand system was developed with General Motors as a partner.
+
+Read More
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(CNN) In a Hong Kong warehouse, a swarm of autonomous robots works 24/7. They're not just working hard, they're working smart; as they operate, they get better at their job.
+
+The Autonomous Mobile Robots were developed by Chinese startup Geek+. As they move around the warehouse they're guided by QR codes on the floor, and using AI they are able to make their own decisions, including what direction to travel and what route to take to their destination.
+
+
+
+
+
+A team tracks these movements and uses the data to improve their algorithms, making the robots more efficient.
+
+Robots have become commonplace in warehouses worldwide and Geek+ says it has more than 15,000 robots in over 30 countries, including in Nike and Decathlon warehouses. Managing director Lit Fung says having robots that become more efficient over time helps companies meet demands for fast delivery, as well as reducing labor costs and human error.
+
+Read More
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Dubai (CNN) — What strikes home as the shuttle boat approaches the $5 billion megaresort being constructed off the coast of Dubai is its sheer audacity.
+
+Nearly two decades in the making, the Heart of Europe forms just one section of The World -- a vast collection of man-made islands roughly in the shape of an atlas -- but when completed it will be the opulent centerpiece.
+
+In the middle of a pandemic, it could yet prove to be a work of genius in its efforts to recreate the continent of Europe for upscale vacationers unwilling to make the trek.
+
+Amid a global travel downturn caused by Covid, it also represents a major leap of faith in Dubai's long-term allure.
+
+After a four-kilometer boat ride from the mainland, the World's 300 artificial islands rise up out of the Arabian Gulf like inverted golf bunkers.
+
+Most of these have stood empty since the project began in 2003, with subsequent global financial downturns doing little to encourage developers.
+
+And then the Heart of Europe (HoE) comes into view.
+
+No fewer than 15 luxury hotels, vacation homes and billionaire mansions now stand or are beginning to appear on these aquatic plots. Most are still unfinished, awaiting the final touches needed to meet the first completion deadlines at the end of 2020.
+
+Six themed islands form the Heart of Europe, with travelers able to choose between locations designed to replicate Sweden, Germany, Switzerland, Venice, the Cote d'Azure and others.
+
+The concept is that, once they've arrived, guests should be able to convince themselves they've been transported from often sweltering Arabian heat to less arid climes.
+
+Snowballs in the heat
+
+On Sweden island, "palaces" are built beneath roofs that resemble upturned Viking boats. HEART OF EUROPE
+
+On Sweden island, the surreality of this concept can literally hit you like a snowball in the face.
+
+Within the island's vast $21.8 million show mansion -- one of 10 "palaces" beneath rooftops resembling upturned Viking ships -- is a basement housing kitchens, a gym, spa and sauna ... and a snow room.
+
+White flakes are delivered on demand against an alpine backdrop from machinery powered by the same Arabian sunshine warming the infinity pool upstairs.
+
+The mansion's epic scale and unbridled yet tasteful opulence is stunning.
+
+Surrounded by un-Scandinavian lush jungle, the boutique hotel-sized six-level homes come with an elevator as well as a private beach.
+
+Exclusive furnishings by high-end car maker Bentley include plush seating for lavish dinner parties at a table the length of a limo, a circular bed with ocean views and a huge marble tub.
+
+The Sweden Beach Palace has a snow room. Francois Nel/Getty Images
+
+Further up, a domed party lounge larger than many bars can accommodate 300 guests -- ideal for those post-pandemic celebrations.
+
+They'll be able to toast their neighbors over in Germany -- an impossible gesture in real life geography, yet feasible in the Heart of Europe atlas.
+
+The design of Germany island's 32 futuristic beach or lagoon-facing dwellings are inspired by Bauhaus, but more closely resemble a lunar colony. Only one of these remained unsold at the time of writing, with a $7.89 million price tag.
+
+World firsts
+
+The Portofino resort has colorful, Italian-style, facades. Courtesy David Dunn
+
+The Portofino resort on Main Europe island, like the celebrity coastal enclave it's named for, has a colorful Italianate facade.
+
+Arrivals here will be checked in by Italian-speaking employees, working to clocks set to the Italian timezone. They'll be able to spend euros here -- surreal again for a resort just minutes by boat, helicopter or seaplane from mainland Dubai.
+
+"Coming here you should forget you are in Dubai and feel you have reached Europe," says Josef Kleindienst, the Austrian chairman of Kleindienst, the real estate group developing the islands.
+
+"You should have the impression you've come to Italy and then you walk and come to Spain and France and to London."
+
+Portofino's colorful demeanor extends to the boutique hotels in the Côte d'Azur area of Main Europe island. These are named after French Riviera playgrounds Monaco, Nice, Cannes and St. Tropez and will be staffed by French speakers.
+
+On Germany island, villas are inspired by Bauhaus designs. Courtesy David Dunn
+
+Here developers promise more world firsts, including the largest sustainable swimming pool, fed by solar-power desalinated sea water and nature-friendly filtration.
+
+Main Europe is also the location of Rainy Street, a thoroughfare climate-controlled to 27 C (80 F) to mimic a European summer climate where showers fall on demand and a snow plaza issues icy flurries.
+
+In a country that rarely experiences natural precipitation, these quirky concepts will likely be relished by UAE guests.
+
+Floating police station
+
+One resort, Cote d'Azur, is intended to evoke the French Riviera. HEART OF EUROPE
+
+The Heart of Europe has already proven popular with citizens in the region. Kleindienst says most of its recent real estate investors hail from the UAE.
+
+The project's first phase is slated for completion by close of 2020, with all three phases due to finish by 2023.
+
+By then it will include The Floating Lido -- a Venetian-inspired resort comprising a hotel, the world's first underwater spa and gym and a floating beach.
+
+The completed project will include Switzerland, with 77 mountain chalet-inspired villas.
+
+There will also be a floating police station and a circus featuring hologram animals.
+
+Other hotels will be named for locations such as Spain's Marbella and Ibiza, Germany's Munich, Greece's Ikaria and London.
+
+The heart shaped "Honeymoon Island" is for newlyweds. HEART OF EUROPE
+
+And there will be a dedicated wedding hotel -- St. Empress Elizabeth -- and heart-shaped Honeymoon Island, where newlyweds can relax on sunrise and sunset-designated beaches.
+
+While the idea of artificial islands laden with resorts in a destination already boasting hundreds of hotels may seem like an exercise in excess, Kleindienst highlights efforts to improve or preserve the environment.
+
+At the Coral Institute, located in the Portofino resort, several aquariums and tanks display a breeding program that centers on 50 local species, including carpet sharks.
+
+The sharks, not considered dangerous to humans, will ultimately reside around the islands as part of the developer's "seahabilitation" program to "expand the marine ecosystem and help rebalance the underwater environment."
+
+Meanwhile, native and migratory birds are already discovering extensive greenery introduced to the landscape.
+
+Hanging gardens on hotel facades and painstakingly relocated Spanish olive trees aged 100-1,500 years appear to be prospering.
+
+Related content Zaha Hadid-designed hotel opens in Dubai
+
+'Prosperous environment'
+
+The plan is to create 147 "Floating Seahorse" villas. HEART OF EUROPE
+
+The Coral Institute is nurturing 20 local varieties of living coral, eventually destined to enrich at least 500,000 square meters of reef with 100,000 corals a year.
+
+These will be particularly visible to occupants of the futuristic Floating Seahorse villas, individual dwellings that will have rooms above and below the waterline -- some of which are currently on sale.
+
+"This is their village," says Kleindienst's marketing director, Delphine Cazals, as nimble shoals of fish probe existing coral beyond the subaquatic window of one of what are being touted as the world's first three-level floating villas.
+
+Ultimately there will be 147 Floating Seahorse villas anchored in three "colonies" around HoE.
+
+Below-deck views in one of the Floating Seahorse villas. HEART OF EUROPE
+
+At sea level, a swish lounge and dining area, also furnished by Bentley, opens onto a sundeck, while an open-air top floor yields further entertaining space complete with a mini kitchen, seating and hot tub.
+
+As with the rest of the megaproject, Seahorse villa design and construction follows guidance from world-renowned Feng Shui Master Victor Li Dexiong -- promoting "a prosperous and happy environment," intended to appeal to Chinese buyers.
+
+But across the Heart of Europe project, unusual construction circumstances have brought challenges.
+
+For Kleindienst these have included the need to strengthen the surface of islands to ensure surface durability, and sourcing suitable construction technology to comply with strict zero discharge environmental policies written into The World vision from inception.
+
+Related content Dubai plans floating replica of Venice
+
+Tourism mix
+
+Construction on the Heart of Europe, seen here in July 2020, was barely affected by the pandemic. Francois Nel/Getty Images
+
+Those close to HoE stress the completed resort will not be a cultural theme park, but an upscale second home and vacation destination.
+
+Besides property investors, it will target international tourists seeking alternative hospitality experiences and UAE residents expanding their staycation horizons.
+
+With the pandemic set to impact economies and international tourism for months to come, Kleindienst says he thinks fewer overseas tourists will be balanced by the local market, eventually resulting in a 50/50 mix.
+
+He says the Heart of Europe was targeted toward domestic traffic since the beginning, with its "getting away without getting on a plane" scenario.
+
+What remains to be seen is whether the completion of this megaproject will galvanize owners of remaining The World islands which, 12 years after emerging from the sea, are still to be developed.
+
+Kleindienst believes they are watching his progress.
+
+"For sure... other island owners want to see if you are earning money, if you earn money, they will also move," he says.
+
+Being separated from the mainland, HoE was also able to remain Covid-free when 1,200 island-based construction workers and other staff, including the chairman, went into a voluntary two-month isolation during the first wave.
+
+As a consequence, while much of civilization came to a standstill, construction boomed as crews opted to work longer to earn extra cash while staying put.
+
+"They were happy, we were happy," says Kleindienst, who confirms HoE was initially touted for completion in time for Dubai's Expo 2020 -- now postponed until October 2021.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Written by Poppy Koronka, CNN
+
+Dubai is a city where firefighters use jetpacks, archipelagos are built from scratch , and buildings climb into the clouds ; a slick metropolis in the middle of a vast red desert. First-time visitors would be forgiven for thinking they had stumbled onto a film set for a sci-fi movie.
+
+Now Dubai is set for what must be its most other-worldly architectural project yet.
+
+In 2017, the United Arab Emirates announced its ambition to colonize Mars within the next 100 years. But architects are already imagining what a Martian city might look like -- and planning to recreate it in the desert outside Dubai.
+
+Mars Science City was originally earmarked to cover 176,000 square meters of desert -- the size of more than 30 football fields -- and cost approximately $135 million.
+
+Intended as a space for Dubai's Mohammed Bin Rashid Space Centre (MBRSC) to develop the technology needed to colonize Mars, architects Bjarke Ingels Group were asked to design a prototype of a city suitable for sustaining life on Mars -- and then adapt it for use in the Emirati desert.
+
+How to build a Martian city
+
+For this unique commission, the architects first had to overcome the immense challenges of creating a design to make the inhospitable environment of Mars habitable.
+
+Mars has a thin atmosphere and no global magnetic field, so there's little protection from harmful radiation. Temperature is another problem -- the average on Mars is a chilly -63 degrees C (-81 degrees F). The thin atmosphere also means there's little air pressure, so liquids quickly evaporate into gas; despite freezing temperatures, an unprotected human's blood would boil on Mars.
+
+But according to Jonathan Eastwood, director of the Space Lab at Imperial College London, who's not connected with the Dubai project, the challenges of living on Mars extend far beyond technicalities.
+
+"I think the biggest challenge in terms of a sustained presence on Mars is not the engineering [or scientific] challenge, but the human [and] personal one," Eastwood explained.
+
+"So not just to answer the question about how do you survive, but how do you thrive?"
+
+Martian vernacular architecture
+
+Hoping his design will allow for the latter, Jakob Lange, partner at Bjarke Ingels Group, explained to CNN how he and his team plan to overcome the challenges posed by the Red Planet.
+
+To maintain a comfortable temperature and habitable air pressure, the Martian city would be made up of pressurized biodomes each covered with a transparent polyethylene membrane. Oxygen, made by applying electricity to underground ice, would fill each biodome.
+
+Inside a biodome. Credit: Bjarke Ingels Group
+
+As the population on Mars grows, biodomes would be joined together to form villages and eventually form cities in the shape of rings, or "toruses."
+
+The city would be powered and heated using solar energy, and the thin atmosphere could actually help the domes maintain their temperature.
+
+"Since there is very little atmosphere on Mars, the heat transfer will be very low, meaning that the air inside the domes will not cool down as fast as it would on Earth," said Lange.
+
+Buildings would be 3D printed under the domes, using Martian soil, and rooms would extend 20 feet underground, protecting from harmful radiation and meteors.
+
+The unearthly design even becomes a little playful in places. "In the future on Mars, you would have skylights in your underground cave that would be like aquariums, with fish swimming around," said Lange. The water-windows would shield the residents from radiation while allowing light to enter the underground rooms.
+
+No longer bound by Earth's physics, Martian architecture can take on a whole new form.
+
+"There is approximately one-third gravity which means that you can suddenly make columns that are [slimmer] and [have] longer spans of structures," Lange said. "It creates almost like a completely new rule set that you have to follow when designing architecture in space."
+
+According to Eastwood, the design meets the challenges posed by Mars. "I think [these design elements] definitely [are] part of the key infrastructure for a long-term presence," he said. "The idea of gradually shielding [from radiation] is sensible [...] The idea of water windows is quite elegant."
+
+MBRSC says the Science City is still in the concept stage, and that it hasn't yet settled on a design or architect for the final build, but BIG has already worked out how it would adapt its proposal for the Dubai desert, if selected.
+
+On Earth, domes wouldn't need to be pressurized or filled with oxygen, and buildings would be 3D-printed from desert sand rather than Martian soil. But the water skylights would still be present, and it would also be powered by solar energy.
+
+In BIG's design, as well as research labs, Mars Science City will contain an educational facility, museum, an amphitheater, and co-working office space.
+
+As yet, there's no timeline for when construction will begin, or when it will open, but MBRSC says it is currently conducting a detailed study of the specifications, which it will use to develop a revised budget and size for the site.
+
+Dreaming of Mars
+
+Mars Science City is only one part of the ambitious space program run by Dubai's Mohammed Bin Rashid Space Centre. Last year it sent its first astronaut into space ; this summer it will launch a probe to Mars , and in November it will undertake its first-ever analog mission.
+
+The eight-month venture will take place in Russia and one Emirati crewmember will be chosen as part of an international team of six. The mission will test the effects of isolation and confinement on mental and physical health.
+
+Other places on Earth used to mimic conditions for space missions include Antarctica's Concordia Station, used to simulate isolation, California's Mojave Desert, which NASA has used to test Mars rovers, and the Moroccan Sahara, used by the European Space Agency as a Mars analog.
+
+The MBRSC hopes that, in future, such research could take place in Mars Science City.
+
+"This is going to be our platform where we can develop the science [and] the technology that will help us in our future missions to Mars," said Adnan AlRais, Mars 2117 Program Manager at MBRSC. "We want to come up with a totally new facility that will help the international community."
+
+To reach its goal of colonization in less than a century, the MBRSC acknowledges enthusiasm for space travel will have to pass down multiple generations. It hopes Mars Science City will inspire the next generation to dream of life on the Red Planet enough to make it a reality.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Written by Rebecca Cairns, CNN
+
+With a history spanning millennia across the Middle East, North Africa, and South Asia, henna is steeped in tradition and cultural rituals. The natural dye is typically used to create temporary, intricate body art for religious festivals and celebrations, such as weddings.
+
+Now, Dubai-based designer Azra Khamissa is on a mission to give the ancient practice a modern makeover.
+
+A pioneer of striking minimalist designs, Khamissa has built a following of more than 100,000 on Instagram , and her creative ideas have led to brand collaborations with fashion houses including Gucci and Fendi.
+
+Her aim is to create henna designs that align with fashion trends, along with henna products that can be sold through major cosmetics retailers. Khamissa would like to see henna worn all the time -- not just on special occasions.
+
+Khamissa's minimalist designs include line drawings of faces, flowers and landscapes. Credit: Abdulla El Maz
+
+An ancient art
+
+Henna is made from plant leaves. Its origins as a cosmetic product are unknown, but it has "been used for thousands of years for cosmetic purposes" including coloring hair and nails, and decorating hands and feet, says Ade Solihat, a lecturer and researcher of Arab Studies at Universitas Indonesia.
+
+During Khamissa's childhood, henna was often used for family celebrations like Eid, she says. But as she got older and developed her sense of style, she would "dread" occasions where she had to adorn herself with flowery designs.
+
+Khamissa's attitude to henna started to change at a friend's wedding in 2017. Preparing for the ceremony, she experimented by decorating the center of her palm with a disc (a design called rubeya, in Arabic) and coloring her fingertips (rawayeb, in Arabic). Usually "only grandmothers" would wear this design, says Khamissa, but its simple, bold minimalism appealed to her.
+
+A week later, Khamissa attended a photoshoot for her eponymous handbag brand, where the photographer captured her henna-covered hands. When Khamissa saw the images, she began to see henna in "a different light." Subseqently, she launched her career as a henna artist.
+
+Dubai-based Azra Khamissa wants to make henna an element of everyday fashion. Credit: Aqib Anwar
+
+"I just kept exploring different traditional designs, and then started adding my own touch to them," she says.
+
+Khamissa tests new designs on her own hands first. When she runs out of space, her sister and grandmother volunteer their hands. Her grandmother isn't always a fan of her modern interpretations -- but when she responds positively, Khamissa knows she's onto a winner: "Whatever she likes, I know is a great success, because that's the real traditional eye meeting up with something new and different."
+
+Minimalist and modern
+
+In her work, Khamissa reinterprets traditional ornate floral patterns as pared-back line drawings of single flowers, and replaces complex mandalas with simple geometric shapes. Some designs pay homage to traditional North African and Arabic motifs, while others -- topographical outlines, abstract desert landscapes, and politically inspired flags and words -- are her own unique creations.
+
+Khamissa says the temporary nature of henna -- which lasts around two weeks -- allows for more "crazy" and experimental patterns, like all-over leopard print. For those who don't want to ink themselves permanently, henna offers more flexibility and "makes tattoo culture a bit more inclusive," Khamissa says.
+
+Some of Khamissa's designs are inspired by nature, including Dubai's desert landscapes. Credit: Azra Khamissa
+
+She isn't alone in taking a modern approach to henna. Fellow UAE-based henna artist Amreen Wahid draws delicate floral designs with a contemporary feel, and beauty bloggers have used henna to create freckles and beauty spots.
+
+Solihat, the Arab Studies specialist, says henna is no longer tied to "symbolic and sacred meanings." Modern approaches help it to "cross borders, ethnicities, and identities," she says, adding that it is now popular among demographics without a henna heritage, "especially among the urban young generation."
+
+Beauty store henna
+
+It's not just Khamissa's designs that are modern -- she wants to update the way henna is sold, too.
+
+Typically, fresh henna paste, or the raw ingredients to make it, are available only at specialist stores.
+
+"There's a huge gap in the market," says Khamissa. "You can't find henna in a Sephora or Boots, major pharmacies or beauty stores. I want to make it more accessible."
+
+Khamissa hopes her designs will inspire people to embrace henna and wear it in a more casual, contemporary way. Credit: Azra Khamissa
+
+But there's a major barrier -- henna paste has a shelf-life of just a few days. Most off-the-shelf henna pastes contain preservatives and some contain PPD (paraphenylenediamine), a synthetic dye that can cause serious allergic reactions
+
+A solution to the shelf-life problem would be mini-freezers, which could keep henna paste fresh for up to six months, says Khamissa. She is considering designing her own freezers to allow her to scale up and sell henna in cosmetics stores.
+
+In the meantime, Khamissa started selling a non-toxic henna kit in May 2020. Other henna specialists, such as Dubai Henna , have established online platforms, reflecting growing demand.
+
+Khamissa hopes that by making high-quality henna more accessible, more women will be inspired to get creative with body art in their everyday styling. "Henna should be like getting your nails done, your hair done, your makeup done for a look. Adding henna just tops it off beautifully."
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Written by Rebecca Cairns, CNN
+
+Supermodel Naomi Campbell has been turning heads since she first started modeling in the 1980s. But for Nigerian fashion designer Chukwuma Ian Audifferen, her appearance at the Arise Fashion Week "30 Under 30" showcase got his attention for another reason.
+
+"Naomi Campbell closed the runway show in my piece and it was sublime," said Audifferen of the December event, which celebrates young African designers.
+
+The 30-year-old said he was "startled" when he saw the supermodel strutting down the runway in Lagos, Nigeria in the geometric-patterned poncho. "I had no idea that she was going to wear my piece. She just looked like perfection."
+
+In a hyper-competitive industry, the "surreal" moment is cemented in Audifferen's mind as one of his career highlights.
+
+"It was one of those moments that made fashion so worthwhile for me," he said.
+
+Supermodel Naomi Campbell wearing a Tzar Studios poncho, which designer Ian Audifferen has now named after her. Credit: Adedamola Odetara
+
+From backstage to onstage
+
+Audifferen didn't always want to be a designer. After high school, he studied microbiology at the University of Lagos -- a career he said his father was keen for him to pursue.
+
+But Audifferen's interests didn't lie in lab work, and during his studies, he interned for Lagos Fashion Week and Arise Fashion Week, a competition for young designers hosted by Nigerian media group Arise. It gave him a taste of the fashion world -- and he was eager for more.
+
+After graduation, Audifferen began making shirts. "(People) bought these items off my back," he said. "I'd wear a shirt that I had made to an event or somewhere, and they would just want it."
+
+"The Tzar Studios ethos is pretty much comfort and functionality. I believe that when you're comfortable in your clothing, it's a confidence booster." Ian Audifferen, designer
+
+That's when he decided to put together a small collection, and in 2014 he founded Tzar Studios. The initial designs were "resplendent and flamboyant" he said, with a variety of bold and clashing prints and colors. Initially focused on menswear and androgynous unisex pieces, in 2018 Audifferen also began working on womenswear.
+
+Now, his designs are more minimalist: "The Tzar Studios ethos is pretty much comfort and functionality," he said. "I believe that when you're comfortable in your clothing, it's a confidence booster."
+
+Minimalist and sleek with a muted palette, Audifferen's designs prioritise functionality. Credit: Christopher Okoigun
+
+That year, he returned to Arise Fashion Week -- but this time, as a designer. "I had worked backstage and coordinated the models; fast-forward years later, I'm on the runway showcasing my pieces. I see that as growth," he said.
+
+After his first appearance on the runway in 2018, Audifferen says his designs started to get more recognition. Featured in magazines including Vogue and Genevieve , his work began attracting the attention of Lagos's fashion-savvy socialites.
+
+Nigeria's flourishing fashion industry
+
+Audifferen is now a key player in Nigeria's flourishing fashion scene, where an increasing number of young designers are taking the spotlight. Of the 30 designers selected for the Covid-compliant Arise Fashion Week in December 2020, 23 were Nigerian, including Audifferen.
+
+A model walks the runway for Tzar Studios during Arise Fashion Week 2020. Credit: CNN
+
+Arise Fashion Week is an important event to help elevate these designers and give their work global exposure, Naomi Campbell told CNN.
+
+"I feel that it's been long going on for too long, that designers on the continent have not gotten a platform in the fashion capitals of the world," said Campbell. "Fashion is not supposed to discriminate, yet we have excluded this part of the world and other emerging markets."
+
+"Fashion is not supposed to discriminate, yet we have excluded this part of the world and other emerging markets." Naomi Campbell, supermodel
+
+Campbell has long been a champion of African designers and creatives, using her star power to bring international attention to events like Arise, and its young designers. Campbell is "excited" by the unique work coming from African designers, which is "stuff that's not everywhere else."
+
+"They need to know that they're recognized and appreciated in the world of creative fashion, like all the other young rising stars in fashion capitals," Campbell said.
+
+Watch the full episode: The young Nigerian fashion creatives going global using tech
+
+While the 2020 showcase was won by fellow Nigerian designer Kenneth Ize , Audifferen said the event was "amazing" and Campbell wearing his design on the runway -- which he has now renamed the "Naomi poncho" -- reminded him why he persevered in fashion for the past decade.
+
+"It's so easy to quit. It's so easy to say, 'Oh, I'm done, this is too much,' because it is overwhelming," Audifferen said. "But moments like that make it worthwhile. You literally live for moments like that."
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Written by Doménica Orellana, CNN
+
+For the artist known as Xopher Wallace, it all started with a recurring dream he had as a child.
+
+In the dream, he would speak to people around him, but they never engaged. When he looked at his reflection, Wallace realized he was only a silhouette.
+
+In 2017, the South African visual artist decided to become "anonymous," taking the alias Xopher Wallace and wearing goggles, a morphsuit and sweatshirt in his photographs to keep his real identity a secret. For him, being anonymous means that people can focus mainly on his art and he can preserve "his authentic character."
+
+"In society I think we're under pressure to only show the good side in our lives, whereas in my work I express even some of my negative feelings or feelings that make me feel uncomfortable," Wallace said.
+
+By using a blend of fine art photography and augmented reality , he merges the real and virtual worlds to bring his dreams to life. Wallace says he is also inspired by the Japanese anime series "Mob Psycho 100," which uses imagery resembling the silhouette in his dreams.
+
+"For me, dealing with empty spaces is also dealing with an empty canvas, so I could decorate it as much as I want," Wallace explained, adding he can shoot day or night, then digitally include extra visual elements such as lights or smoke.
+
+For South Africa's Virtual National Art Festival 2020, Wallace contributed by creating face filters. He also curated an online exhibition called " Afridelic Trip: Faces of Mixed Realities ," for the Fak'ugesi African Digital Innovation Festival, in which Wallace used artworks by fellow South African artist vonMash to design face filters and virtual galleries that presented the themes of "African mysticism and spiritual realms."
+
+The 27-year-old visual artist blends the real world with the virtual one. Credit: Courtesy of Xopher Wallace
+
+When the pandemic prompted nationwide lockdowns, shutting down galleries across the country, Wallace hosted his own online exhibition named "Inside/Outside," inviting other South African visual artists to showcase their work. On the first day alone, Wallace said the event drew nearly 5,000 viewers.
+
+Strengthening that online presence has allowed Wallace to expand the audience for his art, as well as help shine a light on other African digital artists.
+
+"Times are changing," he said. "People are looking into investing into the virtual realm instead of physical spaces."
+
+Scroll through the gallery at the top of this page to see the ways Wallace uses photography and mixed reality to present his dream world.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Inside Africa Protecting South Africa's marine life, one dramatic underwater photo at a time Jo Munnik, CNN • Published 16th October 2020 Email
+
+Cape Town photographer Steve Benjamin is documenting South Africa's marine life with one purpose in mind: to advocate for its protection.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
