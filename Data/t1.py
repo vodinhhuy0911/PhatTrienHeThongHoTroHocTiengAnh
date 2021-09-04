@@ -82,6 +82,27 @@ class FinalAnswer:
                         fa += answer_list[temp]
 
         return "Answer: " + fa
+
+def get_context(path):
+    fread = open(path, "r", encoding="utf-8")
+    txt = fread.read()
+    fread.close()
+    context = txt.split("Questions:")
+    context = context[0].strip()
+    return context
+
+def get_question_list(path):
+    fread = open(path, "r", encoding="utf-8")
+    txt = fread.read()
+    fread.close()
+    context = txt.split("Questions:")
+    question = context[1].strip().split("\n")
+    return question
+
+def get_question(q_list):
+    question = q_list.split("__")
+    return question
+
 SPACY_MODEL = os.environ.get('SPACY_MODEL', 'en_core_web_lg')
 QA_MODEL = os.environ.get('QA_MODEL', 'distilbert-base-cased-distilled-squad')
 nlp = spacy.load(SPACY_MODEL)
@@ -89,31 +110,29 @@ question_processor = QuestionProcessor(nlp)
 passage_retriever = PassageRetrieval(nlp)
 answer_extractor = AnswerExtractor(QA_MODEL, QA_MODEL)
 
-context = """WELCOME TO CLUB DAY!
-Flower Club Meeting: Green thumbs, flower lovers, and romantics alike will enioy this club. Meeting today at 4:00 p.m. in Room 330 of Charlton Hall.
-Stomp Club Meeting: Travel the world and swap valued stamps with fellow collectors. Meeting today at 4:30 p.m. in Room 304 of Janzen Hall.
-Comics Club Meeting: Relive tales of all your favorite Superfriends with fellow comic book lovers. Meeting this evening at 7:30 p.m. in Room 717 of O'Byrne Hall 
-Coin Club Meeting: Our newest club! Come swap coins from around the world. See examples of old coins and new coins, and notes from every corner of the globe. Meeting tonight at 8:00 p.m. in Room 210 of the newly built Ayres Hall."""
+context = get_context("22.txt")
 doc = [context]
 
-question = """Which building was built most retently?"""
-answer_list = []
-answer_list.append("Charlton Hall")
-answer_list.append("Sanzen Hall")
-answer_list.append("0’Byrne Hall")
-answer_list.append("Ayres Hall")
+question_list = get_question_list("22.txt")
+for q in question_list:
+    question = q.split("__")[0]
+    print("\nQuestion: ", question)
+    temp = get_question(q)
+    answer_list = []
+    for i in range(1, 5):
+        if i == 4:
+            answer_list.append(temp[i].split(" ")[0].strip())
+            print(temp[i].split("(")[0].strip())
+        else:
+            answer_list.append(temp[i])
+            print(temp[i])
 
-passage_retriever.fit(doc)
-question = question_processor.generate_question(question)
+    passage_retriever.fit(doc)
+    question = question_processor.generate_question(question)
+    passages = passage_retriever.most_similar(question)
+    answers = answer_extractor.extract(question, passages)
 
-print("\n", question)
-passages = passage_retriever.most_similar(question)
-
-answers = answer_extractor.extract(question, passages)
-for op in answers:
-    print("answer: ", op['answer'])
-
-print("\n" + FinalAnswer.generate(answer_list, answers))
+    print(FinalAnswer.generate(answer_list, answers))
 
 # Query Processing
     # Remove stop words
