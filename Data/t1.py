@@ -120,8 +120,8 @@ for q in question_list:
     temp = get_question(q)
     answer_list = []
     for i in range(1, 5):
-        if i == 4:
-            answer_list.append(temp[i].split(" ")[0].strip())
+        if i == 4 and temp[i].__contains__("("):
+            answer_list.append(temp[i].split("(")[0].strip())
             print(temp[i].split("(")[0].strip())
         else:
             answer_list.append(temp[i])
